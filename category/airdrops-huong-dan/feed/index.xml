@@ -1,0 +1,444 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Airdrops &#8211; Hướng dẫn &#8211; nam3t</title>
+	<atom:link href="/category/airdrops-huong-dan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Thu, 23 Mar 2023 09:45:20 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
+	<title>Airdrops &#8211; Hướng dẫn &#8211; nam3t</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hướng dẫn tham gia testnet Scroll để săn airdrop</title>
+		<link>/huong-dan-tham-gia-testnet-scroll-de-san-airdrop/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=huong-dan-tham-gia-testnet-scroll-de-san-airdrop</link>
+					<comments>/huong-dan-tham-gia-testnet-scroll-de-san-airdrop/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Thu, 16 Mar 2023 04:16:24 +0000</pubDate>
+				<category><![CDATA[Airdrops - Hướng dẫn]]></category>
+		<category><![CDATA[airdrop]]></category>
+		<category><![CDATA[Scroll.io]]></category>
+		<category><![CDATA[Testnet]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=840</guid>
+
+					<description><![CDATA[Giới thiệu Dự án Scroll có thể sẽ airdrop cho người dùng tham gia vào mạng thử nghiệm của họ. Làm theo &#8220;Hướng dẫn tham gia testnet Scroll&#8221; của bọn mình để tham gia mạng thử nghiệm và có khả năng nhận được airdrop. Scroll là gì? Scroll là một nền tảng blockchain zkRollup trên [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Giới thiệu</h2>
+
+
+
+<p>Dự án Scroll có thể sẽ airdrop cho người dùng tham gia vào mạng thử nghiệm của họ. Làm theo &#8220;Hướng dẫn tham gia testnet Scroll&#8221; của bọn mình để tham gia mạng thử nghiệm và có khả năng nhận được airdrop.</p>
+
+
+
+<h2>Scroll là gì?</h2>
+
+
+
+<p><strong>Scroll </strong>là một nền tảng blockchain zkRollup trên zkEVM, được thiết kế để giải quyết các vấn đề liên quan đến tốc độ, chi phí và bảo mật trong giao dịch.</p>
+
+
+
+<h2>Các bước tham gia</h2>
+
+
+
+<h3>Bước 1: Connect ví</h3>
+
+
+
+<p>Dùng ví Metamask để kết nối</p>
+
+
+
+<p>Bạn cần thêm 2 mạng testnet vào Metamask để bắt đầu: Goerli Testnet và Scroll Alpha Testnet. Nếu chưa có thì bạn ấn vào &#8220;Add to MetaMask&#8221; sau khi Connect ví thành công.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="465" src="https://nam3t.com/wp-content/uploads/2023/03/1-ket-noi-vi-1024x465.png" alt="Connect ví" class="wp-image-842" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-1024x465.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-300x136.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-768x349.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-750x341.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-1140x518.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi.png 1383w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hướng dẫn tham gia testnet Scroll để săn airdrop 1"><figcaption class="wp-element-caption">Connect ví</figcaption></figure>
+
+
+
+<h3>Bước 2: Xin faucet</h3>
+
+
+
+<p>Nếu chưa có ETH trên Goerli Testnet thì bạn có thể vào đây để lấy: <a href="https://faucet.quicknode.com/ethereum/goerli" target="_blank" rel="noreferrer noopener">https://faucet.quicknode.com/ethereum/goerli</a></p>
+
+
+
+<h3>Bước 3: Bridge</h3>
+
+
+
+<p>Truy cập: <a href="https://scroll.io/alpha/bridge" target="_blank" rel="noreferrer noopener">https://scroll.io/alpha/bridge</a></p>
+
+
+
+<p>Chuyển ETH từ Goerli Testnet sang Scroll Alpha Testnet.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="897" height="905" src="https://nam3t.com/wp-content/uploads/2023/03/2-bridge.png" alt="Bridge" class="wp-image-843" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge.png 897w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-297x300.png 297w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-150x150.png 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-768x775.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-75x75.png 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-750x757.png 750w" sizes="(max-width: 897px) 100vw, 897px" title="Hướng dẫn tham gia testnet Scroll để săn airdrop 2"><figcaption class="wp-element-caption">Bridge</figcaption></figure>
+
+
+
+<p>Đợi cho giao dịch Bridge thành công và bridge ngược lại Goerli.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="https://nam3t.com/wp-content/uploads/2023/03/3-pending-bridge-1024x614.png" alt="Pending bridge" class="wp-image-844" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-1024x614.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-300x180.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-768x461.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-750x450.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-1140x684.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge.png 1192w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hướng dẫn tham gia testnet Scroll để săn airdrop 3"><figcaption class="wp-element-caption">Pending bridge</figcaption></figure>
+
+
+
+<p>Có thể sẽ mất vài phút để transaction được commit lên blockchain.</p>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/huong-dan-tham-gia-testnet-scroll-de-san-airdrop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Binance &#8211; Hướng dẫn đăng ký và sử dụng sàn giao dịch tiền số lớn nhất thế giới</title>
+		<link>/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi</link>
+					<comments>/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Tue, 07 Mar 2023 18:40:49 +0000</pubDate>
+				<category><![CDATA[Airdrops - Hướng dẫn]]></category>
+		<category><![CDATA[Binance]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=413</guid>
+
+					<description><![CDATA[Nếu bạn đang muốn tham gia vào thị trường tiền số, thì Binance có thể là một trong những sàn giao dịch tốt nhất cho bạn. Đây là một sàn giao dịch tiền số lớn nhất thế giới với hàng trăm đồng tiền số khác nhau được hỗ trợ, và đang thu hút hàng triệu [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Nếu bạn đang muốn tham gia vào thị trường tiền số, thì Binance có thể là một trong những sàn giao dịch tốt nhất cho bạn. Đây là một sàn giao dịch tiền số lớn nhất thế giới với hàng trăm đồng tiền số khác nhau được hỗ trợ, và đang thu hút hàng triệu người dùng trên toàn cầu. Trong bài viết này, chúng tôi sẽ hướng dẫn bạn cách đăng ký và sử dụng sàn giao dịch Binance.</p>
+
+
+
+<h2>Đăng ký tài khoản</h2>
+
+
+
+<p>Để bắt đầu sử dụng Binance, bạn cần phải đăng ký tài khoản trên sàn. Điều này hoàn toàn miễn phí và đơn giản. Bạn chỉ cần truy cập vào trang chủ của Binance (<a href="https://www.binance.com/en" target="_blank" data-type="URL" data-id="https://www.binance.com/en" rel="noreferrer noopener">https://www.binance.com/</a>), sau đó nhấp vào nút &#8220;Đăng ký&#8221; ở góc trên bên phải màn hình. Bạn cũng có thể dùng link này để nhận lại được 10% cho mỗi giao dịch của bạn: <a href="https://accounts.binance.com/vi/register?ref=F6STYKQ6" target="_blank" rel="noreferrer noopener">https://accounts.binance.com/vi/register?ref=F6STYKQ6</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="466" src="https://nam3t.com/wp-content/uploads/2023/03/binance-1024x466.png" alt="Binance - Hướng dẫn đăng ký và sử dụng sàn giao dịch tiền số lớn nhất thế giới 1" class="wp-image-414" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08011359/binance-1024x466.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08011359/binance-300x136.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08011359/binance-768x349.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08011359/binance-1536x699.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08011359/binance-750x341.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08011359/binance-1140x519.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08011359/binance.png 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Binance - Hướng dẫn đăng ký và sử dụng sàn giao dịch tiền số lớn nhất thế giới 4"><figcaption class="wp-element-caption">binance.com</figcaption></figure>
+
+
+
+<p>Bạn sẽ được yêu cầu điền đầy đủ thông tin cá nhân của mình, bao gồm tên đăng nhập, mật khẩu và địa chỉ email. Sau khi nhập đầy đủ thông tin, bạn sẽ nhận được một email xác nhận từ Binance để kích hoạt tài khoản của mình.</p>
+
+
+
+<h2>Xác thực tài khoản</h2>
+
+
+
+<p>Sau khi hoàn tất quá trình đăng ký, bạn sẽ cần xác thực tài khoản của mình để có thể sử dụng đầy đủ các tính năng của Binance. Điều này là cần thiết để đảm bảo tính bảo mật cho tài khoản của bạn.</p>
+
+
+
+<p>Để xác thực tài khoản, bạn cần cung cấp thông tin về giấy tờ tùy thân của mình, như hình ảnh chứng minh thư hoặc hộ chiếu. Sau khi Binance xác nhận thông tin của bạn, tài khoản của bạn sẽ được kích hoạt và bạn có thể bắt đầu sử dụng <a class="wpil_keyword_link" href="https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/" title="sàn giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">sàn giao dịch</a>.</p>
+
+
+
+<h2>Nạp tiền vào tài khoản</h2>
+
+
+
+<p>Trước khi bắt đầu giao dịch, bạn cần phải nạp tiền vào tài khoản của mình trên Binance. Binance hỗ trợ nhiều đồng tiền điện tử khác nhau và các phương thức thanh toán khác nhau, bao gồm tiền mặt, chuyển khoản ngân hàng và thẻ tín dụng.</p>
+
+
+
+<p>Để nạp tiền, bạn chỉ cần nhấp vào biểu tượng tiền của mình ở góc trên bên phải của trang web, sau đó chọn &#8220;Nạp tiền&#8221;. Binance sẽ hiển thị cho bạn địa chỉ ví của đồng tiền bạn muốn nạp vào tài khoản. Bạn chỉ cần sao chép địa chỉ ví này và thực hiện giao dịch từ ví của bạn đến địa chỉ đó. Thời gian nạp tiền sẽ phụ thuộc vào loại đồng tiền và phương thức thanh toán bạn chọn.</p>
+
+
+
+<h2>Giao dịch trên Binance</h2>
+
+
+
+<p>Sau khi nạp tiền vào tài khoản, bạn đã sẵn sàng để bắt đầu giao dịch trên Binance. Binance hỗ trợ nhiều đồng tiền điện tử khác nhau, với các cặp giao dịch như BTC/USDT, ETH/BTC, XRP/ETH, và nhiều hơn nữa. Bạn có thể chọn cặp giao dịch phù hợp với mục đích <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> của mình.</p>
+
+
+
+<p>Để mua hoặc bán đồng tiền, bạn cần vào mục &#8220;Sàn giao dịch&#8221; trên trang web của Binance. Tại đây, bạn có thể chọn cặp giao dịch mà bạn muốn giao dịch, sau đó nhập số lượng đồng tiền bạn muốn mua hoặc bán. Binance sẽ hiển thị cho bạn giá và số tiền mà bạn cần phải thanh toán hoặc nhận được khi thực hiện giao dịch.</p>
+
+
+
+<h2>Rút tiền từ tài khoản</h2>
+
+
+
+<p>Khi bạn muốn rút tiền từ tài khoản Binance, bạn chỉ cần chọn đồng tiền bạn muốn rút và nhập địa chỉ ví của mình. Binance sẽ xác thực giao dịch và thực hiện rút tiền vào ví của bạn. Thời gian rút tiền sẽ phụ thuộc vào loại đồng tiền và phương thức rút tiền bạn chọn.</p>
+
+
+
+<h2>Kết luận</h2>
+
+
+
+<p>Binance là một trong những sàn <a class="wpil_keyword_link" href="https://nam3t.com/giao-dich-tien-dien-tu-can-ban/" title="giao dịch tiền điện tử" data-wpil-keyword-link="linked" target="_blank" rel="noopener">giao dịch tiền điện tử</a> lớn nhất thế giới, với hàng trăm đồng tiền điện tử được hỗ trợ và hàng triệu người dùng trên toàn cầu. Để bắt đầu sử dụng Binance, bạn cần đăng ký tài khoản, xác thực tài khoản và nạp tiền vào tài khoản của mình. Sau đó, bạn có thể bắt đầu giao dịch trên Binance và rút tiền từ tài khoản của mình khi cần thiết. Chúc bạn thành công trong việc đầu tư và giao dịch tiền điện tử trên Binance!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sleepagotchi &#8211; Game nhận token khi đi ngủ</title>
+		<link>/sleepagotchi-nhan-token-khi-di-ngu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=sleepagotchi-nhan-token-khi-di-ngu</link>
+					<comments>/sleepagotchi-nhan-token-khi-di-ngu/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Wed, 01 Mar 2023 11:11:06 +0000</pubDate>
+				<category><![CDATA[Airdrops - Hướng dẫn]]></category>
+		<category><![CDATA[điện thoại]]></category>
+		<category><![CDATA[ngủ]]></category>
+		<category><![CDATA[Sleepagotchi]]></category>
+		<category><![CDATA[ứng dụng]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=196</guid>
+
+					<description><![CDATA[Giới thiệu về dự án &#8211; Sleepagotchi là một ứng dụng trên điện thoại thưởng cho người dùng các vật phẩm số và token (Sheep) khi họ đạt được mục tiêu khi đi ngủ. &#8211; Phiên bản đầu tiên bắt đầu từ giữa năm 2022 và hôm nay ngày 01/03/2023 là ngày đầu tiên của [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="196" class="elementor elementor-196">
+									<section class="elementor-section elementor-top-section elementor-element elementor-element-2e9e3e8f elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="2e9e3e8f" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5f05c8f1" data-id="5f05c8f1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1f056709 elementor-widget elementor-widget-text-editor" data-id="1f056709" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#818a91;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#818a91;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>				<p><!-- wp:heading --></p>
+<h2 id="h-1-giới-thiệu-về-dự-an">Giới thiệu về dự án</h2>
+<p><!-- /wp:heading --><!-- wp:paragraph --></p>
+<p>&#8211; <a href="https://sleepagotchi.com/" target="_blank" rel="noreferrer noopener">Sleepagotchi </a>là một ứng dụng trên điện thoại thưởng cho người dùng <strong>các vật phẩm số và token (Sheep)</strong> khi họ đạt được mục tiêu khi đi ngủ.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Phiên bản đầu tiên bắt đầu từ giữa năm 2022 và hôm nay ngày 01/03/2023 là ngày đầu tiên của Season 2.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Bạn có thể tải game trên <a href="https://apps.apple.com/us/app/sleepagotchi-sleep-tracker/id1619708062" target="_blank" rel="noreferrer noopener">Apple Store</a> hoặc <a href="https://play.google.com/store/apps/details?id=sleep.monitor.sleep.tracker.app" target="_blank" rel="noopener">Android</a>.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Sau khi tải game, đăng ký, bạn có thể nhập <strong>code giới thiệu</strong> để nhận thêm phần thưởng nhé. Code giới thiệu sẽ được cập nhật thường xuyên ở đây. Cụ thể phần thưởng nhận được khi có code:</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<ul>
+<li>Ngày thứ 3: Nhận 1 <b>Common sleepbox</b></li>
+<li>Ngày thứ 7: Nhận 1 <b>Uncommon sleepbox</b></li>
+<li>Ngày thứ 14: Nhận 1 <b>Rare sleepbox</b></li>
+<li>Ngày thứ 30: Nhận 1 <b>SUPER sleepbox</b></li>
+</ul>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --><!-- /wp:list --><!-- wp:paragraph --><!-- /wp:paragraph --></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-73db3b3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="73db3b3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-906fd02" data-id="906fd02" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-fa3afce elementor-flip-box--effect-flip elementor-flip-box--direction-up elementor-widget elementor-widget-flip-box" data-id="fa3afce" data-element_type="widget" data-widget_type="flip-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="/wp-content/plugins/elementor-pro/assets/css/widget-flip-box.min.css">		<div class="elementor-flip-box" tabindex="0">
+			<div class="elementor-flip-box__layer elementor-flip-box__front">
+				<div class="elementor-flip-box__layer__overlay">
+					<div class="elementor-flip-box__layer__inner">
+													<div class="elementor-icon-wrapper elementor-view-default">
+								<div class="elementor-icon">
+									<i class="fas fa-star"></i>								</div>
+							</div>
+						
+													<h3 class="elementor-flip-box__layer__title">
+								Code giới thiệu							</h3>
+						
+											</div>
+				</div>
+			</div>
+			<div class="elementor-flip-box__layer elementor-flip-box__back">
+			<div class="elementor-flip-box__layer__overlay">
+				<div class="elementor-flip-box__layer__inner">
+											<h3 class="elementor-flip-box__layer__title">
+							17785213						</h3>
+					
+					
+											<a class="elementor-flip-box__button elementor-button elementor-size-sm">
+							Cảm ơn						</a>
+								</div>
+		</div>
+		</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0390de3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0390de3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-49ea844" data-id="49ea844" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f1c7b59 elementor-widget elementor-widget-text-editor" data-id="f1c7b59" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&#8211; Discord: <a href="https://discord.com/invite/sleepagotchi" target="_blank" rel="noopener">https://discord.com/invite/sleepagotchi</a></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Twitter: <a href="https://twitter.com/sleepagotchi" target="_blank" rel="noopener">https://twitter.com/sleepagotchi</a></p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Medium: <a href="https://sleepagotchi.medium.com/" target="_blank" rel="noopener">https://sleepagotchi.medium.com/</a></p>
+<p><!-- /wp:paragraph --><!-- wp:heading --></p>
+<h2>Cơ chế hoạt động</h2>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-fa4f9c0 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="fa4f9c0" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-89055a1" data-id="89055a1" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-53dc5bb elementor-widget elementor-widget-image" data-id="53dc5bb" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.11.2 - 22-02-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>									<figure class="wp-caption">
+										<img decoding="async" width="511" height="1024" src="/wp-content/uploads/2023/03/Room-511x1024.png" class="attachment-large size-large wp-image-288" alt="Sleepagotchi - Game nhận token khi đi ngủ 5" srcset="/wp-content/uploads/2023/03/Room-511x1024.png 511w, /wp-content/uploads/2023/03/Room-150x300.png 150w, /wp-content/uploads/2023/03/Room-768x1539.png 768w, /wp-content/uploads/2023/03/Room-767x1536.png 767w, /wp-content/uploads/2023/03/Room-1022x2048.png 1022w, /wp-content/uploads/2023/03/Room-750x1503.png 750w, /wp-content/uploads/2023/03/Room-1140x2284.png 1140w, /wp-content/uploads/2023/03/Room.png 799w" sizes="(max-width: 511px) 100vw, 511px" title="Sleepagotchi - Game nhận token khi đi ngủ 8">											<figcaption class="widget-image-caption wp-caption-text">MetaRoom</figcaption>
+										</figure>
+									</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-f36fda6 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f36fda6" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-7aa9f69" data-id="7aa9f69" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7a2de2a elementor-widget elementor-widget-text-editor" data-id="7a2de2a" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&#8211; Bạn cài đặt giờ ngủ và giờ thức dậy, nếu bạn càng làm chuẩn giờ đó thì bạn càng được thưởng nhiều.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Có 2 loại thưởng:</p>
+<p><!-- /wp:paragraph --><!-- wp:list --></p>
+<ul><!-- wp:list-item -->
+<li>Sheep: token hay tiền tệ trong game, bạn sẽ được nhận sau mỗi giấc ngủ. Có 3 yếu tố tác động đến số lượng bạn nhận được, đó là <strong>thời gian ngủ</strong> (càng nhiều càng tốt, max là theo cài đặt), <strong>ngủ đúng giờ</strong> (càng chuẩn càng tốt), và <strong>đồ đạc trong phòng MetaRoom</strong>.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Vật phẩm: là những vật phẩm sử dụng trong game với những độ hiếm và khả năng khác nhau, càng hiếm thì bạn càng nhận nhiều Sheep. Có chợ trong game để ạn có thể mua bán những vật phẩm này. Mỗi sáng vào app bạn sẽ nhận được 1 hộp &#8220;SleepBoxes&#8221; với những vật phẩm random ở trong. Bạn ngủ càng chuẩn giờ sẽ càng có cơ hội nhận được vật phẩm hiếm hơn.</li>
+</ul>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1f3026d elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="1f3026d" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f5f7779" data-id="f5f7779" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-d7122b4 elementor-widget elementor-widget-image" data-id="d7122b4" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="552" height="1024" src="/wp-content/uploads/2023/03/Market-552x1024.png" class="attachment-large size-large wp-image-289" alt="Sleepagotchi - Game nhận token khi đi ngủ 6" srcset="/wp-content/uploads/2023/03/Market-552x1024.png 552w, /wp-content/uploads/2023/03/Market-162x300.png 162w, /wp-content/uploads/2023/03/Market-768x1425.png 768w, /wp-content/uploads/2023/03/Market-828x1536.png 828w, /wp-content/uploads/2023/03/Market-1104x2048.png 1104w, /wp-content/uploads/2023/03/Market-750x1391.png 750w, /wp-content/uploads/2023/03/Market-1140x2115.png 1140w, /wp-content/uploads/2023/03/Market.png 863w" sizes="(max-width: 552px) 100vw, 552px" title="Sleepagotchi - Game nhận token khi đi ngủ 9">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5d913f9 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5d913f9" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c8b5b13" data-id="c8b5b13" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7ff3276 elementor-widget elementor-widget-text-editor" data-id="7ff3276" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&#8211; Nếu bạn sử dụng những thiết bị đeo tay như Apple Watch, WHOOP, Fitbit, hay Oura ring thì sẽ có cơ hội nhận được nhiều hơn.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Mỗi một vật phẩm ở trong phòng MetaRoom đều sẽ có những thuộc tính sau:</p>
+<p><!-- /wp:paragraph --><!-- wp:list --></p>
+<ul><!-- wp:list-item -->
+<li>Type: loại vật phẩm.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Model: tên vật phẩm.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Power: dùng để tính số Sheep nhận được cho mỗi phút ngủ. Càng cao càng nhiều.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Combo multiplier: nếu các vật phẩm khác loại kết hợp được với nhau sẽ cho thêm token.</li>
+<!-- /wp:list-item --><!-- wp:list-item -->
+<li>Rarity: độ hiếm càng cao càng nhận nhiều token. (Common, Uncommon, Rare, Super, Myth, Secret).</li>
+<!-- /wp:list-item --></ul>
+<p><!-- /wp:list --><!-- wp:paragraph --></p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c5a349c elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c5a349c" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-f4e501c" data-id="f4e501c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2cd8286 elementor-widget elementor-widget-image" data-id="2cd8286" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img decoding="async" width="559" height="1024" src="/wp-content/uploads/2023/03/Items-559x1024.png" class="attachment-large size-large wp-image-290" alt="Sleepagotchi - Game nhận token khi đi ngủ 7" srcset="/wp-content/uploads/2023/03/Items-559x1024.png 559w, /wp-content/uploads/2023/03/Items-164x300.png 164w, /wp-content/uploads/2023/03/Items-768x1406.png 768w, /wp-content/uploads/2023/03/Items-839x1536.png 839w, /wp-content/uploads/2023/03/Items-1119x2048.png 1119w, /wp-content/uploads/2023/03/Items-750x1373.png 750w, /wp-content/uploads/2023/03/Items-1140x2087.png 1140w, /wp-content/uploads/2023/03/Items.png 874w" sizes="(max-width: 559px) 100vw, 559px" title="Sleepagotchi - Game nhận token khi đi ngủ 10">															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b974fb2 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b974fb2" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-faf0cf6" data-id="faf0cf6" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-eac66d8 elementor-widget elementor-widget-text-editor" data-id="eac66d8" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>&#8211; Một vật phẩm sẽ có 3 level. Level càng cao càng nhận nhiều thưởng. Để up 1 level bạn sẽ cần 1 vật phẩm y hệt từ loại, model đến level.</p>
+<p><!-- /wp:paragraph --><!-- wp:heading --></p>
+<h2>Ý kiến và nghiên cứu cá nhân</h2>
+<p><!-- /wp:heading --><!-- wp:paragraph --></p>
+<p>&#8211; Một dự án khá mới nhưng đã có cộng đồng lớn và đã release được app trên cả 2 nền tảng iOS &amp; Android.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Có bước đầu khá giống với trend M2E một thời là StepN.</p>
+<p><!-- /wp:paragraph --><!-- wp:paragraph --></p>
+<p>&#8211; Mới <a href="https://venturebeat.com/games/sleepagotchi-raises-3-5m-to-gamify-sleep-with-digital-collectibles/" target="_blank" rel="noreferrer noopener">raise được $3.5M vòng Seed</a> ngày 17/1/2023, hứa hẹn được tiềm năng trong năm nay.</p>
+<p>&#8211; Aesthetic room chỉ để trang trí cho đẹp, không có tác dụng về mặt kinh tế.</p>
+<h2>Cập nhật 07/03/2023</h2>
+<p>&#8211; Level của mỗi item đã được nâng lên max là 5 (trước là 3).</p>
+<p> </p>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>/sleepagotchi-nhan-token-khi-di-ngu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

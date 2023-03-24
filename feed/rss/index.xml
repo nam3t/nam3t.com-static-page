@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Redirecting...</title>
+		<meta http-equiv="refresh" content="0;url=/feed/?simply_static_page=57294">
+	</head>
+	<body>
+		<script type="text/javascript">
+			window.location = "/feed/?simply_static_page=57294";
+		</script>
+
+		<p>You are being redirected to <a href="/feed/?simply_static_page=57294">/feed/?simply_static_page=57294</a></p>
+	</body>
+</html>
