@@ -1,0 +1,327 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Non-Fungible Token &#8211; nam3t</title>
+	<atom:link href="/tag/non-fungible-token/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Thu, 23 Mar 2023 09:43:26 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
+	<title>Non-Fungible Token &#8211; nam3t</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>NFT (Non-Fungible Token) &#8211; Đột phá trong tiền điện tử và ứng dụng thực tế</title>
+		<link>/nft-non-fungible-token-dot-pha-trong-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=nft-non-fungible-token-dot-pha-trong-tien-dien-tu</link>
+					<comments>/nft-non-fungible-token-dot-pha-trong-tien-dien-tu/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Tue, 21 Mar 2023 14:37:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử nâng cao]]></category>
+		<category><![CDATA[NFT]]></category>
+		<category><![CDATA[Non-Fungible Token]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=911</guid>
+
+					<description><![CDATA[Giới thiệu về NFT (Non-Fungible Token) Trong thế giới tiền mã hóa, NFT (Non-Fungible Token) đang trở thành một đề tài nóng bỏng. NFT là một loại token riêng biệt không thể hoán đổi lẫn nhau, tương tự như các tác phẩm nghệ thuật độc đáo hay những chiếc tem hiếm. Chúng cho phép người [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Giới thiệu về NFT (Non-Fungible Token)</h2>
+
+
+
+<p>Trong thế giới tiền mã hóa, NFT (Non-Fungible Token) đang trở thành một đề tài nóng bỏng. NFT là một loại token riêng biệt không thể hoán đổi lẫn nhau, tương tự như các tác phẩm nghệ thuật độc đáo hay những chiếc tem hiếm. Chúng cho phép người dùng sở hữu, chuyển nhượng và giao dịch các tài sản số độc đáo, từ hình ảnh đến video, nhạc và nhiều hơn thế nữa. NFT hoạt động trên nền tảng blockchain, đặc biệt là Ethereum, và được bảo mật bởi công nghệ hợp đồng thông minh (<a class="wpil_keyword_link" href="https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/" title="smart contract" data-wpil-keyword-link="linked" target="_blank" rel="noopener">smart contract</a>).</p>
+
+
+
+<p>Trong bài viết này, chúng ta sẽ tìm hiểu sâu hơn về <a class="wpil_keyword_link" href="https://nam3t.com/nft-non-fungible-token-dot-pha-trong-tien-dien-tu/" title="NFT" data-wpil-keyword-link="linked" target="_blank" rel="noopener">NFT</a>, các ứng dụng thực tế của chúng, và cách chúng đang thay đổi lĩnh vực tiền điện tử ở Việt Nam.</p>
+
+
+
+<h2>Cách hoạt động của NFT</h2>
+
+
+
+<h3>Khái niệm về Non-Fungible và Fungible</h3>
+
+
+
+<p>Trước khi đi vào chi tiết về NFT, chúng ta cần phân biệt giữa hai thuật ngữ: &#8220;Non-Fungible&#8221; và &#8220;Fungible&#8221;. Fungible là khái niệm chỉ các tài sản có thể hoán đổi lẫn nhau mà không làm thay đổi giá trị. Ví dụ, một đồng Bitcoin có thể hoán đổi với một đồng Bitcoin khác mà không ảnh hưởng đến giá trị của chúng. Tuy nhiên, Non-Fungible lại ngược lại, nó là các tài sản không thể hoán đổi lẫn nhau mà không làm thay đổi giá trị. NFT chính là một ví dụ điển hình cho khái niệm Non-Fungible.</p>
+
+
+
+<h3>NFT và Hợp đồng thông minh</h3>
+
+
+
+<p>NFT được tạo ra và quản lý thông qua hợp đồng thông minh (smart contract) trên nền tảng blockchain. Hợp đồng thông minh là một đoạn mã lập trình tự động thực thi các điều kiện và hành động được xác định sẵn khi một số yêu cầu được thỏa mãn. NFT dựa trên chuẩn ERC-721 của Ethereum, cho phép người dùng tạo, mua bán, chuyển nhượng, và sở hữu các tài sản số độc đáo.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="563" src="https://nam3t.com/wp-content/uploads/2023/03/Ung-dung-cua-NFT.jpg" alt="Ứng dụng thực tế của NFT" class="wp-image-916" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100536/Ung-dung-cua-NFT.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100536/Ung-dung-cua-NFT-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100536/Ung-dung-cua-NFT-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100536/Ung-dung-cua-NFT-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="NFT (Non-Fungible Token) - Đột phá trong tiền điện tử và ứng dụng thực tế 1"><figcaption class="wp-element-caption">Nghệ thuật số</figcaption></figure>
+
+
+
+<h2>Ứng dụng thực tế của NFT</h2>
+
+
+
+<h3>Nghệ thuật số</h3>
+
+
+
+<p>NFT đã mở ra cánh cửa mới cho nghệ thuật số, khi giúp các nghệ sĩ đạt được giá trị và công nhận xứng đáng cho tác phẩm của mình. NFT giúp chứng nhận quyền sở hữu của các tác phẩm nghệ thuật số, đảm bảo rằng chúng không bị sao chép hay phân phối không hợp pháp. Một ví dụ nổi tiếng là tác phẩm &#8220;Everydays: The First 5000 Days&#8221; của nghệ sĩ Beeple, được bán với giá 69 triệu USD thông qua nhà đấu giá Christie&#8217;s.</p>
+
+
+
+<h3>Sưu tập và thị trường đấu giá</h3>
+
+
+
+<p>NFT cũng được sử dụng rộng rãi trong lĩnh vực sưu tập và thị trường đấu giá. Các tài sản hiếm như tem, tiền xu, hoặc thẻ cầu thủ bóng đá có thể được mã hóa dưới dạng NFT và giao dịch trên thị trường. Một ví dụ nổi bật là dự án CryptoPunks, bao gồm 10.000 hình ảnh độc đáo của nhân vật 8-bit, mỗi hình ảnh đại diện cho một NFT và được xem là một trong những dự án NFT đầu tiên trên nền tảng Ethereum.</p>
+
+
+
+<h3>Trò chơi và giải trí</h3>
+
+
+
+<p>NFT cũng đang thay đổi cách chúng ta tương tác với trò chơi và giải trí. Các nhà phát triển trò chơi có thể tạo ra các đồ vật, nhân vật, và kỹ năng độc đáo dưới dạng NFT để người chơi mua, bán, hoặc trao đổi. Một ví dụ nổi tiếng là trò chơi CryptoKitties, nơi người chơi có thể nuôi, lai tạo và giao dịch những chú mèo ảo độc đáo.</p>
+
+
+
+<h2>NFT và tài chính phi tập trung (DeFi)</h2>
+
+
+
+<p>NFT không chỉ giới hạn trong lĩnh vực nghệ thuật số, trò chơi và giải trí, mà còn đóng vai trò quan trọng trong ngành công nghiệp tài chính phi tập trung (DeFi). Một số ứng dụng của NFT trong DeFi bao gồm:</p>
+
+
+
+<ul>
+<li><strong>NFT dựa trên cho vay, vay và staking</strong>: Các dự án DeFi như Aavegotchi và NFTfi đang sử dụng NFT như một loại tài sản thế chấp cho các khoản vay. Người dùng có thể vay tiền bằng cách đặt NFT của họ làm tài sản đảm bảo và sau đó trả lại khoản vay để giải phóng NFT.</li>
+
+
+
+<li><strong>Token hóa tài sản thế giới thực</strong>: NFT cũng có thể được sử dụng để biểu diễn tài sản thế giới thực, như bất động sản, nghệ thuật vật lý và hàng hóa. Điều này cho phép chủ sở hữu tài sản tận dụng giá trị của tài sản thông qua các giao dịch tài chính phi tập trung.</li>
+
+
+
+<li><strong>Tích hợp NFT vào các sản phẩm DeFi</strong>: NFT đang được tích hợp vào các giao thức DeFi để cải thiện trải nghiệm người dùng và tạo ra các sản phẩm tài chính mới. Ví dụ, dự án Yearn Finance đã phát hành NFT để biểu diễn các quyền sở hữu của người dùng trong các giao dịch DeFi của họ.</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="533" src="https://nam3t.com/wp-content/uploads/2023/03/NFT-marketplace.jpg" alt="NFT marketplace" class="wp-image-917" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100625/NFT-marketplace.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100625/NFT-marketplace-300x160.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100625/NFT-marketplace-768x409.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100625/NFT-marketplace-750x400.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="NFT (Non-Fungible Token) - Đột phá trong tiền điện tử và ứng dụng thực tế 2"><figcaption class="wp-element-caption">NFT marketplace</figcaption></figure>
+
+
+
+<h2>Hướng dẫn mua, bán và lưu trữ NFT</h2>
+
+
+
+<p>Để mua, bán và lưu trữ NFT, bạn cần thực hiện các bước sau:</p>
+
+
+
+<ol>
+<li><strong>Chọn ví tiền điện tử phù hợp</strong>: Chọn một ví hỗ trợ NFT, chẳng hạn như MetaMask, Trust Wallet hoặc Phatom. Tạo một tài khoản và lưu trữ khóa riêng tư của bạn một cách an toàn.</li>
+
+
+
+<li><strong>Chọn nền tảng thương mại phù hợp</strong>: Có nhiều nền tảng thương mại NFT phổ biến như OpenSea, Rarible và MagicEden. Chọn một nền tảng phù hợp với nhu cầu và yêu cầu của bạn.</li>
+
+
+
+<li><strong>Kết nối ví của bạn với nền tảng NFT</strong>: Kết nối ví tiền điện tử của bạn với nền tảng thương mại NFT để bắt đầu mua, bán và lưu trữ NFT.</li>
+
+
+
+<li><strong>Tìm kiếm và mua NFT</strong>: Duyệt qua danh mục của nền tảng thương mại NFT để tìm NFT bạn quan tâm. Sau khi tìm thấy NFT mong muốn, bạn có thể mua nó bằng cách sử dụng tiền mã hóa được hỗ trợ, chẳng hạn như Ethereum (ETH) hoặc Binance Smart Chain (BNB).</li>
+
+
+
+<li><strong>Bán NFT của bạn</strong>: Để bán NFT, đăng nhập vào nền tảng thương mại và đăng ký NFT của bạn để bán. Bạn có thể thiết lập giá bán cố định hoặc đưa ra đấu giá. Khi một người mua đồng ý với giá của bạn, giao dịch sẽ được thực hiện và bạn sẽ nhận được tiền mã hóa trong ví của mình.</li>
+
+
+
+<li><strong>Lưu trữ NFT của bạn</strong>: NFT của bạn sẽ được lưu trữ trong ví tiền điện tử đã kết nối với nền tảng thương mại NFT. Đảm bảo rằng bạn luôn giữ an toàn khóa riêng tư của mình để bảo vệ NFT và tài sản tiền mã hóa khác.</li>
+</ol>
+
+
+
+<h2>Rủi ro và những điều cần lưu ý khi đầu tư vào NFT</h2>
+
+
+
+<p>Trước khi <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> vào NFT, bạn cần xem xét các rủi ro và những điều sau đây:</p>
+
+
+
+<ol>
+<li><strong>Biến động giá</strong>: Giá trị của NFT có thể thay đổi đáng kể trong thời gian ngắn, tương tự như tiền mã hóa khác. Đảm bảo rằng bạn đầu tư một cách cẩn trọng và không đặt tất cả số tiền của mình vào một NFT.</li>
+
+
+
+<li><strong>Sự phân tán của thị trường</strong>: Thị trường NFT vẫn còn non trẻ và có nhiều dự án cạnh tranh. Điều này có nghĩa là giá trị của một NFT cụ thể có thể bị ảnh hưởng bởi sự ra đời của các dự án mới và cạnh tranh.</li>
+
+
+
+<li><strong>Lừa đảo và hành vi không đạo đức</strong>: Như bất kỳ lĩnh vực nào khác, thị trường NFT cũng có những người lừa đảo và hành vi không đạo đức. Hãy nghiên cứu kỹ lưỡng trước khi đầu tư và chỉ mua NFT từ các nền tảng uy tín.</li>
+
+
+
+<li><strong>Bảo mật và khóa riêng tư</strong>: Bảo vệ khóa riêng tư của bạn là rất quan trọng khi đầu tư vào NFT. Nếu bạn mất khóa riêng tư, bạn có thể mất quyền sở hữu đối với NFT và các tài sản tiền mã hóa khác trong ví của mình. Hãy đảm bảo lưu trữ khóa riêng tư của bạn một cách an toàn và sử dụng các biện pháp bảo mật như xác minh hai yếu tố (2FA).</li>
+
+
+
+<li><strong>Vấn đề pháp lý và quy định</strong>: Quy định về NFT và tiền mã hóa vẫn đang phát triển và có thể thay đổi tùy thuộc vào quốc gia. Hãy nắm vững luật pháp về tiền mã hóa tại Việt Nam và các quy định liên quan để tránh rủi ro pháp lý.</li>
+
+
+
+<li><strong>Khả năng mở rộng và tính liên kết</strong>: Một số NFT có giá trị cao vì tính hiếm có và độc đáo, nhưng hãy cân nhắc về khả năng mở rộng và tính liên kết của NFT với các ứng dụng và dự án khác. Đầu tư vào NFT có tiềm năng ứng dụng rộng rãi có thể mang lại lợi nhuận cao hơn trong tương lai.</li>
+
+
+
+<li><strong>Đánh giá giá trị và độ hiếm của NFT</strong>: Trước khi đầu tư vào NFT, hãy nghiên cứu kỹ lưỡng và đánh giá giá trị thực sự của nó. Một số NFT có giá trị cao vì độ hiếm và sự kết nối với các nhân vật nổi tiếng, trong khi các NFT khác có giá trị cao do tiềm năng ứng dụng và sự đổi mới.</li>
+</ol>
+
+
+
+<p>Bằng cách xem xét những rủi ro và lưu ý trên, bạn có thể đưa ra quyết định đầu tư thông minh hơn và tận dụng tối đa tiềm năng của NFT trong thị trường tiền mã hóa.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="643" src="https://nam3t.com/wp-content/uploads/2023/03/Rui-ro-cua-NFT.jpg" alt="Rủi ro của NFT" class="wp-image-918" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100730/Rui-ro-cua-NFT.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100730/Rui-ro-cua-NFT-300x193.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100730/Rui-ro-cua-NFT-768x494.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21100730/Rui-ro-cua-NFT-750x482.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="NFT (Non-Fungible Token) - Đột phá trong tiền điện tử và ứng dụng thực tế 3"><figcaption class="wp-element-caption">Rủi ro của NFT</figcaption></figure>
+
+
+
+<h2>Tình hình NFT tại Việt Nam</h2>
+
+
+
+<h3>Sự thay đổi của tiền mã hóa ở Việt Nam</h3>
+
+
+
+<p>Việt Nam là một trong những quốc gia có sự phát triển nhanh chóng trong lĩnh vực tiền mã hóa và <a class="wpil_keyword_link" href="https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/" title="công nghệ blockchain" data-wpil-keyword-link="linked" target="_blank" rel="noopener">công nghệ blockchain</a>. Sự ra đời của NFT đã mở ra nhiều cơ hội mới cho các nghệ sĩ, nhà phát triển trò chơi và nhà đầu tư Việt Nam. Nhiều dự án NFT trong nước đã thu hút sự chú ý của cộng đồng quốc tế, chẳng hạn như dự án &#8220;My DeFi Pet&#8221;, một trò chơi nuôi thú ảo kết hợp với các yếu tố DeFi (Decentralized Finance) và NFT.</p>
+
+
+
+<h3>Các cơ quan quản lý tiền mã hóa ở Việt Nam</h3>
+
+
+
+<p>Tuy nhiên, sự phát triển của NFT cũng đặt ra nhiều thách thức về pháp lý và quản lý. Các cơ quan quản lý tiền mã hóa ở Việt Nam, như Ngân hàng Nhà nước Việt Nam (SBV), Bộ Công Thương và Bộ Tài chính, đang theo dõi sát sao và nghiên cứu đề xuất các quy định phù hợp cho hoạt động NFT trong nước. Việc điều chỉnh pháp lý sẽ đảm bảo rằng NFT phát triển một cách bền vững, hạn chế rủi ro và bảo vệ người tiêu dùng.</p>
+
+
+
+<h3>Đầu tư và hợp tác trong lĩnh vực NFT</h3>
+
+
+
+<p>Sự phát triển của NFT tại Việt Nam cũng thu hút sự quan tâm của các nhà đầu tư và doanh nghiệp. Nhiều công ty trong và ngoài nước đang tìm kiếm cơ hội hợp tác và đầu tư vào các dự án NFT tiềm năng. Điều này không chỉ thúc đẩy sự phát triển của ngành công nghiệp NFT mà còn góp phần đưa Việt Nam trở thành một trung tâm tiền mã hóa hàng đầu khu vực.</p>
+
+
+
+<h2>Kết luận</h2>
+
+
+
+<p>NFT là một đột phá công nghệ đầy hứa hẹn trong lĩnh vực tiền mã hóa, mở ra nhiều cơ hội mới cho nghệ thuật số, trò chơi và giải trí, cũng như sưu tập và đấu giá. Tại Việt Nam, sự phát triển của NFT đang tạo ra nhiều cơ hội hấp dẫn cho các nghệ sĩ, nhà đầu tư và doanh nghiệp. Tuy nhiên, việc đảm bảo sự phát triển bền vững của NFT cũng đòi hỏi sự điều chỉnh pháp lý và quản lý phù hợp từ các cơ quan chức năng.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Nguồn tham khảo:</p>
+
+
+
+<ol>
+<li><a href="https://academy.binance.com/vi" target="_blank" rel="noopener">Binance Academy</a></li>
+
+
+
+<li><a href="https://cointelegraph.com/explained" target="_blank" rel="noopener">Cointelegraph Explained</a></li>
+
+
+
+<li><a href="https://ethereum.org/en/developers/" target="_blank" data-type="URL" data-id="https://ethereum.org/en/developers/" rel="noreferrer noopener">ERC-721 Token Standard</a></li>
+
+
+
+<li><a href="https://www.larvalabs.com/cryptopunks" target="_blank" data-type="URL" data-id="https://www.larvalabs.com/cryptopunks" rel="noreferrer noopener">CryptoPunks</a></li>
+
+
+
+<li><a href="https://www.cryptokitties.co/" target="_blank" rel="noopener">CryptoKitties</a></li>
+
+
+
+<li><a href="https://www.christies.com/features/Monumental-collage-by-Beeple-is-first-purely-digital-artwork-NFT-to-come-to-auction-11510-7.aspx" target="_blank" rel="noopener">Beeple&#8217;s &#8220;Everydays: The First 5000 Days&#8221;</a></li>
+
+
+
+<li><a href="https://mydefipet.com/" target="_blank" rel="noopener">My DeFi Pet</a></li>
+
+
+
+<li><a href="https://www.sbv.gov.vn/webcenter/portal/vi/menu/trangchu?_afrLoop=15556885032158034" target="_blank" data-type="URL" data-id="https://www.sbv.gov.vn/webcenter/portal/vi/menu/trangchu?_afrLoop=15556885032158034" rel="noreferrer noopener">Ngân hàng Nhà nước Việt Nam (SBV)</a></li>
+
+
+
+<li><a href="https://www.moit.gov.vn/" target="_blank" rel="noopener">Bộ Công Thương Việt Nam</a></li>
+
+
+
+<li><a href="http://www.mof.gov.vn/webcenter/portal/btcvn" target="_blank" data-type="URL" data-id="http://www.mof.gov.vn/webcenter/portal/btcvn" rel="noreferrer noopener">Bộ Tài chính Việt Nam</a></li>
+</ol>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Chúng ta đã cung cấp một cái nhìn tổng quan về NFT, cách chúng hoạt động và các ứng dụng thực tế trong nghệ thuật số, sưu tập, đấu giá, trò chơi và giải trí. Tại Việt Nam, NFT đang thu hút sự quan tâm của cộng đồng tiền mã hóa, các nghệ sĩ, nhà đầu tư và doanh nghiệp. Tuy nhiên, để đảm bảo sự phát triển bền vững của NFT, các cơ quan chức năng cần tiếp tục nghiên cứu và đề xuất các quy định phù hợp với hoạt động NFT trong nước.</p>
+
+
+
+<p>Trong các bài viết tiếp theo, chúng ta sẽ đi sâu vào từng ứng dụng của NFT, phân tích các dự án tiềm năng và những thách thức mà chúng đang đối mặt. Đồng thời, chúng ta cũng sẽ tìm hiểu về cách thức đầu tư vào NFT, các rủi ro và cơ hội mà nó mang lại cho nhà đầu tư Việt Nam.</p>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/nft-non-fungible-token-dot-pha-trong-tien-dien-tu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

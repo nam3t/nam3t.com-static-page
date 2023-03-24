@@ -1,0 +1,1 @@
+jQuery(window).on("elementor/frontend/init",function(){window.elementorFrontend&&elementorFrontend.hooks.addAction("frontend/element_ready/widget",function(n){newsy.block_ajax&&newsy.block_ajax.init(n)})});

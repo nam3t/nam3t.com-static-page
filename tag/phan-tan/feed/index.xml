@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Phân tán &#8211; nam3t</title>
+	<atom:link href="/tag/phan-tan/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Wed, 15 Mar 2023 07:11:02 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
+	<title>Phân tán &#8211; nam3t</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Phi tập trung là gì và Tầm quan trọng</title>
+		<link>/phi-tap-trung-la-gi-va-tam-quan-trong/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=phi-tap-trung-la-gi-va-tam-quan-trong</link>
+					<comments>/phi-tap-trung-la-gi-va-tam-quan-trong/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2023 00:27:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử căn bản]]></category>
+		<category><![CDATA[Decentralized]]></category>
+		<category><![CDATA[Phân tán]]></category>
+		<category><![CDATA[Phi tập trung]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=694</guid>
+
+					<description><![CDATA[Giới thiệu Phi tập trung là một khái niệm quan trọng trong thế giới tiền điện tử và công nghệ blockchain. Nhưng nó có nghĩa là gì và tại sao nó lại quan trọng như vậy? Trong bài &#8220;Phi tập trung là gì và Tầm quan trọng&#8221; này, chúng ta sẽ khám phá những kiến [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Giới thiệu</h2>
+
+
+
+<p>Phi tập trung là một khái niệm quan trọng trong thế giới tiền điện tử và công nghệ blockchain. Nhưng nó có nghĩa là gì và tại sao nó lại quan trọng như vậy? Trong bài &#8220;<strong>Phi tập trung là gì và Tầm quan trọng</strong>&#8221; này, chúng ta sẽ khám phá những kiến ​​thức cơ bản về phi tập trung hóa và tầm quan trọng của nó trong bối cảnh kỹ thuật số ngày nay.</p>
+
+
+
+<h2>Tập trung và Phi tập trung</h2>
+
+
+
+<h3>Định nghĩa</h3>
+
+
+
+<p><strong>Phi tập trung</strong> <strong>(Decentralization)</strong> là một tính chất của mạng lưới tiền điện tử và blockchain, trong đó dữ liệu và quyết định được phân phối đều trong toàn bộ mạng lưới thay vì tập trung tại một nơi như các trung tâm dữ liệu truyền thống.</p>
+
+
+
+<p><strong>Tập trung (Centralization)</strong> là sự tập trung và quyết định trong tay một cơ quan hoặc tổ chức trung tâm. Đây là một khái niệm quan trọng trong nhiều lĩnh vực, bao gồm cả chính trị, kinh tế và công nghệ.</p>
+
+
+
+<h3>Sự khác biệt giữa tập trung và phi tập trung</h3>
+
+
+
+<p>Phi tập trung là điểm khác biệt lớn nhất giữa tiền điện tử và tiền tệ truyền thống. Tiền tệ truyền thống có sự tham gia của các tổ chức tài chính và chính phủ để quản lý và điều hành, trong khi đó tiền điện tử hoàn toàn được phi tập trung, không có bất kỳ tổ chức nào kiểm soát hoặc quản lý hoạt động của nó.</p>
+
+
+
+<p>Phi tập trung cũng là một khía cạnh quan trọng trong việc đảm bảo tính bảo mật của tiền điện tử. Với hệ thống phi tập trung, không có điểm tập trung nào cho kẻ tấn công tập trung tấn công và lấy cắp thông tin. Do đó, tiền điện tử được coi là an toàn hơn so với các hình thức thanh toán truyền thống.</p>
+
+
+
+<p>Trong các hệ thống tập trung, những người đứng đầu chịu trách nhiệm về các quyết định quan trọng, dẫn đến rủi ro của sự cố khi một điểm duy nhất gây lỗi. Tuy nhiên, trong hệ thống phi tập trung, quyết định được phân tán trên nhiều nút, giảm thiểu rủi ro của một điểm duy nhất gây lỗi. Điều này tăng cường sự ổn định và khả năng thích ứng của hệ thống.</p>
+
+
+
+<p>Ví dụ về sự phân tán quyết định là Ethereum, một nền tảng blockchain phi tập trung cho phép các ứng dụng được phát triển và triển khai trên nó. Các quyết định được đưa ra bởi cộng đồng các nhà phát triển, giúp cho Ethereum trở nên linh hoạt hơn trong việc thích ứng với các thay đổi và tình huống khác nhau.</p>
+
+
+
+<h3>Ví dụ về các hệ thống tập trung</h3>
+
+
+
+<p>Các ví dụ về hệ thống tập trung bao gồm các ngân hàng truyền thống, các tổ chức chính phủ và các nền tảng mạng xã hội. Những hệ thống này thường được thiết lập và duy trì bởi các cơ quan quản lý trung ương.</p>
+
+
+
+<p>Trong lĩnh vực ngân hàng, hầu hết các ngân hàng truyền thống đều có một hệ thống quản lý tập trung, trong đó quyền lực và quyết định nằm trong tay các quan chức cấp cao. Điều này có thể gây ra một số vấn đề, bao gồm mất mát thông tin, rủi ro an ninh và giảm tính minh bạch trong quyết định kinh doanh.</p>
+
+
+
+<p>Các tổ chức chính phủ cũng là các ví dụ của hệ thống tập trung, với các quyết định và quyền lực được tập trung ở tầng lãnh đạo. Tuy nhiên, trong một số trường hợp, các tổ chức chính phủ đã áp dụng các cơ chế tập trung để đảm bảo an ninh quốc gia hoặc tránh các vấn đề phức tạp khác.</p>
+
+
+
+<p>Các nền tảng mạng xã hội như Facebook và Twitter cũng là những ví dụ về hệ thống tập trung. Các quyết định về chính sách và nội dung được đưa ra bởi một nhóm nhỏ các quản trị viên, trong khi các người dùng không có nhiều quyền lực trong việc quyết định các vấn đề liên quan đến nội dung.</p>
+
+
+
+<h2>Lợi ích của hệ thống phi tập trung</h2>
+
+
+
+<h3>Tăng độ bảo mật và độ tin cậy</h3>
+
+
+
+<p>Trong một hệ thống tập trung, sự tập trung quyền lực và dữ liệu tạo ra <strong>điểm thất bại đơn lẻ (A single point of failure)</strong> và dễ dàng bị tấn công. Nếu một điểm đó bị tấn công thành công, toàn bộ hệ thống sẽ bị ảnh hưởng. </p>
+
+
+
+<p>Với Decentralization, dữ liệu và quyết định được phân tán trên nhiều nút, giúp giảm thiểu nguy cơ tấn công và đảm bảo an ninh. Các hệ thống Decentralized như Bitcoin hay Ethereum được tạo ra để giảm thiểu nguy cơ một điểm thất bại đơn lẻ. Trong một mạng lưới Decentralized, các giao dịch được xác thực bởi nhiều nút khác nhau, giúp giảm thiểu rủi ro bị tấn công hoặc bị gian lận.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/03/Tang-do-bao-mat-va-do-tin-cay-1024x683.jpg" alt="Phi tập trung là gì và Tầm quan trọng 1" class="wp-image-714" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/13192119/Tang-do-bao-mat-va-do-tin-cay-1024x683.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/13192119/Tang-do-bao-mat-va-do-tin-cay-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/13192119/Tang-do-bao-mat-va-do-tin-cay-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/13192119/Tang-do-bao-mat-va-do-tin-cay-1536x1024.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/13192119/Tang-do-bao-mat-va-do-tin-cay-2048x1365.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/13192119/Tang-do-bao-mat-va-do-tin-cay-750x500.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/13192119/Tang-do-bao-mat-va-do-tin-cay-1140x760.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/13192119/Tang-do-bao-mat-va-do-tin-cay-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Phi tập trung là gì và Tầm quan trọng 1"><figcaption class="wp-element-caption">Tăng độ bảo mật và độ tin cậy</figcaption></figure>
+
+
+
+<h3>Chống lại sự kiểm duyệt và can thiệp từ cơ quan có thẩm quyền</h3>
+
+
+
+<p>Điều quan trọng khi nói về việc quyền lực phi tập trung là khả năng chống lại sự kiểm duyệt và can thiệp của cơ quan có thẩm quyền. Trong các hệ thống tập trung, các quyết định và quyền kiểm soát đều nằm trong tay một tổ chức trung tâm, điều này dễ dàng khiến các bên liên quan bị kiểm soát và giám sát. </p>
+
+
+
+<p>Tuy nhiên, với sự phân tán quyền lực, các quyết định được đưa ra thông qua việc phân tán quyền kiểm soát và quyền ra quyết định trên nhiều người dùng khác nhau. Điều này đảm bảo rằng không có một người hoặc tổ chức nào có thể kiểm soát và can thiệp vào hệ thống.</p>
+
+
+
+<p>Điều này đặc biệt quan trọng trong lĩnh vực tiền điện tử và blockchain, nơi các dữ liệu và giao dịch được phân tán trên nhiều người dùng và các nút khác nhau trên mạng. Khi thông tin được phân tán đều trên nhiều người dùng, thì không có ai có thể kiểm soát hoặc thay đổi dữ liệu đó một cách độc hại mà không bị phát hiện. Bất cứ ai cũng có thể kiểm tra và đánh giá tính xác thực của thông tin đó. Điều này giúp đảm bảo tính minh bạch và tránh sự can thiệp của các bên thứ ba, chẳng hạn như chính phủ.</p>
+
+
+
+<h3>Trao quyền lực cho các cá nhân và cộng đồng</h3>
+
+
+
+<p>Phi tập trung giúp cho cá nhân và cộng đồng được <strong>tự quyết định về dữ liệu</strong> và<strong> tài nguyên của mình</strong>. Thay vì dữ liệu của họ bị kiểm soát bởi một số ít đối tượng tập trung, phi tập trung cho phép họ kiểm soát tài nguyên của mình và có quyền quyết định sử dụng như thế nào. Điều này tạo ra sự tự chủ cho cá nhân và cộng đồng, cho phép họ tự quyết định và điều khiển tài nguyên của mình mà không cần phải đưa ra quyết định qua một số lượng ít những đối tượng quyền lực.</p>
+
+
+
+<p>Đối với cá nhân, sự phân tán giúp họ có thể giữ lại quyền sở hữu và kiểm soát dữ liệu của mình, chẳng hạn như thông tin cá nhân, lịch sử giao dịch hay tài sản điện tử. Họ có thể đưa ra quyết định mà không cần phải nhờ đến sự cho phép hay giám sát từ bất kỳ đối tượng nào. Điều này giúp đảm bảo rằng các dữ liệu và tài nguyên của họ không bị lộ ra hoặc bị đánh cắp.</p>
+
+
+
+<p>Đối với cộng đồng, sự phân tán giúp cho họ có thể kiểm soát và quản lý các tài nguyên của mình, chẳng hạn như điện năng, đất đai hay tài sản chung. Họ có thể quyết định sử dụng tài nguyên này như thế nào, đưa ra các quyết định về <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> hay phát triển một cách độc lập và không phải dựa vào sự cho phép của một nhóm người đứng đầu.</p>
+
+
+
+<p>Trong cả hai trường hợp, sự phân tán mang lại cho cá nhân và cộng đồng quyền kiểm soát tài nguyên của mình và có thể tạo ra sự tự chủ. Họ không phải dựa vào sự cho phép hay kiểm soát của bất kỳ đối tượng nào, giúp cho họ có thể đưa ra các quyết định một cách độc lập và đưa ra các quyết định về việc sử dụng tài nguyên của mình.</p>
+
+
+
+<h2>Phi tập trung trong Tiền điện tử và Công nghệ Blockchain</h2>
+
+
+
+<h3>Nguyên lý căn bản</h3>
+
+
+
+<p>Điều quan trọng nhất trong việc hiểu về tiền điện tử và <a class="wpil_keyword_link" href="https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/" title="công nghệ blockchain" data-wpil-keyword-link="linked" target="_blank" rel="noopener">công nghệ blockchain</a> là khái niệm phân tán. Decentralization là một nguyên tắc cốt lõi của cả hai lĩnh vực này. Điều này cho phép việc quyết định và kiểm soát được phân tán đến nhiều bên, chứ không phải tập trung ở một chỗ. Điều này làm giảm nguy cơ một điểm phát sinh lỗi (SPOF), gây ra sự cố hoặc hack, do đó tăng cường tính bảo mật cho các hệ thống này.</p>
+
+
+
+<p>Trong hệ thống tập trung, quyền lực và quyết định nằm trong tay các tổ chức trung tâm hoặc cá nhân. Trong khi đó, trong hệ thống phân tán, quyền lực và quyết định được phân tán đến cộng đồng người dùng. Hệ thống phân tán này cho phép mọi người có thể tham gia vào quyết định, đảm bảo tính minh bạch và trách nhiệm đối với quyết định được đưa ra. Điều này cũng làm giảm khả năng bị can thiệp từ phía các tổ chức tập trung hoặc chính phủ.</p>
+
+
+
+<h3>Cơ chế đồng thuận (Consensus Mechanism)</h3>
+
+
+
+<p>Điều quan trọng nhất của việc phân tán là việc đạt được sự thống nhất giữa các bên tham gia mà không cần phải phụ thuộc vào một cơ quan trung ương. Điều này được đạt được thông qua các cơ chế đồng thuận như chứng minh công việc và chứng minh cổ phần, được biết đến là proof-of-work và proof-of-stake.</p>
+
+
+
+<p>Với các cơ chế đồng thuận này, các bên tham gia trong mạng có thể đạt được thỏa thuận một cách nhanh chóng và hiệu quả hơn mà không cần phải phụ thuộc vào một cơ quan trung ương. Điều này làm cho phân tán trở nên thực sự hiệu quả và trở thành một trong những yếu tố chính đóng vai trò quan trọng trong việc xây dựng một hệ thống phi tập trung.</p>
+
+
+
+<h3>Ví dụ về các loại tiền điện tử phi tập trung</h3>
+
+
+
+<p>Các loại tiền điện tử phi tập trung là những loại tiền mà không được kiểm soát hoặc quản lý bởi một tổ chức trung tâm. Thay vào đó, chúng được xác thực và quản lý bởi một mạng lưới phân tán. Bitcoin, Ethereum và Litecoin là ba trong số những loại tiền điện tử phi tập trung phổ biến nhất.</p>
+
+
+
+<p>Bitcoin là loại tiền điện tử phi tập trung đầu tiên và phổ biến nhất trên thế giới. Nó được tạo ra vào năm 2009 và được quản lý bởi một mạng lưới người dùng trên toàn thế giới. Bitcoin được xác thực và lưu trữ trên blockchain, một công nghệ đóng vai trò quan trọng trong việc đảm bảo tính toàn vẹn của giao dịch và ngăn chặn các hành vi gian lận.</p>
+
+
+
+<p>Ethereum cũng là một trong những loại tiền điện tử phi tập trung phổ biến nhất. Nó cung cấp một nền tảng để phát triển và triển khai các ứng dụng phi tập trung. Ethereum cũng được quản lý bởi một mạng lưới người dùng phân tán trên toàn thế giới. Một trong những tính năng nổi bật của Ethereum là <a class="wpil_keyword_link" href="https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/" title="hợp đồng thông minh" data-wpil-keyword-link="linked" target="_blank" rel="noopener">hợp đồng thông minh</a>, cho phép các ứng dụng được tạo ra và triển khai một cách tự động và không cần trung gian.</p>
+
+
+
+<p>Litecoin là một loại tiền điện tử phi tập trung khác được phát triển vào năm 2011. Nó giống như Bitcoin với một số cải tiến nhỏ như tốc độ giao dịch nhanh hơn và chi phí giao dịch thấp hơn. Litecoin cũng được quản lý bởi một mạng lưới người dùng phân tán trên toàn thế giới.</p>
+
+
+
+<h3>Ví dụ về các dự án phi tập trung</h3>
+
+
+
+<p>Ví dụ về các sàn giao dịch phi tập trung là <a href="https://uniswap.org/" target="_blank" rel="noreferrer noopener">Uniswap</a> và <a href="https://pancakeswap.finance/" target="_blank" rel="noreferrer noopener">PancakeSwap</a>, hai sàn giao dịch được phổ biến rộng rãi trong cộng đồng tiền điện tử. Uniswap sử dụng giao thức tự động làm thị trường (AMM) để cung cấp một giao dịch phi tập trung và nhanh chóng cho người dùng. PancakeSwap là một <a class="wpil_keyword_link" href="https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/" title="sàn giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">sàn giao dịch</a> phi tập trung chạy trên blockchain Binance Smart Chain, được xây dựng để cung cấp cho người dùng giao dịch các token Binance Smart Chain và token phổ biến khác.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://pancakeswap.finance/_next/image?url=%2F_next%2Fstatic%2Fmedia%2Fastronaut-bunny.eacc4c8c.png&amp;w=1080&amp;q=75" alt="dự án phi tập trung" title="Phi tập trung là gì và Tầm quan trọng 2"><figcaption class="wp-element-caption">Pancakeswap &#8211; dự án phi tập trung</figcaption></figure>
+
+
+
+<p>Các giao thức DeFi phi tập trung là <a href="https://compound.finance/" target="_blank" rel="noreferrer noopener">Compound</a> và <a href="https://aave.com/" target="_blank" rel="noreferrer noopener">Aave</a>, được sử dụng rộng rãi trong cộng đồng tiền điện tử. Compound cho phép người dùng gửi tiền và nhận lãi suất trên các khoản vay phi tập trung, trong khi Aave cung cấp một nền tảng vay phi tập trung cho các loại tiền điện tử. Cả hai giao thức này đều được xây dựng trên blockchain Ethereum và được sử dụng để cung cấp các sản phẩm tài chính phi tập trung cho người dùng.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" src="https://aave.com/governanceGhosts.svg" alt="dự án phi tập trung" title="Phi tập trung là gì và Tầm quan trọng 3"><figcaption class="wp-element-caption">Aave &#8211; dự án phi tập trung</figcaption></figure>
+
+
+
+<p>Các giải pháp nhận dạng phi tập trung cũng được sử dụng rộng rãi trong cộng đồng tiền điện tử. Ví dụ như <a href="https://www.civic.com/" target="_blank" rel="noreferrer noopener">Civic</a>, một giải pháp nhận dạng phi tập trung được xây dựng trên blockchain Ethereum, cho phép người dùng kiểm soát thông tin cá nhân của mình mà không cần phải chia sẻ thông tin với bất kỳ bên thứ ba nào. </p>
+
+
+
+<p>Một giải pháp khác là <a href="https://selfkey.org/" target="_blank" rel="noreferrer noopener">SelfKey</a>, một giải pháp nhận dạng phi tập trung được sử dụng để tạo và quản lý các thẻ danh tính kỹ thuật số mà không cần phải trao đổi thông tin cá nhân với bất kỳ tổ chức nào. Những giải pháp nhận dạng phi tập trung này giúp người dùng kiểm soát thông tin cá nhân của mình và giảm thiểu nguy cơ bị lộ thông tin.</p>
+
+
+
+<h2>Kết luận</h2>
+
+
+
+<p>Phi tập trung là một khái niệm cơ bản trong thế giới tiền điện tử và công nghệ blockchain, với tiềm năng cách mạng hóa cách chúng ta tương tác với các hệ thống kỹ thuật số. Bằng cách hiểu những điều cơ bản về phi tập trung hóa và lợi ích của nó, người đọc có thể đánh giá cao hơn giá trị của các hệ thống phi tập trung và tầm quan trọng của việc hỗ trợ các dự án phi tập trung trong ngành.</p>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/phi-tap-trung-la-gi-va-tam-quan-trong/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

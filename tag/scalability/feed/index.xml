@@ -1,0 +1,440 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>scalability &#8211; nam3t</title>
+	<atom:link href="/tag/scalability/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Thu, 23 Mar 2023 09:44:02 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
+	<title>scalability &#8211; nam3t</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain</title>
+		<link>/giai-phap-layer-2/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=giai-phap-layer-2</link>
+					<comments>/giai-phap-layer-2/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Mon, 20 Mar 2023 14:27:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử nâng cao]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[layer-2]]></category>
+		<category><![CDATA[scalability]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=892</guid>
+
+					<description><![CDATA[Giới thiệu Trong thế giới tiền mã hóa, khả năng mở rộng và hiệu suất của các nền tảng blockchain đóng vai trò quan trọng trong việc đáp ứng nhu cầu ngày càng tăng của người dùng. Giải pháp Layer 2 được xem là một bước đột phá trong việc giải quyết vấn đề này. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Giới thiệu</h2>
+
+
+
+<p>Trong thế giới tiền mã hóa, khả năng mở rộng và hiệu suất của các nền tảng blockchain đóng vai trò quan trọng trong việc đáp ứng nhu cầu ngày càng tăng của người dùng. Giải pháp Layer 2 được xem là một bước đột phá trong việc giải quyết vấn đề này. Bài viết này sẽ giới thiệu về giải pháp Layer 2, các loại giải pháp phổ biến, ứng dụng của chúng và tương lai của công nghệ này.</p>
+
+
+
+<h2>Giới thiệu về Giải pháp Layer 2</h2>
+
+
+
+<h3>Vấn đề khả năng mở rộng của Blockchain</h3>
+
+
+
+<p>Blockchain, công nghệ đứng đằng sau tiền điện tử Bitcoin và nhiều đồng tiền mã hóa khác, đã đem lại sự minh bạch, an toàn và không thể chối bỏ trong các giao dịch. Tuy nhiên, khi số lượng người dùng và giao dịch ngày càng tăng, các nền tảng blockchain gặp phải vấn đề khả năng mở rộng. Điều này dẫn đến việc tăng thời gian xử lý giao dịch và chi phí liên quan.</p>
+
+
+
+<h3>Tầm quan trọng của khả năng mở rộng trong các mạng blockchain </h3>
+
+
+
+<p><strong>Khả năng mở rộng (scalability)</strong> là yếu tố quan trọng để đảm bảo hiệu suất của mạng blockchain và đáp ứng nhu cầu ngày càng tăng của người dùng. Các giải pháp mở rộng tầng 1 (Layer-1) như cải tiến thuật toán đồng thuận hoặc tối ưu hóa kích thước khối đang được phát triển để giải quyết vấn đề này, tuy nhiên, chúng vẫn còn hạn chế. Đó là lý do tại sao các giải pháp mở rộng tầng 2 (Layer-2) đang trở nên phổ biến trong cộng đồng blockchain.</p>
+
+
+
+<h3>Tổng quan về giải pháp Layer 1 và Layer 2 </h3>
+
+
+
+<p>Các giải pháp Layer 1 là những cải tiến trực tiếp đối với giao thức blockchain cốt lõi, trong khi giải pháp <a class="wpil_keyword_link" href="https://nam3t.com/giai-phap-layer-2/" title="Layer 2" data-wpil-keyword-link="linked" target="_blank" rel="noopener">Layer 2</a> là những công nghệ được xây dựng bên trên và tương tác với Layer 1 để tối ưu hóa hiệu suất mạng. Giải pháp Layer 2 giúp giảm thiểu tải trên mạng chính (Layer-1) và giải quyết các vấn đề về khả năng mở rộng và hiệu suất.</p>
+
+
+
+<h3>Giải pháp Layer 2 là gì?</h3>
+
+
+
+<p>Giải pháp Layer 2 là một loại công nghệ được xây dựng trên lớp nền tảng blockchain (Layer 1) nhằm cải thiện khả năng mở rộng và hiệu suất. Chúng hoạt động độc lập với lớp blockchain chính, giúp giảm bớt gánh nặng cho Layer 1 và tăng tốc độ xử lý giao dịch. Giải pháp Layer 2 có thể được áp dụng cho nhiều loại nền tảng blockchain, bao gồm Bitcoin, Ethereum và các nền tảng khác.</p>
+
+
+
+<h3>Sự phổ biến của các giao thức Layer 2 </h3>
+
+
+
+<p>Theo thời gian, các giao thức Layer 2 đang trở nên ngày càng phổ biến trong ngành công nghiệp blockchain. Với sự phát triển của các dự án như Lightning Network, Optimistic Rollups, zk-Rollups, Polygon, Plasma và Raiden Network, các giải pháp Layer 2 đang đóng vai trò ngày càng quan trọng trong việc đưa blockchain và tiền điện tử đến với đại chúng.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="600" src="https://nam3t.com/wp-content/uploads/2023/03/giai-phap-mo-rong-tang-2.jpg" alt="Giải pháp Layer 2" class="wp-image-893" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-300x180.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-768x461.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-750x450.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 1"><figcaption class="wp-element-caption">Giải pháp mở rộng Layer 2 trên Blockchain</figcaption></figure>
+
+
+
+<h3>Lợi ích chính của các giải pháp Layer 2</h3>
+
+
+
+<ul>
+<li><strong>Tăng hiệu suất</strong>: Giải pháp Layer 2 giúp giảm thiểu tải trên mạng chính, giúp tăng tốc độ xử lý giao dịch và nâng cao hiệu suất mạng.</li>
+
+
+
+<li><strong>Giảm phí giao dịch</strong>: Bằng cách xử lý giao dịch ngoài mạng chính, các giải pháp Layer 2 giúp giảm bớt chi phí cho người dùng.</li>
+
+
+
+<li><strong>Nâng cao tính bảo mật</strong>: Một số giải pháp Layer 2 cung cấp các công nghệ bảo mật tiên tiến như Zero-Knowledge Proofs, giúp nâng cao tính bảo mật của mạng.</li>
+</ul>
+
+
+
+<h3>Các kỹ thuật mở rộng Layer 2 phổ biến</h3>
+
+
+
+<ul>
+<li><strong>State Channels</strong>: Kết nối trực tiếp giữa hai bên để xử lý giao dịch nhanh chóng và giảm phí.</li>
+
+
+
+<li><strong>Sidechains</strong>: Mạng blockchain phụ có thể đồng bộ hóa với mạng chính.</li>
+
+
+
+<li><strong>Rollups</strong>: Tổng hợp nhiều giao dịch thành một gói dữ liệu duy nhất, sau đó xác thực và đưa kết quả trở lại Layer 1.</li>
+</ul>
+
+
+
+<h2>Các loại giải pháp Layer 2 phổ biến</h2>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="444" src="https://nam3t.com/wp-content/uploads/2023/03/Lightning-Network-cho-Bitcoin.jpg" alt="Lightning Network cho Bitcoin" class="wp-image-894" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-300x133.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-768x341.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-750x333.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 2"><figcaption class="wp-element-caption">Lightning Network cho Bitcoin</figcaption></figure>
+
+
+
+<h3>Lightning Network cho Bitcoin </h3>
+
+
+
+<h4>Cách hoạt động của Lightning Network </h4>
+
+
+
+<p>Lightning Network là một giải pháp Layer 2 xây dựng trên Bitcoin, sử dụng kỹ thuật State Channels để giải quyết giao dịch nhanh chóng và giảm phí. Hai bên mở một kênh thanh toán và giao dịch trực tiếp với nhau, chỉ đưa giao dịch cuối cùng lên mạng chính.</p>
+
+
+
+<h4>Ưu điểm và thách thức </h4>
+
+
+
+<h5>Ưu điểm:</h5>
+
+
+
+<ul>
+<li>Tăng tốc độ giao dịch.</li>
+
+
+
+<li>Giảm phí giao dịch. </li>
+</ul>
+
+
+
+<h5>Thách thức:</h5>
+
+
+
+<ul>
+<li>Cần đảm bảo tính bảo mật cho kênh thanh toán.</li>
+
+
+
+<li>Người dùng phải giữ khoá riêng tư an toàn.</li>
+</ul>
+
+
+
+<h3>Optimistic Rollups và zk-Rollups cho Ethereum </h3>
+
+
+
+<h4>So sánh Optimistic và zk-Rollups </h4>
+
+
+
+<p>Optimistic Rollups và zk-Rollups đều là giải pháp Layer 2 được xây dựng trên Ethereum. Cả hai đều sử dụng kỹ thuật Rollups để tổng hợp giao dịch, nhưng chúng có sự khác biệt về cách thức xác thực:</p>
+
+
+
+<ul>
+<li><strong>Optimistic Rollups</strong>: Sử dụng giả định rằng tất cả giao dịch đều hợp lệ trừ khi có bằng chứng ngược lại.</li>
+
+
+
+<li><strong>zk-Rollups</strong>: Sử dụng Zero-Knowledge Proofs để đảm bảo tính hợp lệ của giao dịch mà không cần tiết lộ thông tin chi tiết.</li>
+</ul>
+
+
+
+<h4>Ứng dụng và dự án</h4>
+
+
+
+<ul>
+<li><strong>Optimistic Rollups</strong>: Dự án nổi bật như Optimism và Arbitrum.</li>
+
+
+
+<li><strong>zk-Rollups</strong>: Dự án nổi bật như Loopring và ZKSync.</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Polygon-truoc-day-la-Matic-Network.jpg" alt="Polygon (trước đây là Matic Network) " class="wp-image-895" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 3"><figcaption class="wp-element-caption">Polygon (trước đây là Matic Network) </figcaption></figure>
+
+
+
+<h3>Polygon (trước đây là Matic Network) </h3>
+
+
+
+<h4>Kiến trúc của Polygon</h4>
+
+
+
+<p>Polygon là một nền tảng Layer 2 được xây dựng trên Ethereum, cung cấp các giải pháp mở rộng đa dạng như Plasma, zk-Rollups và Optimistic Rollups. Polygon sử dụng mạng sidechain để giải quyết giao dịch nhanh chóng và giảm phí.</p>
+
+
+
+<h4>Các dự án nổi bật trên Polygon </h4>
+
+
+
+<p>Một số dự án nổi bật sử dụng Polygon bao gồm <strong>Aavegotchi</strong>, <strong>QuickSwap </strong>và <strong>Decentraland</strong>.</p>
+
+
+
+<h3>Plasma </h3>
+
+
+
+<h4>Khái niệm Plasma </h4>
+
+
+
+<p>Plasma là một giải pháp Layer 2 được xây dựng trên Ethereum, sử dụng mạng sidechain để xử lý giao dịch nhanh chóng và giảm tải trên mạng chính. Các giao dịch trên Plasma được xác nhận thông qua cây Merkle và sau đó đồng bộ hóa với mạng chính.</p>
+
+
+
+<h4>OmiseGO và các dự án dựa trên Plasma khác </h4>
+
+
+
+<p>OmiseGO là một dự án nổi bật sử dụng Plasma để xây dựng một nền tảng trao đổi tiền điện tử phi tập trung. Các dự án khác dựa trên Plasma bao gồm <strong>Loom Network</strong> và <strong>Matic Network </strong>(nay là <strong>Polygon</strong>).</p>
+
+
+
+<h3>Raiden Network cho Ethereum </h3>
+
+
+
+<h4>Tổng quan về Raiden Network </h4>
+
+
+
+<p>Raiden Network là một giải pháp Layer 2 được xây dựng trên Ethereum, sử dụng kỹ thuật State Channels để giải quyết giao dịch nhanh chóng và giảm phí. Raiden Network cho phép người dùng mở các kênh thanh toán trực tiếp với nhau, tương tự như Lightning Network trên Bitcoin.</p>
+
+
+
+<h4>Tính năng và ứng dụng chính</h4>
+
+
+
+<ul>
+<li><strong>Tính năng</strong>: Tăng tốc độ giao dịch, giảm phí giao dịch, tương thích với các tiêu chuẩn token ERC-20 và ERC-721.</li>
+
+
+
+<li><strong>Ứng dụng</strong>: Thanh toán tức thì, trao đổi tiền điện tử phi tập trung, và tích hợp vào các ứng dụng phi tập trung (dApps).</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="571" src="https://nam3t.com/wp-content/uploads/2023/03/Raiden-Network-cho-Ethereum.jpg" alt="Raiden Network cho Ethereum" class="wp-image-896" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-300x171.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-768x439.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-750x428.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 4"><figcaption class="wp-element-caption">Raiden Network cho Ethereum</figcaption></figure>
+
+
+
+<h2>Tương tác giữa các giao thức Layer 2 và các giải pháp liên chuỗi (cross-chain)</h2>
+
+
+
+<h3>Nhu cầu về tương tác giữa các giao thức Layer 2 </h3>
+
+
+
+<p>Khi ngày càng có nhiều giải pháp Layer 2 được triển khai, việc tương tác giữa chúng trở nên quan trọng hơn. Tính liên kết giữa các giao thức Layer 2 sẽ giúp nâng cao khả năng mở rộng và giải quyết vấn đề phân mảnh trong ngành công nghiệp blockchain.</p>
+
+
+
+<h3>Các dự án và công nghệ liên chuỗi hứa hẹn </h3>
+
+
+
+<p>Có một số dự án và công nghệ đang tập trung vào việc xây dựng cầu nối giữa các chuỗi khác nhau, bao gồm <strong>Cosmos</strong>, <strong>Polkadot </strong>và <strong>Chainlink</strong>. Các giải pháp này giúp kết nối giữa các mạng blockchain khác nhau, cũng như tạo điều kiện cho sự tương tác giữa các giao thức Layer 2.</p>
+
+
+
+<h2>Tương lai của các giải pháp mở rộng Layer 2 </h2>
+
+
+
+<h3>Nghiên cứu và phát triển </h3>
+
+
+
+<p>Các nhà nghiên cứu và phát triển tiếp tục tìm kiếm các giải pháp mở rộng Layer 2 mới và hiệu quả hơn. Sự tiến bộ trong công nghệ, như Zero-Knowledge Proofs, sẽ tiếp tục mở rộng khả năng của các giao thức Layer 2.</p>
+
+
+
+<h3>Tác động tiềm năng lên hệ sinh thái blockchain rộng lớn </h3>
+
+
+
+<p>Giải pháp Layer 2 có tiềm năng cải thiện đáng kể hiệu suất và khả năng mở rộng của các mạng blockchain, giúp hệ sinh thái tiếp tục phát triển và hỗ trợ nhiều ứng dụng mới. Việc giảm phí giao dịch và tăng tốc độ xử lý sẽ giúp thu hút người dùng và doanh nghiệp tiếp cận blockchain dễ dàng hơn.</p>
+
+
+
+<h3>Vai trò của các giải pháp mở rộng tầng 2 trong việc đưa blockchain vào đại chúng </h3>
+
+
+
+<p>Các giải pháp mở rộng Layer 2 sẽ đóng vai trò quan trọng trong việc đưa blockchain vào đại chúng, bằng cách giải quyết các vấn đề về hiệu suất và khả năng mở rộng. Khi ngày càng nhiều người và doanh nghiệp sử dụng <a class="wpil_keyword_link" href="https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/" title="công nghệ blockchain" data-wpil-keyword-link="linked" target="_blank" rel="noopener">công nghệ blockchain</a>, các giải pháp Layer 2 sẽ tiếp tục phát triển và cung cấp các cơ sở hạ tầng cần thiết cho sự phát triển bền vững của ngành công nghiệp.</p>
+
+
+
+<h3>Liên kết giữa các nền tảng blockchain</h3>
+
+
+
+<p>Trong tương lai, giải pháp Layer 2 có thể giúp tạo ra sự liên kết chặt chẽ hơn giữa các nền tảng blockchain khác nhau, hỗ trợ việc trao đổi dữ liệu và giá trị một cách nhanh chóng và an toàn.</p>
+
+
+
+<h3>Hỗ trợ sự phát triển của công nghệ blockchain</h3>
+
+
+
+<p>Với việc cải thiện khả năng mở rộng và hiệu suất, giải pháp Layer 2 sẽ tiếp tục đóng vai trò quan trọng trong việc hỗ trợ sự phát triển của công nghệ blockchain, giúp đẩy mạnh ứng dụng blockchain vào các lĩnh vực mới.</p>
+
+
+
+<h2>Kết luận</h2>
+
+
+
+<p>Các giải pháp mở rộng Layer 2 có tiềm năng cách mạng hóa ngành công nghiệp blockchain bằng cách giải quyết vấn đề quan trọng về khả năng mở rộng. Khi các công nghệ này tiếp tục phát triển, chúng ta có thể mong đợi thấy việc áp dụng ngày càng tăng và các trường hợp sử dụng sáng tạo hơn, mở đường cho một tương lai phi tập trung hiệu quả và dễ tiếp cận hơn.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Nguồn tham khảo:</p>
+
+
+
+<ol>
+<li><a href="https://cointelegraph.com/" target="_blank" rel="noopener">Cointelegraph</a></li>
+
+
+
+<li><a href="https://academy.binance.com/en" target="_blank" data-type="URL" data-id="https://academy.binance.com/en" rel="noreferrer noopener">Binance Academy</a></li>
+
+
+
+<li><a href="https://www.gemini.com/cryptopedia/" target="_blank" rel="noopener">Gemini Cryptopedia</a></li>
+
+
+
+<li><a href="https://crypto.com/university/" target="_blank" rel="noopener">Crypto.com University</a></li>
+
+
+
+<li><a href="https://coinmarketcap.com/alexandria" target="_blank" data-type="URL" data-id="https://coinmarketcap.com/alexandria" rel="noreferrer noopener">CoinMarketCap Alexandria</a></li>
+
+
+
+<li><a href="https://www.blockchain-council.org/" target="_blank" rel="noopener">Blockchain Council</a></li>
+
+
+
+<li><a href="https://www.coindesk.com/" target="_blank" rel="noopener">Coindesk</a></li>
+
+
+
+<li><a href="https://raiden.network/" target="_blank" rel="noopener">Raiden Network</a></li>
+
+
+
+<li><a href="https://hackernoon.com/" target="_blank" rel="noopener">Hackernoon</a></li>
+
+
+
+<li><a href="https://www.techtarget.com/" target="_blank" rel="noopener">TechTarget</a></li>
+
+
+
+<li><a href="https://ethereum.org/en/" target="_blank" data-type="URL" data-id="https://ethereum.org/en/" rel="noreferrer noopener">Ethereum.org</a></li>
+</ol>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/giai-phap-layer-2/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

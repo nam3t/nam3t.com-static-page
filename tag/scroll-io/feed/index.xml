@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Scroll.io &#8211; nam3t</title>
+	<atom:link href="/tag/scroll-io/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Thu, 16 Mar 2023 04:16:29 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
+	<title>Scroll.io &#8211; nam3t</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Hướng dẫn tham gia testnet Scroll để săn airdrop</title>
+		<link>/huong-dan-tham-gia-testnet-scroll-de-san-airdrop/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=huong-dan-tham-gia-testnet-scroll-de-san-airdrop</link>
+					<comments>/huong-dan-tham-gia-testnet-scroll-de-san-airdrop/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Thu, 16 Mar 2023 04:16:24 +0000</pubDate>
+				<category><![CDATA[Airdrops - Hướng dẫn]]></category>
+		<category><![CDATA[airdrop]]></category>
+		<category><![CDATA[Scroll.io]]></category>
+		<category><![CDATA[Testnet]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=840</guid>
+
+					<description><![CDATA[Giới thiệu Dự án Scroll có thể sẽ airdrop cho người dùng tham gia vào mạng thử nghiệm của họ. Làm theo &#8220;Hướng dẫn tham gia testnet Scroll&#8221; của bọn mình để tham gia mạng thử nghiệm và có khả năng nhận được airdrop. Scroll là gì? Scroll là một nền tảng blockchain zkRollup trên [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Giới thiệu</h2>
+
+
+
+<p>Dự án Scroll có thể sẽ airdrop cho người dùng tham gia vào mạng thử nghiệm của họ. Làm theo &#8220;Hướng dẫn tham gia testnet Scroll&#8221; của bọn mình để tham gia mạng thử nghiệm và có khả năng nhận được airdrop.</p>
+
+
+
+<h2>Scroll là gì?</h2>
+
+
+
+<p><strong>Scroll </strong>là một nền tảng blockchain zkRollup trên zkEVM, được thiết kế để giải quyết các vấn đề liên quan đến tốc độ, chi phí và bảo mật trong giao dịch.</p>
+
+
+
+<h2>Các bước tham gia</h2>
+
+
+
+<h3>Bước 1: Connect ví</h3>
+
+
+
+<p>Dùng ví Metamask để kết nối</p>
+
+
+
+<p>Bạn cần thêm 2 mạng testnet vào Metamask để bắt đầu: Goerli Testnet và Scroll Alpha Testnet. Nếu chưa có thì bạn ấn vào &#8220;Add to MetaMask&#8221; sau khi Connect ví thành công.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="465" src="https://nam3t.com/wp-content/uploads/2023/03/1-ket-noi-vi-1024x465.png" alt="Connect ví" class="wp-image-842" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-1024x465.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-300x136.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-768x349.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-750x341.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi-1140x518.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16110931/1-ket-noi-vi.png 1383w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hướng dẫn tham gia testnet Scroll để săn airdrop 1"><figcaption class="wp-element-caption">Connect ví</figcaption></figure>
+
+
+
+<h3>Bước 2: Xin faucet</h3>
+
+
+
+<p>Nếu chưa có ETH trên Goerli Testnet thì bạn có thể vào đây để lấy: <a href="https://faucet.quicknode.com/ethereum/goerli" target="_blank" rel="noreferrer noopener">https://faucet.quicknode.com/ethereum/goerli</a></p>
+
+
+
+<h3>Bước 3: Bridge</h3>
+
+
+
+<p>Truy cập: <a href="https://scroll.io/alpha/bridge" target="_blank" rel="noreferrer noopener">https://scroll.io/alpha/bridge</a></p>
+
+
+
+<p>Chuyển ETH từ Goerli Testnet sang Scroll Alpha Testnet.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="897" height="905" src="https://nam3t.com/wp-content/uploads/2023/03/2-bridge.png" alt="Bridge" class="wp-image-843" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge.png 897w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-297x300.png 297w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-150x150.png 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-768x775.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-75x75.png 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111058/2-bridge-750x757.png 750w" sizes="(max-width: 897px) 100vw, 897px" title="Hướng dẫn tham gia testnet Scroll để săn airdrop 2"><figcaption class="wp-element-caption">Bridge</figcaption></figure>
+
+
+
+<p>Đợi cho giao dịch Bridge thành công và bridge ngược lại Goerli.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="614" src="https://nam3t.com/wp-content/uploads/2023/03/3-pending-bridge-1024x614.png" alt="Pending bridge" class="wp-image-844" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-1024x614.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-300x180.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-768x461.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-750x450.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge-1140x684.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/16111113/3-pending-bridge.png 1192w" sizes="(max-width: 1024px) 100vw, 1024px" title="Hướng dẫn tham gia testnet Scroll để săn airdrop 3"><figcaption class="wp-element-caption">Pending bridge</figcaption></figure>
+
+
+
+<p>Có thể sẽ mất vài phút để transaction được commit lên blockchain.</p>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/huong-dan-tham-gia-testnet-scroll-de-san-airdrop/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
