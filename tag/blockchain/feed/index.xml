@@ -12,7 +12,7 @@
 	<atom:link href="/tag/blockchain/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
-	<lastBuildDate>Thu, 23 Mar 2023 09:44:02 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 24 Mar 2023 07:36:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,286 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Blockchain Interoperability: Kết nối các nền tảng Blockchain</title>
+		<link>/blockchain-interoperability/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=blockchain-interoperability</link>
+					<comments>/blockchain-interoperability/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Sat, 25 Mar 2023 12:00:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử nâng cao]]></category>
+		<category><![CDATA[blockchain]]></category>
+		<category><![CDATA[Interoperability]]></category>
+		<guid isPermaLink="false">/?p=1087</guid>
+
+					<description><![CDATA[Giới thiệu về Blockchain Interoperability Blockchain interoperability là khả năng cho phép các nền tảng blockchain khác nhau, như Bitcoin, Ethereum kết nối và giao tiếp với nhau. Điều này cho phép chuyển tiền mã hóa và thông tin một cách an toàn và minh bạch giữa các mạng lưới blockchain. Trong bài viết này, [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Giới thiệu về Blockchain Interoperability</h2>
+
+
+
+<p>Blockchain interoperability là khả năng cho phép các nền tảng blockchain khác nhau, như Bitcoin, Ethereum kết nối và giao tiếp với nhau. Điều này cho phép chuyển tiền mã hóa và thông tin một cách an toàn và minh bạch giữa các mạng lưới blockchain. Trong bài viết này, chúng ta sẽ tìm hiểu các vấn đề hiện tại của việc kết nối blockchain, phương pháp liên kết, các dự án tiềm năng, và vai trò của blockchain interoperability trong tương lai.</p>
+
+
+
+<h2>Các vấn đề hiện tại</h2>
+
+
+
+<p>Mặc dù tiềm năng của blockchain và tiền mã hóa đã được chứng minh qua nhiều ứng dụng thực tiễn, tuy nhiên, việc kết nối và tương tác giữa các nền tảng blockchain vẫn còn gặp một số vấn đề:</p>
+
+
+
+<h3>Sự phân mảnh của thị trường</h3>
+
+
+
+<p>Hiện nay, có hàng trăm nền tảng blockchain và tiền mã hóa khác nhau, từ Bitcoin, Ethereum đến các <a class="wpil_keyword_link" href="https://nam3t.com/cac-loai-tien-dien-tu-huong-dan-toan-dien/" title="altcoin" data-wpil-keyword-link="linked" target="_blank" rel="noopener">altcoin</a> và token hợp đồng thông minh. Sự đa dạng này dẫn đến sự phân mảnh của thị trường, khiến người dùng phải sử dụng nhiều ví tiền điện tử và <a class="wpil_keyword_link" href="https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/" title="sàn giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">sàn giao dịch</a> để quản lý và giao dịch tiền mã hóa của mình.</p>
+
+
+
+<h3>Khó khăn trong việc tích hợp các ứng dụng</h3>
+
+
+
+<p>Do sự không tương thích giữa các nền tảng blockchain, các nhà phát triển gặp khó khăn trong việc xây dựng và tích hợp các ứng dụng trên nhiều nền tảng khác nhau. Điều này cản trở sự sáng tạo và tiềm năng của các ứng dụng blockchain, bởi các ứng dụng chỉ có thể hoạt động trên một số nền tảng blockchain hạn chế.</p>
+
+
+
+<h3>Giao dịch giữa các nền tảng blockchain</h3>
+
+
+
+<p>Việc chuyển đổi tiền mã hóa giữa các nền tảng blockchain thường phức tạp và tốn kém. Người dùng phải thông qua các sàn giao dịch hoặc dịch vụ trung gian, mất thời gian và phí giao dịch. Điều này không chỉ bất tiện cho người dùng mà còn tiềm ẩn nguy cơ an ninh, khi các sàn giao dịch và dịch vụ trung gian có thể bị tấn công hoặc làm mất tiền mã hóa của người dùng.</p>
+
+
+
+<h3>Tính riêng tư và an toàn</h3>
+
+
+
+<p>Khi giao dịch giữa các nền tảng blockchain, người dùng phải chấp nhận một mức độ tiết lộ thông tin cao hơn và đối mặt với rủi ro an toàn. Ví dụ, khi chuyển tiền mã hóa từ một nền tảng blockchain sang nền tảng khác, người dùng cần cung cấp địa chỉ ví của họ, có thể dẫn đến việc lộ thông tin cá nhân hoặc bị theo dõi các giao dịch.</p>
+
+
+
+<h3>Hiệu năng và khả năng mở rộng</h3>
+
+
+
+<p>Các nền tảng blockchain hiện tại đang gặp phải các hạn chế về hiệu năng và khả năng mở rộng. Việc tăng cường tính tương tác giữa các nền tảng blockchain có thể giúp giải quyết vấn đề này, bằng cách phân bổ gánh nặng công việc và dữ liệu giữa nhiều nền tảng. Tuy nhiên, việc kết nối và tương tác giữa các nền tảng blockchain vẫn đang ở giai đoạn phát triển ban đầu, với nhiều thách thức cần phải giải quyết.</p>
+
+
+
+<h3>2.6. Hạn chế về chuẩn mực và ngôn ngữ lập trình</h3>
+
+
+
+<p>Các nền tảng blockchain sử dụng những chuẩn mực và ngôn ngữ lập trình khác nhau, làm cho việc tích hợp và phát triển ứng dụng trên nhiều nền tảng trở nên khó khăn. Điều này cũng ảnh hưởng đến việc phát triển các giải pháp liên kết blockchain, khi các nhà phát triển phải tìm hiểu và làm việc với nhiều ngôn ngữ và chuẩn mực khác nhau.</p>
+
+
+
+<ul></ul>
+
+
+
+<h2>Phương pháp liên kết Blockchain</h2>
+
+
+
+<p>Để đạt được tính tương tác giữa các nền tảng blockchain, nhiều phương pháp liên kết đã được đưa ra và phát triển. Sau đây là một số phương pháp tiêu biểu:</p>
+
+
+
+<h3>Sidechains và Pegged Sidechains (Hệ thống phụ)</h3>
+
+
+
+<p>Sidechains là những chuỗi phụ được kết nối với một chuỗi chính (mainchain) như Bitcoin hoặc Ethereum. Sidechains cho phép chuyển đổi tiền mã hóa từ mainchain sang sidechain và ngược lại thông qua một cơ chế đóng băng và phát hành (freeze and release).</p>
+
+
+
+<p>Pegged sidechains là một phiên bản nâng cao của sidechains, cho phép chuyển đổi tiền mã hóa giữa các chuỗi khối một cách an toàn thông qua một tỷ giá cố định. Ví dụ, Bitcoin có thể được chuyển đổi thành Ether trên một pegged sidechain với tỷ giá cố định.</p>
+
+
+
+<h3>Atomic Swaps (Giao dịch nguyên tử)</h3>
+
+
+
+<p>Atomic swaps là một phương pháp cho phép trao đổi trực tiếp tiền mã hóa giữa hai nền tảng blockchain khác nhau mà không cần thông qua một bên trung gian, như sàn giao dịch. Atomic swaps sử dụng hợp đồng thông minh để đảm bảo tính an toàn và minh bạch trong quá trình trao đổi tiền mã hóa. Hai bên tham gia trao đổi phải đồng ý với các điều khoản của giao dịch trước khi hoàn tất. Atomic swaps đảm bảo rằng việc trao đổi diễn ra an toàn và công bằng, nếu một bên không hoàn thành giao dịch, cả hai bên sẽ không mất tiền.</p>
+
+
+
+<h3>Đại sứ Blockchain (Blockchain Ambassadors)</h3>
+
+
+
+<p>Đại sứ Blockchain là một phương pháp liên kết giữa các nền tảng blockchain thông qua việc sử dụng các node đặc biệt, gọi là &#8220;đại sứ&#8221; (ambassadors). Các đại sứ này chịu trách nhiệm đồng bộ hóa dữ liệu và giao dịch giữa hai nền tảng blockchain. Đại sứ Blockchain giúp đơn giản hóa quá trình giao tiếp giữa các nền tảng blockchain và đảm bảo tính an toàn và minh bạch.</p>
+
+
+
+<h3>Các giao thức liên kết (Interoperability Protocols)</h3>
+
+
+
+<p>Một số giao thức liên kết đã được phát triển để tạo điều kiện cho việc giao tiếp giữa các nền tảng blockchain khác nhau. Các giao thức này cung cấp một cách tiếp cận chuẩn hóa cho việc chuyển đổi tiền mã hóa và thông tin giữa các nền tảng. Ví dụ về các giao thức liên kết:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="528" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png" alt="Cosmos" class="wp-image-1089" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-300x155.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-768x396.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-750x387.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1140x588.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos.png 1251w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 1"><figcaption class="wp-element-caption">Cosmos</figcaption></figure>
+
+
+
+<ul>
+<li><strong>Cosmos</strong>: Cosmos là một giao thức liên kết cho phép kết nối giữa các nền tảng blockchain thông qua một mạng lưới các &#8220;zone&#8221; và &#8220;hubs&#8221;. Các &#8220;zone&#8221; là các nền tảng blockchain độc lập và &#8220;hubs&#8221; là các trung tâm trao đổi thông tin giữa các &#8220;zone&#8221;. Cosmos giúp tạo điều kiện cho việc giao tiếp giữa các nền tảng blockchain và hỗ trợ việc phát triển các ứng dụng đa nền tảng.</li>
+
+
+
+<li><strong>Polkadot</strong>: Polkadot cũng là một giao thức liên kết, giúp kết nối giữa các nền tảng blockchain thông qua mạng lưới các &#8220;parachains&#8221; và &#8220;relay chain&#8221;. &#8220;Parachains&#8221; là các chuỗi con độc lập, trong khi &#8220;relay chain&#8221; là chuỗi chính phục vụ việc truyền tải thông tin giữa các &#8220;parachains&#8221;. Polkadot giúp đơn giản hóa việc giao tiếp giữa các nền tảng blockchain và tạo điều kiện cho việc mở rộng và tích hợp các ứng dụng đa nền tảng.</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="537" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png" alt="Polkadot" class="wp-image-1090" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-300x157.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-768x403.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-750x393.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1140x598.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot.png 1306w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 2"><figcaption class="wp-element-caption">Polkadot</figcaption></figure>
+
+
+
+<h3>Các dịch vụ cầu nối (Bridge Services)</h3>
+
+
+
+<p>Cầu nối là một phương pháp liên kết giữa các nền tảng blockchain thông qua việc sử dụng các dịch vụ hoặc ứng dụng bên thứ ba. Các dịch vụ cầu nối giúp chuyển đổi tiền mã hóa và thông tin giữa các nền tảng blockchain một cách an toàn và minh bạch. Ví dụ về các dịch vụ cầu nối:</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="453" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1024x453.png" alt="Chainlink" class="wp-image-1091" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1024x453.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-300x133.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-768x340.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1536x679.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-750x332.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1140x504.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink.png 1547w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 3"><figcaption class="wp-element-caption">Chainlink</figcaption></figure>
+
+
+
+<ul>
+<li><strong>Chainlink</strong>: Chainlink là một dịch vụ cầu nối được thiết kế để kết nối các nền tảng blockchain với các nguồn dữ liệu bên ngoài. Chainlink sử dụng các &#8220;oracle&#8221; để truyền tải thông tin từ thế giới thực vào các hợp đồng thông minh trên nền tảng blockchain. Chainlink giúp tạo điều kiện cho việc tích hợp các nguồn dữ liệu và dịch vụ bên ngoài vào các ứng dụng blockchain.</li>
+
+
+
+<li><strong>WBTC (Wrapped Bitcoin)</strong>: WBTC là một dịch vụ cầu nối giữa Bitcoin và Ethereum, cho phép người dùng chuyển đổi Bitcoin thành một token ERC-20 tương đương trên Ethereum. WBTC giúp tận dụng sức mạnh của Bitcoin trong môi trường Ethereum, mở rộng khả năng ứng dụng của cả hai nền tảng.</li>
+</ul>
+
+
+
+<h3>Hợp đồng thông minh liên chuỗi (Cross-Chain Smart Contracts)</h3>
+
+
+
+<p>Hợp đồng thông minh liên chuỗi là một phương pháp cho phép tạo ra các hợp đồng thông minh có khả năng hoạt động trên nhiều nền tảng blockchain. Điều này giúp các nhà phát triển xây dựng các ứng dụng phức tạp mà không bị giới hạn bởi một nền tảng blockchain cụ thể. Một số công cụ và ngôn ngữ lập trình, như Solidity, đã được phát triển để hỗ trợ việc tạo ra các hợp đồng thông minh liên chuỗi.</p>
+
+
+
+<h3>Tập trung dữ liệu và xử lý (Data and Computation Sharding)</h3>
+
+
+
+<p>Phương pháp sharding dữ liệu và xử lý giúp chia nhỏ dữ liệu và công việc xử lý thành nhiều phần nhỏ hơn, được phân bổ cho các node khác nhau trong mạng lưới blockchain. Sharding giúp giảm bớt áp lực lên mạng lưới, tăng khả năng mở rộng và đảm bảo tính tương tác giữa các nền tảng blockchain.</p>
+
+
+
+<p>Một số dự án, như Ethereum 2.0, đang tập trung phát triển và áp dụng sharding nhằm đạt được tính tương tác giữa các nền tảng blockchain và cải thiện hiệu suất của hệ thống.</p>
+
+
+
+<h2>Vai trò của Blockchain Interoperability trong tương lai</h2>
+
+
+
+<p>Blockchain Interoperability đóng vai trò quan trọng trong việc phát triển và mở rộng ứng dụng của <a class="wpil_keyword_link" href="https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/" title="công nghệ blockchain" data-wpil-keyword-link="linked" target="_blank" rel="noopener">công nghệ blockchain</a>:</p>
+
+
+
+<ul>
+<li>Tạo điều kiện cho việc phát triển các ứng dụng và dịch vụ chéo nền tảng, giúp đẩy mạnh quá trình chấp nhận và sử dụng tiền mã hóa.</li>
+
+
+
+<li>Giảm bớt áp lực và rủi ro cho các sàn <a class="wpil_keyword_link" href="https://nam3t.com/giao-dich-tien-dien-tu-can-ban/" title="giao dịch tiền điện tử" data-wpil-keyword-link="linked" target="_blank" rel="noopener">giao dịch tiền điện tử</a> khi xử lý nhiều loại tiền mã hóa từ nhiều nền tảng blockchain.</li>
+
+
+
+<li>Tăng cường tính bảo mật và đảm bảo tính minh bạch trong việc chuyển tiền mã hóa và thông tin giữa các nền tảng blockchain.</li>
+
+
+
+<li>Thúc đẩy sự hợp tác giữa các dự án blockchain, tạo điều kiện cho sự phát triển của ngành công nghiệp tiền mã hóa và nền kinh tế số.</li>
+
+
+
+<li>Đáp ứng nhu cầu của thị trường trong việc <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> và sử dụng tiền mã hóa một cách linh hoạt và tiện lợi.</li>
+</ul>
+
+
+
+<h2>Kết luận</h2>
+
+
+
+<p>Blockchain interoperability là một trong những xu hướng quan trọng của ngành công nghiệp tiền mã hóa và công nghệ blockchain. Việc kết nối và giao tiếp giữa các nền tảng blockchain sẽ mở ra nhiều cơ hội và tiềm năng cho ngành công nghiệp này, từ việc phát triển các ứng dụng và dịch vụ chéo nền tảng, tăng cường tính bảo mật và minh bạch, cho đến thúc đẩy sự hợp tác giữa các dự án blockchain. </p>
+
+
+
+<p>Với sự ra đời của các dự án như Polkadot, Cosmos và Chainlink, blockchain interoperability đang trở thành hiện thực và sẽ tiếp tục thúc đẩy sự phát triển của ngành công nghiệp tiền mã hóa và nền kinh tế số trong tương lai.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p>Nguồn tham khảo:</p>
+
+
+
+<ol>
+<li>Polkadot: <a href="https://polkadot.network/" target="_blank" rel="noreferrer noopener">https://polkadot.network/</a></li>
+
+
+
+<li>Cosmos: <a href="https://cosmos.network/" target="_blank" rel="noreferrer noopener">https://cosmos.network/</a></li>
+
+
+
+<li>Chainlink: <a href="https://chain.link/" target="_blank" rel="noreferrer noopener">https://chain.link/</a></li>
+
+
+
+<li>Lightning Network: <a href="https://lightning.network/" target="_blank" rel="noreferrer noopener">https://lightning.network/</a></li>
+
+
+
+<li>Binance Academy: <a href="https://academy.binance.com/vi" target="_blank" rel="noreferrer noopener">https://academy.binance.com/vi</a></li>
+
+
+
+<li>Cointelegraph Explained: <a href="https://cointelegraph.com/explained" target="_blank" rel="noreferrer noopener">https://cointelegraph.com/explained</a></li>
+</ol>
+
+
+
+<p>Nếu bạn quan tâm đến blockchain interoperability và muốn tìm hiểu thêm về các dự án, hãy tham khảo các nguồn trên để có cái nhìn sâu sắc hơn về công nghệ này và những tiềm năng mà nó mang lại.</p>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/blockchain-interoperability/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain</title>
 		<link>/giai-phap-layer-2/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=giai-phap-layer-2</link>
 					<comments>/giai-phap-layer-2/#respond</comments>
@@ -94,7 +374,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="600" src="https://nam3t.com/wp-content/uploads/2023/03/giai-phap-mo-rong-tang-2.jpg" alt="Giải pháp Layer 2" class="wp-image-893" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-300x180.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-768x461.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-750x450.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 1"><figcaption class="wp-element-caption">Giải pháp mở rộng Layer 2 trên Blockchain</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="600" src="https://nam3t.com/wp-content/uploads/2023/03/giai-phap-mo-rong-tang-2.jpg" alt="Giải pháp Layer 2" class="wp-image-893" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-300x180.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-768x461.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19225351/giai-phap-mo-rong-tang-2-750x450.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 4"><figcaption class="wp-element-caption">Giải pháp mở rộng Layer 2 trên Blockchain</figcaption></figure>
 
 
 
@@ -138,7 +418,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="444" src="https://nam3t.com/wp-content/uploads/2023/03/Lightning-Network-cho-Bitcoin.jpg" alt="Lightning Network cho Bitcoin" class="wp-image-894" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-300x133.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-768x341.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-750x333.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 2"><figcaption class="wp-element-caption">Lightning Network cho Bitcoin</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="444" src="https://nam3t.com/wp-content/uploads/2023/03/Lightning-Network-cho-Bitcoin.jpg" alt="Lightning Network cho Bitcoin" class="wp-image-894" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-300x133.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-768x341.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230728/Lightning-Network-cho-Bitcoin-750x333.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 5"><figcaption class="wp-element-caption">Lightning Network cho Bitcoin</figcaption></figure>
 
 
 
@@ -222,7 +502,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Polygon-truoc-day-la-Matic-Network.jpg" alt="Polygon (trước đây là Matic Network) " class="wp-image-895" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 3"><figcaption class="wp-element-caption">Polygon (trước đây là Matic Network) </figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Polygon-truoc-day-la-Matic-Network.jpg" alt="Polygon (trước đây là Matic Network) " class="wp-image-895" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19230946/Polygon-truoc-day-la-Matic-Network-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 6"><figcaption class="wp-element-caption">Polygon (trước đây là Matic Network) </figcaption></figure>
 
 
 
@@ -292,7 +572,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="571" src="https://nam3t.com/wp-content/uploads/2023/03/Raiden-Network-cho-Ethereum.jpg" alt="Raiden Network cho Ethereum" class="wp-image-896" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-300x171.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-768x439.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-750x428.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 4"><figcaption class="wp-element-caption">Raiden Network cho Ethereum</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="571" src="https://nam3t.com/wp-content/uploads/2023/03/Raiden-Network-cho-Ethereum.jpg" alt="Raiden Network cho Ethereum" class="wp-image-896" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-300x171.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-768x439.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/19231157/Raiden-Network-cho-Ethereum-750x428.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain 7"><figcaption class="wp-element-caption">Raiden Network cho Ethereum</figcaption></figure>
 
 
 
@@ -533,7 +813,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/03/Cong-nghe-Blockchain-la-gi-1024x576.jpg" alt="Công nghệ Blockchain là gì?" class="wp-image-586" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-1024x576.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-1536x864.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-2048x1152.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-750x422.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-1140x641.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết 5"><figcaption class="wp-element-caption">Công nghệ Blockchain là gì?</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/03/Cong-nghe-Blockchain-la-gi-1024x576.jpg" alt="Công nghệ Blockchain là gì?" class="wp-image-586" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-1024x576.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-1536x864.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-2048x1152.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-750x422.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-1140x641.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045822/Cong-nghe-Blockchain-la-gi-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết 8"><figcaption class="wp-element-caption">Công nghệ Blockchain là gì?</figcaption></figure>
 
 
 
@@ -609,7 +889,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="680" src="https://nam3t.com/wp-content/uploads/2023/03/Co-che-dong-thuan-1024x680.jpg" alt="Cơ chế đồng thuận" class="wp-image-587" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-1024x680.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-300x199.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-768x510.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-1536x1020.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-750x498.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-1140x757.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết 6"><figcaption class="wp-element-caption">Cơ chế đồng thuận</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="680" src="https://nam3t.com/wp-content/uploads/2023/03/Co-che-dong-thuan-1024x680.jpg" alt="Cơ chế đồng thuận" class="wp-image-587" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-1024x680.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-300x199.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-768x510.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-1536x1020.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-750x498.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan-1140x757.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10045952/Co-che-dong-thuan.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết 9"><figcaption class="wp-element-caption">Cơ chế đồng thuận</figcaption></figure>
 
 
 
@@ -681,7 +961,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="686" src="https://nam3t.com/wp-content/uploads/2023/03/Tien-dien-tu-1024x686.jpg" alt="Tiền điện tử cryptocurrency" class="wp-image-588" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-1024x686.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-300x201.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-768x515.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-1536x1030.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-750x503.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-1140x764.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết 7"><figcaption class="wp-element-caption">Tiền điện tử</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="686" src="https://nam3t.com/wp-content/uploads/2023/03/Tien-dien-tu-1024x686.jpg" alt="Tiền điện tử cryptocurrency" class="wp-image-588" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-1024x686.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-300x201.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-768x515.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-1536x1030.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-750x503.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu-1140x764.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050301/Tien-dien-tu.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết 10"><figcaption class="wp-element-caption">Tiền điện tử</figcaption></figure>
 
 
 
@@ -785,7 +1065,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://nam3t.com/wp-content/uploads/2023/03/Danh-tinh-so-768x1024.jpg" alt="Danh tính số" class="wp-image-589" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-768x1024.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-225x300.jpg 225w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-1152x1536.jpg 1152w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-1536x2048.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-750x1000.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-1140x1520.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-scaled.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" title="Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết 8"><figcaption class="wp-element-caption">Danh tính số</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="768" height="1024" src="https://nam3t.com/wp-content/uploads/2023/03/Danh-tinh-so-768x1024.jpg" alt="Danh tính số" class="wp-image-589" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-768x1024.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-225x300.jpg 225w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-1152x1536.jpg 1152w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-1536x2048.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-750x1000.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-1140x1520.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10050501/Danh-tinh-so-scaled.jpg 1200w" sizes="(max-width: 768px) 100vw, 768px" title="Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết 11"><figcaption class="wp-element-caption">Danh tính số</figcaption></figure>
 
 
 
@@ -898,7 +1178,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1024x576.jpg" alt="Công nghệ Blockchain" class="wp-image-189" srcset="/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1024x576.jpg 1024w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-300x169.jpg 300w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-768x432.jpg 768w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1536x864.jpg 1536w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-2048x1152.jpg 2048w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-150x84.jpg 150w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-696x392.jpg 696w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1068x601.jpg 1068w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1920x1080.jpg 1920w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 9"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1024x576.jpg" alt="Công nghệ Blockchain" class="wp-image-189" srcset="/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1024x576.jpg 1024w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-300x169.jpg 300w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-768x432.jpg 768w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1536x864.jpg 1536w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-2048x1152.jpg 2048w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-150x84.jpg 150w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-696x392.jpg 696w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1068x601.jpg 1068w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1920x1080.jpg 1920w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 12"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
 
 
 
@@ -946,7 +1226,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="569" src="https://nam3t.com/wp-content/uploads/2023/03/Cac-loai-tien-dien-tu-pho-bien-1024x569.jpg" alt="Các loại tiền điện tử phổ biến" class="wp-image-572" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-1024x569.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-300x167.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-768x427.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-1536x853.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-2048x1138.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-750x417.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-1140x633.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 10"><figcaption class="wp-element-caption">Các loại tiền điện tử phổ biến</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="569" src="https://nam3t.com/wp-content/uploads/2023/03/Cac-loai-tien-dien-tu-pho-bien-1024x569.jpg" alt="Các loại tiền điện tử phổ biến" class="wp-image-572" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-1024x569.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-300x167.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-768x427.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-1536x853.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-2048x1138.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-750x417.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-1140x633.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011331/Cac-loai-tien-dien-tu-pho-bien-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 13"><figcaption class="wp-element-caption">Các loại tiền điện tử phổ biến</figcaption></figure>
 
 
 
@@ -978,7 +1258,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/03/Su-bat-on-cua-gia-1024x683.jpg" alt="Sự bất ổn của giá" class="wp-image-573" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-1024x683.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-1536x1024.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-2048x1365.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-750x500.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-1140x760.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 11"><figcaption class="wp-element-caption">Sự bất ổn của giá</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/03/Su-bat-on-cua-gia-1024x683.jpg" alt="Sự bất ổn của giá" class="wp-image-573" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-1024x683.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-1536x1024.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-2048x1365.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-750x500.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-1140x760.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10011658/Su-bat-on-cua-gia-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 14"><figcaption class="wp-element-caption">Sự bất ổn của giá</figcaption></figure>
 
 
 
@@ -1010,7 +1290,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" src="https://nam3t.com/wp-content/uploads/2023/03/ledger-wallet-1024x684.jpg" alt="Ví điện tử cứng Ledger" class="wp-image-420" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-1024x684.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-768x513.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-1536x1025.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-2048x1367.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-750x501.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-1140x761.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 12"><figcaption class="wp-element-caption">Ví điện tử cứng Ledger</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" src="https://nam3t.com/wp-content/uploads/2023/03/ledger-wallet-1024x684.jpg" alt="Ví điện tử cứng Ledger" class="wp-image-420" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-1024x684.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-768x513.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-1536x1025.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-2048x1367.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-750x501.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-1140x761.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08020309/ledger-wallet-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 15"><figcaption class="wp-element-caption">Ví điện tử cứng Ledger</figcaption></figure>
 
 
 
@@ -1148,7 +1428,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="767" src="https://nam3t.com/wp-content/uploads/2023/03/Su-ra-doi-cua-Bitcoin-1024x767.jpg" alt="Sự ra đời của Bitcoin" class="wp-image-559" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-1024x767.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-300x225.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-768x575.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-1536x1151.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-2048x1535.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-750x562.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-1140x854.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins 13"><figcaption class="wp-element-caption">Sự ra đời của Bitcoin</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="767" src="https://nam3t.com/wp-content/uploads/2023/03/Su-ra-doi-cua-Bitcoin-1024x767.jpg" alt="Sự ra đời của Bitcoin" class="wp-image-559" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-1024x767.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-300x225.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-768x575.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-1536x1151.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-2048x1535.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-750x562.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-1140x854.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221217/Su-ra-doi-cua-Bitcoin-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins 16"><figcaption class="wp-element-caption">Sự ra đời của Bitcoin</figcaption></figure>
 
 
 
@@ -1188,7 +1468,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://nam3t.com/wp-content/uploads/2023/03/su-bung-no-gia-tri-cua-Bitcoin-1024x681.jpg" alt="Sự bùng nổ giá trị Bitcoin" class="wp-image-561" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-1024x681.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-768x511.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-1536x1022.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-2048x1363.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-750x499.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-1140x758.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins 14"><figcaption class="wp-element-caption">Sự bùng nổ giá trị Bitcoin</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://nam3t.com/wp-content/uploads/2023/03/su-bung-no-gia-tri-cua-Bitcoin-1024x681.jpg" alt="Sự bùng nổ giá trị Bitcoin" class="wp-image-561" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-1024x681.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-768x511.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-1536x1022.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-2048x1363.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-750x499.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-1140x758.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221333/su-bung-no-gia-tri-cua-Bitcoin-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins 17"><figcaption class="wp-element-caption">Sự bùng nổ giá trị Bitcoin</figcaption></figure>
 
 
 
@@ -1220,7 +1500,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="661" src="https://nam3t.com/wp-content/uploads/2023/03/Su-xuat-hien-cua-Altcoins-1024x661.jpg" alt="Sự xuất hiện của Altcoins" class="wp-image-562" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-1024x661.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-300x194.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-768x496.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-1536x992.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-750x484.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-1140x736.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins 15"><figcaption class="wp-element-caption">Sự xuất hiện của Altcoins</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="661" src="https://nam3t.com/wp-content/uploads/2023/03/Su-xuat-hien-cua-Altcoins-1024x661.jpg" alt="Sự xuất hiện của Altcoins" class="wp-image-562" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-1024x661.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-300x194.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-768x496.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-1536x992.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-750x484.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins-1140x736.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09221531/Su-xuat-hien-cua-Altcoins.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins 18"><figcaption class="wp-element-caption">Sự xuất hiện của Altcoins</figcaption></figure>
 
 
 
@@ -1252,7 +1532,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/03/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-1024x683.jpg" alt="Sự đầu tư của các công ty lớn Tesla" class="wp-image-563" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-1024x683.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-1536x1024.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-750x500.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-1140x760.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins 16"><figcaption class="wp-element-caption">Sự đầu tư của các công ty lớn Tesla</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/03/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-1024x683.jpg" alt="Sự đầu tư của các công ty lớn Tesla" class="wp-image-563" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-1024x683.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-1536x1024.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-750x500.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla-1140x760.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/09222405/Su-dau-tu-cua-cac-cong-ty-lon-Tesla.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins 19"><figcaption class="wp-element-caption">Sự đầu tư của các công ty lớn Tesla</figcaption></figure>
 
 
 
@@ -1373,7 +1653,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://nam3t.com/wp-content/uploads/2023/03/bitcoin-va-cryptocurrency-1024x681.jpg" alt="tiền điện tử là gì" class="wp-image-440" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1024x681.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-768x511.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1536x1022.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-2048x1363.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-750x499.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1140x758.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 17"><figcaption class="wp-element-caption">tiền điện tử là gì?</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://nam3t.com/wp-content/uploads/2023/03/bitcoin-va-cryptocurrency-1024x681.jpg" alt="tiền điện tử là gì" class="wp-image-440" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1024x681.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-768x511.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1536x1022.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-2048x1363.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-750x499.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1140x758.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 20"><figcaption class="wp-element-caption">tiền điện tử là gì?</figcaption></figure>
 
 
 
@@ -1413,7 +1693,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" src="https://nam3t.com/wp-content/uploads/2023/03/tien-so-1024x684.jpg" alt="Tiền điện tử đầu tiên: Bitcoin" class="wp-image-395" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-1024x684.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-768x513.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-1536x1026.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-2048x1368.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-750x501.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-1140x761.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 18"><figcaption class="wp-element-caption">Tiền điện tử đầu tiên: Bitcoin</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="684" src="https://nam3t.com/wp-content/uploads/2023/03/tien-so-1024x684.jpg" alt="Tiền điện tử đầu tiên: Bitcoin" class="wp-image-395" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-1024x684.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-768x513.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-1536x1026.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-2048x1368.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-750x501.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so-1140x761.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/07200721/tien-so.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 21"><figcaption class="wp-element-caption">Tiền điện tử đầu tiên: Bitcoin</figcaption></figure>
 
 
 
@@ -1473,7 +1753,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1024x576.jpg" alt="Công nghệ Blockchain" class="wp-image-176" srcset="/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1024x576.jpg 1024w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-300x169.jpg 300w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-768x432.jpg 768w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1536x864.jpg 1536w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-2048x1152.jpg 2048w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-150x84.jpg 150w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-696x392.jpg 696w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1068x601.jpg 1068w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1920x1080.jpg 1920w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 19"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1024x576.jpg" alt="Công nghệ Blockchain" class="wp-image-176" srcset="/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1024x576.jpg 1024w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-300x169.jpg 300w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-768x432.jpg 768w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1536x864.jpg 1536w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-2048x1152.jpg 2048w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-150x84.jpg 150w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-696x392.jpg 696w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1068x601.jpg 1068w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1920x1080.jpg 1920w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 22"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
 
 
 
@@ -1521,7 +1801,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://nam3t.com/wp-content/uploads/2023/03/bitcoin-va-cryptocurrency-1024x681.jpg" alt="Các loại tiền điện tử" class="wp-image-440" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1024x681.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-768x511.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1536x1022.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-2048x1363.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-750x499.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1140x758.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 20"><figcaption class="wp-element-caption">Các loại tiền điện tử</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="681" src="https://nam3t.com/wp-content/uploads/2023/03/bitcoin-va-cryptocurrency-1024x681.jpg" alt="Các loại tiền điện tử" class="wp-image-440" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1024x681.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-768x511.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1536x1022.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-2048x1363.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-750x499.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-1140x758.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/08135505/bitcoin-va-cryptocurrency-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 23"><figcaption class="wp-element-caption">Các loại tiền điện tử</figcaption></figure>
 
 
 
@@ -1573,7 +1853,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-1024x683.jpg" alt="Tương lai của tiền điện tử" class="wp-image-194" srcset="/wp-content/uploads/2023/02/future-blockchain-1024x683.jpg 1024w, /wp-content/uploads/2023/02/future-blockchain-300x200.jpg 300w, /wp-content/uploads/2023/02/future-blockchain-768x512.jpg 768w, /wp-content/uploads/2023/02/future-blockchain-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/future-blockchain-2048x1365.jpg 2048w, /wp-content/uploads/2023/02/future-blockchain-150x100.jpg 150w, /wp-content/uploads/2023/02/future-blockchain-696x464.jpg 696w, /wp-content/uploads/2023/02/future-blockchain-1068x712.jpg 1068w, /wp-content/uploads/2023/02/future-blockchain-1920x1280.jpg 1920w, /wp-content/uploads/2023/02/future-blockchain.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 21"><figcaption class="wp-element-caption">Tương lai của tiền điện tử</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-1024x683.jpg" alt="Tương lai của tiền điện tử" class="wp-image-194" srcset="/wp-content/uploads/2023/02/future-blockchain-1024x683.jpg 1024w, /wp-content/uploads/2023/02/future-blockchain-300x200.jpg 300w, /wp-content/uploads/2023/02/future-blockchain-768x512.jpg 768w, /wp-content/uploads/2023/02/future-blockchain-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/future-blockchain-2048x1365.jpg 2048w, /wp-content/uploads/2023/02/future-blockchain-150x100.jpg 150w, /wp-content/uploads/2023/02/future-blockchain-696x464.jpg 696w, /wp-content/uploads/2023/02/future-blockchain-1068x712.jpg 1068w, /wp-content/uploads/2023/02/future-blockchain-1920x1280.jpg 1920w, /wp-content/uploads/2023/02/future-blockchain.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 24"><figcaption class="wp-element-caption">Tương lai của tiền điện tử</figcaption></figure>
 
 
 
