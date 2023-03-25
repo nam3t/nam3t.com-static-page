@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Decentralized Finance &#8211; nam3t</title>
+	<atom:link href="/tag/decentralized-finance/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Fri, 24 Mar 2023 05:27:04 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+
+<image>
+	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
+	<title>Decentralized Finance &#8211; nam3t</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DeFi là gì và Tiềm năng của tài chính phi tập trung</title>
+		<link>/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung</link>
+					<comments>/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử nâng cao]]></category>
+		<category><![CDATA[Decentralized Finance]]></category>
+		<category><![CDATA[DeFi]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=860</guid>
+
+					<description><![CDATA[Giới thiệu về DeFi Tiền điện tử và công nghệ Blockchain đã mở ra một kỷ nguyên mới trong lĩnh vực tài chính. Một trong những ứng dụng đột phá nhất của công nghệ này là DeFi, hay Tài chính phi tập trung (Decentralized Finance). DeFi hứa hẹn mang lại sự tự do, minh bạch [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2>Giới thiệu về DeFi</h2>
+
+
+
+<p>Tiền điện tử và công nghệ Blockchain đã mở ra một kỷ nguyên mới trong lĩnh vực tài chính. Một trong những ứng dụng đột phá nhất của công nghệ này là DeFi, hay Tài chính phi tập trung (Decentralized Finance). DeFi hứa hẹn mang lại sự tự do, minh bạch và công bằng cho người dùng, giúp thay đổi hoàn toàn cách thức hoạt động của hệ thống tài chính truyền thống.</p>
+
+
+
+<h2>DeFi là gì?</h2>
+
+
+
+<p>DeFi là viết tắt của Decentralized Finance &#8211; Tài chính phi tập trung, là một hệ sinh thái tài chính được xây dựng trên <a class="wpil_keyword_link" href="https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/" title="công nghệ Blockchain" data-wpil-keyword-link="linked" target="_blank" rel="noopener">công nghệ Blockchain</a>, đặc biệt là nền tảng Ethereum. DeFi bao gồm các ứng dụng, dự án, sản phẩm và dịch vụ tài chính nhằm giảm bớt sự phụ thuộc vào các tổ chức tài chính trung ương như ngân hàng, công ty bảo hiểm, công ty quản lý tài sản và các tổ chức tài chính khác.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="307" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi.jpg" alt="Các thành phần chính của DeFi" class="wp-image-1074" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-300x92.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-768x236.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-750x230.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 1"><figcaption class="wp-element-caption">Các thành phần chính của DeFi</figcaption></figure>
+
+
+
+<h2>Các thành phần chính của DeFi</h2>
+
+
+
+<h3>Hợp đồng thông minh (Smart Contracts)</h3>
+
+
+
+<p>Hợp đồng thông minh là một trong những thành phần quan trọng nhất của DeFi. Đây là mã nguồn tự động thực hiện các điều khoản của một hợp đồng khi các điều kiện được đáp ứng, giảm thiểu sự can thiệp của con người và đảm bảo tính công bằng, minh bạch.</p>
+
+
+
+<h3>Stablecoins</h3>
+
+
+
+<p>Stablecoins là loại tiền điện tử có giá trị ổn định, thường được định giá bằng một đồng tiền truyền thống như USD. Stablecoins đóng vai trò quan trọng trong DeFi, giúp giảm thiểu rủi ro biến động giá của các tài sản mã hóa.</p>
+
+
+
+<h3>Sàn giao dịch phi tập trung (DEX)</h3>
+
+
+
+<p>Sàn giao dịch phi tập trung (Decentralized Exchange &#8211; DEX) là nơi người dùng có thể giao dịch các loại tiền điện tử mà không cần thông qua một bên trung gian. Điều này giúp giảm thiểu rủi ro và chi phí giao dịch, đồng thời tăng cường quyền kiểm soát của người dùng đối với tài sản của họ.</p>
+
+
+
+<h3>Vay và cho vay phi tập trung</h3>
+
+
+
+<p>Các ứng dụng vay và cho vay phi tập trung (Decentralized Lending) cho phép người dùng vay và cho vay tiền điện tử mà không cần thông qua ngân hàng hay các tổ chức tài chính trung ương. Người dùng có thể kiếm lãi từ việc cho vay tiền điện tử của mình hoặc vay mượn với lãi suất thấp hơn so với hệ thống tài chính truyền thống.</p>
+
+
+
+<h3>Các nền tảng DeFi khác</h3>
+
+
+
+<p>Ngoài các thành phần trên, DeFi còn bao gồm các nền tảng như: dự án tiền mã hóa đảm bảo bằng tài sản (Collateralized Crypto Assets), các dịch vụ đảm bảo phi tập trung (Decentralized Insurance), quỹ <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> phi tập trung (Decentralized Asset Management), và các ứng dụng tài chính phi tập trung khác.</p>
+
+
+
+<h2>Ưu điểm và nhược điểm của DeFi</h2>
+
+
+
+<h3>Ưu điểm</h3>
+
+
+
+<ol>
+<li><strong>Tự do tài chính</strong>: DeFi giúp người dùng tránh sự kiểm soát và giám sát của các tổ chức tài chính trung ương, tạo điều kiện cho việc truy cập và sử dụng dịch vụ tài chính một cách tự do hơn.</li>
+
+
+
+<li><strong>Minh bạch và công bằng</strong>: Hệ sinh thái DeFi hoạt động dựa trên công nghệ Blockchain, đảm bảo tính minh bạch và công bằng cho tất cả người dùng.</li>
+
+
+
+<li><strong>Tính ổn định và bảo mật</strong>: DeFi sử dụng công nghệ mã hóa tiên tiến để bảo mật thông tin và tài sản của người dùng, đồng thời giảm thiểu rủi ro gian lận và sự cố.</li>
+
+
+
+<li><strong>Tiết kiệm chi phí</strong>: DeFi giúp giảm chi phí giao dịch và các khoản phí khác so với hệ thống tài chính truyền thống, do loại bỏ các bên trung gian và tự động hóa quá trình giao dịch.</li>
+
+
+
+<li><strong>Tính linh hoạt và tiện lợi</strong>: DeFi cho phép người dùng tiếp cận và sử dụng dịch vụ tài chính mọi lúc, mọi nơi, miễn là có kết nối Internet.</li>
+</ol>
+
+
+
+<h3>Nhược điểm</h3>
+
+
+
+<ol>
+<li><strong>Rủi ro kỹ thuật</strong>: DeFi dựa trên công nghệ mới và phức tạp, có thể dẫn đến các sự cố kỹ thuật và lỗ hổng bảo mật nếu không được xây dựng và kiểm tra kỹ lưỡng.</li>
+
+
+
+<li><strong>Ngưỡng tiếp cận cao</strong>: Người dùng DeFi cần có kiến thức chuyên sâu về công nghệ Blockchain, tiền điện tử và tài chính để sử dụng hiệu quả các ứng dụng và dịch vụ DeFi. Điều này có thể gây khó khăn cho những người không có nền tảng kiến thức vững chắc.</li>
+
+
+
+<li><strong>Tính pháp lý không rõ ràng</strong>: Hiện nay, việc điều chỉnh và quản lý DeFi còn nhiều bất định, dẫn đến các rủi ro pháp lý cho người dùng. Ví dụ, chưa có định hướng rõ ràng về thuế và luật pháp liên quan đến DeFi tại Việt Nam và nhiều quốc gia khác.</li>
+
+
+
+<li><strong>Rủi ro biến động giá</strong>: Mặc dù có sự xuất hiện của stablecoins, nhưng nhiều tài sản mã hóa trong DeFi vẫn có tính chất biến động cao, gây ra rủi ro cho người dùng khi tham gia các hoạt động tài chính trên các nền tảng DeFi.</li>
+</ol>
+
+
+
+<h2>Các ứng dụng DeFi phổ biến</h2>
+
+
+
+<p>Trong phần này, chúng ta sẽ cùng tìm hiểu một số ứng dụng DeFi phổ biến và được yêu thích trên thị trường hiện nay. Đây là những dự án tiêu biểu mang lại giá trị và tiềm năng cho ngành công nghiệp tài chính phi tập trung.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1024x576.jpg" alt="aave" class="wp-image-607" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1024x576.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-750x422.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1140x641.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 2"><figcaption>DeFi là gì và Tiềm năng của tài chính phi tập trung 13</figcaption></figure>
+
+
+
+<h3>Aave</h3>
+
+
+
+<p>Aave là một giao thức cho vay và gửi tiền mã hóa phi tập trung, cho phép người dùng gửi tiền vào các hợp đồng thông minh để kiếm lãi suất hoặc vay tiền bằng cách đặt tiền làm tài sản đảm bảo. Aave hỗ trợ nhiều loại tiền mã hóa khác nhau và cho phép người dùng chuyển đổi giữa các khoản vay và gửi với tỷ lệ lãi suất thay đổi linh hoạt.</p>
+
+
+
+<p>Trang web: <a href="https://aave.com/" target="_blank" rel="noreferrer noopener">https://aave.com/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="739" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1024x739.png" alt="Compound" class="wp-image-1076" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1024x739.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-300x217.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-768x555.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-120x86.png 120w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-750x542.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1140x823.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound.png 1173w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 3"><figcaption class="wp-element-caption">Compound</figcaption></figure>
+
+
+
+<h3>Compound</h3>
+
+
+
+<p>Compound là một giao thức cho vay và gửi tiền mã hóa dựa trên hợp đồng thông minh, cho phép người dùng gửi tiền để kiếm lãi suất hoặc vay tiền bằng cách đặt tiền làm tài sản đảm bảo. Compound hỗ trợ nhiều loại tiền mã hóa khác nhau và tự động điều chỉnh tỷ lệ lãi suất dựa trên cung và cầu trên thị trường.</p>
+
+
+
+<p>Trang web: <a href="https://compound.finance/" target="_blank" rel="noreferrer noopener">https://compound.finance/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1024x687.png" alt="MakerDAO" class="wp-image-1077" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1024x687.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-300x201.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-768x515.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-750x503.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1140x765.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO.png 1273w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 4"><figcaption class="wp-element-caption">MakerDAO</figcaption></figure>
+
+
+
+<h3>MakerDAO</h3>
+
+
+
+<p>MakerDAO là một giao thức phi tập trung cho phép người dùng tạo ra tiền ổn định DAI bằng cách đặt tiền mã hóa (ETH, WBTC, và các tài sản mã hóa khác) làm tài sản đảm bảo. Người dùng có thể sử dụng DAI để giao dịch, đầu tư hoặc trả nợ, đồng thời kiểm soát tỷ lệ đòn bẩy của khoản vay để tránh bị thanh lý.</p>
+
+
+
+<p>Trang web: <a href="https://makerdao.com/" target="_blank" rel="noreferrer noopener">https://makerdao.com/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="650" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1024x650.png" alt="Uniswap" class="wp-image-1078" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1024x650.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-300x190.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-768x487.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-750x476.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1140x723.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap.png 1289w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 5"><figcaption class="wp-element-caption">Uniswap</figcaption></figure>
+
+
+
+<h3>Uniswap</h3>
+
+
+
+<p>Uniswap là một <a class="wpil_keyword_link" href="https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/" title="sàn giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">sàn giao dịch</a> phi tập trung (DEX) dựa trên nền tảng Ethereum, cho phép người dùng giao dịch các đồng tiền mã hóa mà không cần đăng ký tài khoản. Uniswap sử dụng mô hình giao dịch tự động thông qua các hồ bơi thanh khoản (liquidity pools) để cung cấp độ rộng của thị trường và giảm bớt sự trượt giá (slippage). Người dùng cũng có thể cung cấp thanh khoản cho các hồ bơi và kiếm được phần thưởng từ phí giao dịch.</p>
+
+
+
+<p>Trang web: <a href="https://uniswap.org/" target="_blank" rel="noreferrer noopener">https://uniswap.org/</a></p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1018" height="688" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap.png" alt="Sushiswap" class="wp-image-1079" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap.png 1018w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-300x203.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-768x519.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-750x507.png 750w" sizes="(max-width: 1018px) 100vw, 1018px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 6"><figcaption class="wp-element-caption">Sushiswap</figcaption></figure>
+
+
+
+<h3>SushiSwap</h3>
+
+
+
+<p>SushiSwap cũng là một sàn giao dịch phi tập trung (DEX) dựa trên nền tảng Ethereum, tương tự như Uniswap. Tuy nhiên, SushiSwap tập trung vào việc phân phối giá trị cho cộng đồng thông qua việc trả lại phần thưởng cho người cung cấp thanh khoản bằng token SUSHI, đồng thời hỗ trợ các dự án DeFi mới thông qua quỹ cộng đồng.</p>
+
+
+
+<p>Trang web: <a href="https://www.sushi.com/" target="_blank" rel="noreferrer noopener">https://www.sushi.com/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="442" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1024x442.png" alt="dydx" class="wp-image-1080" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1024x442.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-300x130.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-768x332.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1536x664.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-750x324.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1140x493.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx.png 1900w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 7"><figcaption class="wp-element-caption">dydx</figcaption></figure>
+
+
+
+<h3>dYdX</h3>
+
+
+
+<p>dYdX là một nền tảng giao dịch tiền mã hóa phi tập trung cho phép người dùng giao dịch với đòn bẩy, giao dịch tương lai và tùy chọn, cũng như cho vay và gửi tiền. dYdX hỗ trợ các sản phẩm tài chính phức tạp hơn so với các DEX thông thường, mang đến nhiều cơ hội đầu tư cho người dùng kỳ cựu.</p>
+
+
+
+<p>Trang web: <a href="https://dydx.exchange/" target="_blank" rel="noreferrer noopener">https://dydx.exchange/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="410" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1024x410.png" alt="synthetix" class="wp-image-1081" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1024x410.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-300x120.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-768x308.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1536x616.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-750x301.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1140x457.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix.png 1881w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 8"><figcaption class="wp-element-caption">synthetix</figcaption></figure>
+
+
+
+<h3>Synthetix</h3>
+
+
+
+<p>Synthetix là một nền tảng phát hành và giao dịch các sản phẩm tài chính tổng hợp (synthetic assets) dựa trên nền tảng Ethereum. Synthetix cho phép người dùng giao dịch các sản phẩm tài chính tổng hợp như cổ phiếu, hàng hóa, chỉ số, tiền tệ và tiền mã hóa mà không cần sở hữu tài sản gốc. Điều này mở rộng cơ hội đầu tư và giảm rủi ro thanh khoản cho người dùng.</p>
+
+
+
+<p>Trang web: <a href="https://www.synthetix.io/" target="_blank" rel="noreferrer noopener">https://www.synthetix.io/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="520" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1024x520.png" alt="Nexus Mutual" class="wp-image-1082" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1024x520.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-300x152.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-768x390.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-750x381.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1140x579.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual.png 1328w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 9"><figcaption class="wp-element-caption">Nexus Mutual</figcaption></figure>
+
+
+
+<h3>Nexus Mutual</h3>
+
+
+
+<p>Nexus Mutual là một dự án DeFi cung cấp bảo hiểm thông minh dựa trên hợp đồng thông minh và tiền mã hóa. Người dùng có thể mua bảo hiểm để bảo vệ chính họ khỏi rủi ro từ các dự án DeFi, như sự cố hợp đồng thông minh, sự mất mát thanh khoản hoặc các vấn đề kỹ thuật. Nexus Mutual cũng cho phép người dùng kiếm lãi suất từ việc cung cấp tiền mã hóa cho hệ thống bảo hiểm.</p>
+
+
+
+<p>Trang web: <a href="https://nexusmutual.io/" target="_blank" rel="noreferrer noopener">https://nexusmutual.io/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="577" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1024x577.png" alt="DeFi là gì và Tiềm năng của tài chính phi tập trung 1" class="wp-image-1083" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1024x577.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-300x169.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-768x433.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-750x423.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1140x642.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance.png 1283w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 10"><figcaption class="wp-element-caption">Yearn Finance</figcaption></figure>
+
+
+
+<h3>Yearn Finance</h3>
+
+
+
+<p>Yearn Finance là một giao thức tối ưu hóa lãi suất cho phép người dùng gửi tiền vào các hợp đồng thông minh để kiếm lãi suất cao nhất từ các dự án DeFi khác nhau. Yearn Finance tự động điều hướng và cân bằng giữa các giao thức DeFi khác nhau để đạt được tỷ lệ lãi suất tối ưu nhất cho người dùng.</p>
+
+
+
+<p>Trang web: <a href="https://yearn.finance/" target="_blank" rel="noreferrer noopener">https://yearn.finance/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="552" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1024x552.png" alt="Curve Finance" class="wp-image-1084" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1024x552.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-300x162.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-768x414.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-750x404.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1140x614.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance.png 1256w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 11"><figcaption class="wp-element-caption">Curve Finance</figcaption></figure>
+
+
+
+<h3>Curve Finance</h3>
+
+
+
+<p>Curve Finance là một sàn giao dịch phi tập trung (DEX) chuyên về việc trao đổi các loại <a class="wpil_keyword_link" href="https://nam3t.com/cac-loai-tien-dien-tu-huong-dan-toan-dien/" title="stablecoin" data-wpil-keyword-link="linked" target="_blank" rel="noopener">stablecoin</a> và token có giá trị liên kết với nhau. Curve Finance giảm thiểu sự trượt giá khi giao dịch các loại tiền ổn định và giúp người dùng cung cấp thanh khoản một cách hiệu quả hơn so với các sàn giao dịch truyền thống.</p>
+
+
+
+<p>Trang web: <a href="https://curve.fi/" target="_blank" rel="noreferrer noopener">https://curve.fi/</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="267" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1024x267.png" alt="DeFi là gì và Tiềm năng của tài chính phi tập trung 2" class="wp-image-1085" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1024x267.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-300x78.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-768x200.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1536x400.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-750x195.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1140x297.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer.png 1842w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 12"><figcaption>DeFi là gì và Tiềm năng của tài chính phi tập trung 14</figcaption></figure>
+
+
+
+<h3>Balancer</h3>
+
+
+
+<p>Balancer là một giao thức tự động cân bằng danh mục đầu tư và sàn giao dịch phi tập trung (DEX) dựa trên nền tảng Ethereum. Balancer cho phép người dùng tạo ra các hồ bơi thanh khoản với tỷ lệ tùy chỉnh giữa các token, tự động cân bằng danh mục đầu tư và kiếm phí giao dịch từ việc cung cấp thanh khoản.</p>
+
+
+
+<p>Trang web: <a href="https://balancer.fi/" target="_blank" rel="noreferrer noopener">https://balancer.fi/</a></p>
+
+
+
+<p>Các ứng dụng DeFi kể trên chỉ là một số ví dụ tiêu biểu trong hàng loạt các dự án DeFi đang phát triển mạnh mẽ trên thị trường tiền mã hóa. Những dự án này đều đóng góp vào việc thúc đẩy sự phát triển của ngành công nghiệp tài chính phi tập trung, mang đến nhiều lợi ích và cơ hội đầu tư cho người dùng. </p>
+
+
+
+<h2>Tổng kết</h2>
+
+
+
+<p>DeFi đang thay đổi hoàn toàn hệ thống tài chính toàn cầu, mang lại sự tự do, minh bạch và công bằng cho người dùng. Tuy nhiên, DeFi cũng đang đối mặtvới nhiều thách thức và rủi ro, bao gồm kỹ thuật, pháp lý và biến động giá. Để tham gia hiệu quả vào thị trường DeFi, người dùng cần nắm vững kiến thức về công nghệ Blockchain, tiền điện tử và tài chính, đồng thời luôn cập nhật thông tin và theo dõi sự phát triển của hệ sinh thái DeFi.</p>
+
+
+
+<p>Đối với Việt Nam, tiềm năng của DeFi còn rất lớn. Các dự án khởi nghiệp liên quan đến tiền mã hóa ở Việt Nam có thể tìm hiểu và áp dụng các công nghệ và ứng dụng DeFi để giải quyết các vấn đề tài chính hiện tại và góp phần vào sự phát triển của nền kinh tế số tại Việt Nam.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p>Nguồn tham khảo:</p>
+
+
+
+<ol>
+<li>Binance Academy: <a href="https://academy.binance.com/vi" target="_blank" rel="noreferrer noopener">https://academy.binance.com/vi</a></li>
+
+
+
+<li>Cointelegraph: <a href="https://cointelegraph.com/explained" target="_blank" rel="noreferrer noopener">https://cointelegraph.com/explained</a></li>
+</ol>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

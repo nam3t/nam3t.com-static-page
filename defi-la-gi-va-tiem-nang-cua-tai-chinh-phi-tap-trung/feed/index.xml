@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	 xmlns:media="http://search.yahoo.com/mrss/" 
+	>
+<channel>
+	<title>
+	Các phản hồi luận về: DeFi là gì và Tiềm năng của tài chính phi tập trung	</title>
+	<atom:link href="/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/feed/" rel="self" type="application/rss+xml" />
+	<link>/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Fri, 24 Mar 2023 05:27:04 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.1.1</generator>
+</channel>
+</rss>
