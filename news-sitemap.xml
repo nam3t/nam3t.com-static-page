@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//34.126.125.106/news-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-news/0.9 http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://nam3t.com/chien-luoc-staking-nang-cao/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>nam3t</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2023-03-26T19:37:00+07:00</news:publication_date>
+			<news:title><![CDATA[Chiến lược Staking Nâng cao]]></news:title>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://nam3t.com/token-economics/</loc>
 		<news:news>
 			<news:publication>
@@ -31,17 +42,6 @@
 			</news:publication>
 			<news:publication_date>2023-03-25T07:00:00+07:00</news:publication_date>
 			<news:title><![CDATA[DeFi là gì và Tiềm năng của tài chính phi tập trung]]></news:title>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://nam3t.com/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/</loc>
-		<news:news>
-			<news:publication>
-				<news:name>nam3t</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2023-03-24T19:00:00+07:00</news:publication_date>
-			<news:title><![CDATA[NFT nổi bật trong nghệ thuật kỹ thuật số]]></news:title>
 		</news:news>
 	</url>
 </urlset>
