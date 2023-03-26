@@ -12,7 +12,7 @@
 	<atom:link href="/tag/defi/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
-	<lastBuildDate>Fri, 24 Mar 2023 05:27:04 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Mar 2023 05:33:07 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -273,7 +273,7 @@
 
 
 
-<p>Trang web: <a href="https://www.synthetix.io/" target="_blank" rel="noreferrer noopener">https://www.synthetix.io/</a></p>
+<p>Trang web: <a href="https://synthetix.io/" target="_blank" data-type="URL" data-id="https://synthetix.io/" rel="noreferrer noopener">https://www.synthetix.io/</a></p>
 
 
 
@@ -357,7 +357,7 @@
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
 

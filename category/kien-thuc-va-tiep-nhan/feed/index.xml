@@ -12,7 +12,7 @@
 	<atom:link href="/category/kien-thuc-va-tiep-nhan/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
-	<lastBuildDate>Sat, 25 Mar 2023 09:30:06 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 26 Mar 2023 05:34:09 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -831,7 +831,7 @@
 
 
 
-<p>Trang web: <a href="https://www.synthetix.io/" target="_blank" rel="noreferrer noopener">https://www.synthetix.io/</a></p>
+<p>Trang web: <a href="https://synthetix.io/" target="_blank" data-type="URL" data-id="https://synthetix.io/" rel="noreferrer noopener">https://www.synthetix.io/</a></p>
 
 
 
@@ -915,7 +915,7 @@
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
 
@@ -1841,7 +1841,7 @@
 
 
 
-<li><a href="https://sashares.co.za/zcash-review" target="_blank" rel="noreferrer noopener">https://sashares.co.za/zcash-review</a></li>
+<li><a href="https://sashares.co.za/zcash-review/" target="_blank" data-type="URL" data-id="https://sashares.co.za/zcash-review/" rel="noreferrer noopener">https://sashares.co.za/zcash-review</a></li>
 
 
 
@@ -2463,7 +2463,7 @@
 
 
 
-<li>dYdX. (n.d.). Introduction to dYdX. Truy cập từ <a href="https://docs.dydx.exchange/#introduction" target="_blank" rel="noopener">https://docs.dydx.exchange/#introduction</a></li>
+<li>dYdX. (n.d.). Introduction to dYdX. Truy cập từ <a href="https://dydxprotocol.github.io/v3-teacher/#terms-of-service-and-privacy-policy" target="_blank" rel="noreferrer noopener">https://dydxprotocol.github.io/v3-teacher/#terms-of-service-and-privacy-policy</a></li>
 
 
 
@@ -3164,10 +3164,6 @@
 
 
 <li><a href="https://www.moit.gov.vn/" target="_blank" rel="noopener">Bộ Công Thương Việt Nam</a></li>
-
-
-
-<li><a href="http://www.mof.gov.vn/webcenter/portal/btcvn" target="_blank" data-type="URL" data-id="http://www.mof.gov.vn/webcenter/portal/btcvn" rel="noreferrer noopener">Bộ Tài chính Việt Nam</a></li>
 </ol>
 
 
