@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Flash Loans &#8211; nam3t</title>
-	<atom:link href="/tag/flash-loans/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/flash-loans/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Sun, 26 Mar 2023 05:28:46 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Flash Loans &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Flash Loans là gì? Những điều bạn cần biết</title>
-		<link>/flash-loans-la-gi-nhung-dieu-ban-can-biet/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=flash-loans-la-gi-nhung-dieu-ban-can-biet</link>
-					<comments>/flash-loans-la-gi-nhung-dieu-ban-can-biet/#respond</comments>
+		<link>https://nam3t.com/flash-loans-la-gi-nhung-dieu-ban-can-biet/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=flash-loans-la-gi-nhung-dieu-ban-can-biet</link>
+					<comments>https://nam3t.com/flash-loans-la-gi-nhung-dieu-ban-can-biet/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 14:49:00 +0000</pubDate>
@@ -267,7 +267,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/flash-loans-la-gi-nhung-dieu-ban-can-biet/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/flash-loans-la-gi-nhung-dieu-ban-can-biet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Phân tán &#8211; nam3t</title>
-	<atom:link href="/tag/phan-tan/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/phan-tan/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Wed, 15 Mar 2023 07:11:02 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Phân tán &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Phi tập trung là gì và Tầm quan trọng</title>
-		<link>/phi-tap-trung-la-gi-va-tam-quan-trong/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=phi-tap-trung-la-gi-va-tam-quan-trong</link>
-					<comments>/phi-tap-trung-la-gi-va-tam-quan-trong/#respond</comments>
+		<link>https://nam3t.com/phi-tap-trung-la-gi-va-tam-quan-trong/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=phi-tap-trung-la-gi-va-tam-quan-trong</link>
+					<comments>https://nam3t.com/phi-tap-trung-la-gi-va-tam-quan-trong/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Mon, 20 Mar 2023 00:27:00 +0000</pubDate>
@@ -255,7 +255,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/phi-tap-trung-la-gi-va-tam-quan-trong/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/phi-tap-trung-la-gi-va-tam-quan-trong/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

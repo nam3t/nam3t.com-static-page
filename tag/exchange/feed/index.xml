@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Exchange &#8211; nam3t</title>
-	<atom:link href="/tag/exchange/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/exchange/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Sat, 25 Mar 2023 07:35:08 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Exchange &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vai trò của sàn giao dịch tiền điện tử</title>
-		<link>/vai-tro-cua-san-giao-dich-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=vai-tro-cua-san-giao-dich-tien-dien-tu</link>
-					<comments>/vai-tro-cua-san-giao-dich-tien-dien-tu/#respond</comments>
+		<link>https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=vai-tro-cua-san-giao-dich-tien-dien-tu</link>
+					<comments>https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 00:49:00 +0000</pubDate>
@@ -430,15 +430,15 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/vai-tro-cua-san-giao-dich-tien-dien-tu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Giao dịch tiền điện tử căn bản</title>
-		<link>/giao-dich-tien-dien-tu-can-ban/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=giao-dich-tien-dien-tu-can-ban</link>
-					<comments>/giao-dich-tien-dien-tu-can-ban/#comments</comments>
+		<link>https://nam3t.com/giao-dich-tien-dien-tu-can-ban/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=giao-dich-tien-dien-tu-can-ban</link>
+					<comments>https://nam3t.com/giao-dich-tien-dien-tu-can-ban/#comments</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Wed, 15 Mar 2023 00:49:00 +0000</pubDate>
@@ -946,7 +946,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/giao-dich-tien-dien-tu-can-ban/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/giao-dich-tien-dien-tu-can-ban/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		<enclosure url="https://cdn.jwplayer.com/videos/w3ovPYCJ-G9NhEyAa.mp4" length="0" type="video/mp4" />

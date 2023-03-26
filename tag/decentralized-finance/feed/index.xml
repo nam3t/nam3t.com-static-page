@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Decentralized Finance &#8211; nam3t</title>
-	<atom:link href="/tag/decentralized-finance/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/decentralized-finance/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Sun, 26 Mar 2023 05:33:07 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Decentralized Finance &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>DeFi là gì và Tiềm năng của tài chính phi tập trung</title>
-		<link>/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung</link>
-					<comments>/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/#respond</comments>
+		<link>https://nam3t.com/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung</link>
+					<comments>https://nam3t.com/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Sat, 25 Mar 2023 00:00:00 +0000</pubDate>
@@ -384,7 +384,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

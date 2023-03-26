@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Zcash &#8211; nam3t</title>
-	<atom:link href="/tag/zcash/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/zcash/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Sun, 26 Mar 2023 05:34:09 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Zcash &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Khám phá Privacy Coins: Monero, Zcash, và Grin</title>
-		<link>/kham-pha-privacy-coins-monero-zcash-va-grin/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=kham-pha-privacy-coins-monero-zcash-va-grin</link>
-					<comments>/kham-pha-privacy-coins-monero-zcash-va-grin/#respond</comments>
+		<link>https://nam3t.com/kham-pha-privacy-coins-monero-zcash-va-grin/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=kham-pha-privacy-coins-monero-zcash-va-grin</link>
+					<comments>https://nam3t.com/kham-pha-privacy-coins-monero-zcash-va-grin/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Thu, 23 Mar 2023 16:48:05 +0000</pubDate>
@@ -39,7 +39,7 @@
 		<category><![CDATA[Monero]]></category>
 		<category><![CDATA[Privacy Coins]]></category>
 		<category><![CDATA[Zcash]]></category>
-		<guid isPermaLink="false">/?p=1034</guid>
+		<guid isPermaLink="false">https://nam3t.com/?p=1034</guid>
 
 					<description><![CDATA[Tiền điện tử là một trong những xu hướng công nghệ đột phá trong thập kỷ qua. Tuy nhiên, không phải tất cả các loại tiền điện tử đều giống nhau. Có một số đồng tiền điện tử được thiết kế để tập trung vào tính riêng tư và ẩn danh của người dùng. Trong [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -362,7 +362,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/kham-pha-privacy-coins-monero-zcash-va-grin/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/kham-pha-privacy-coins-monero-zcash-va-grin/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

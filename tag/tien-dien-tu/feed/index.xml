@@ -9,8 +9,8 @@
 
 <channel>
 	<title>tiền điện tử &#8211; nam3t</title>
-	<atom:link href="/tag/tien-dien-tu/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/tien-dien-tu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Wed, 15 Mar 2023 07:05:52 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>tiền điện tử &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bảo mật Tiền điện tử</title>
-		<link>/bao-mat-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=bao-mat-tien-dien-tu</link>
-					<comments>/bao-mat-tien-dien-tu/#comments</comments>
+		<link>https://nam3t.com/bao-mat-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=bao-mat-tien-dien-tu</link>
+					<comments>https://nam3t.com/bao-mat-tien-dien-tu/#comments</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Sat, 18 Mar 2023 01:27:00 +0000</pubDate>
@@ -268,15 +268,15 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bao-mat-tien-dien-tu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/bao-mat-tien-dien-tu/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Giao dịch tiền điện tử căn bản</title>
-		<link>/giao-dich-tien-dien-tu-can-ban/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=giao-dich-tien-dien-tu-can-ban</link>
-					<comments>/giao-dich-tien-dien-tu-can-ban/#comments</comments>
+		<link>https://nam3t.com/giao-dich-tien-dien-tu-can-ban/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=giao-dich-tien-dien-tu-can-ban</link>
+					<comments>https://nam3t.com/giao-dich-tien-dien-tu-can-ban/#comments</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Wed, 15 Mar 2023 00:49:00 +0000</pubDate>
@@ -784,7 +784,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/giao-dich-tien-dien-tu-can-ban/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/giao-dich-tien-dien-tu-can-ban/feed/</wfw:commentRss>
 			<slash:comments>5</slash:comments>
 		
 		<enclosure url="https://cdn.jwplayer.com/videos/w3ovPYCJ-G9NhEyAa.mp4" length="0" type="video/mp4" />
@@ -798,8 +798,8 @@
 	</item>
 		<item>
 		<title>Các loại tiền điện tử: Hướng dẫn toàn diện</title>
-		<link>/cac-loai-tien-dien-tu-huong-dan-toan-dien/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=cac-loai-tien-dien-tu-huong-dan-toan-dien</link>
-					<comments>/cac-loai-tien-dien-tu-huong-dan-toan-dien/#comments</comments>
+		<link>https://nam3t.com/cac-loai-tien-dien-tu-huong-dan-toan-dien/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=cac-loai-tien-dien-tu-huong-dan-toan-dien</link>
+					<comments>https://nam3t.com/cac-loai-tien-dien-tu-huong-dan-toan-dien/#comments</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Mon, 13 Mar 2023 00:37:00 +0000</pubDate>
@@ -1300,15 +1300,15 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/cac-loai-tien-dien-tu-huong-dan-toan-dien/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/cac-loai-tien-dien-tu-huong-dan-toan-dien/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Tiền điện tử hoạt động như thế nào?</title>
-		<link>/tien-dien-tu-hoat-dong-nhu-the-nao/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=tien-dien-tu-hoat-dong-nhu-the-nao</link>
-					<comments>/tien-dien-tu-hoat-dong-nhu-the-nao/#respond</comments>
+		<link>https://nam3t.com/tien-dien-tu-hoat-dong-nhu-the-nao/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=tien-dien-tu-hoat-dong-nhu-the-nao</link>
+					<comments>https://nam3t.com/tien-dien-tu-hoat-dong-nhu-the-nao/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Sat, 11 Mar 2023 00:11:00 +0000</pubDate>
@@ -1356,7 +1356,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1024x576.jpg" alt="Công nghệ Blockchain" class="wp-image-189" srcset="/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1024x576.jpg 1024w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-300x169.jpg 300w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-768x432.jpg 768w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1536x864.jpg 1536w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-2048x1152.jpg 2048w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-150x84.jpg 150w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-696x392.jpg 696w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1068x601.jpg 1068w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1920x1080.jpg 1920w, /wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 18"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1024x576.jpg" alt="Công nghệ Blockchain" class="wp-image-189" srcset="https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1024x576.jpg 1024w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-300x169.jpg 300w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-768x432.jpg 768w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1536x864.jpg 1536w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-2048x1152.jpg 2048w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-150x84.jpg 150w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-696x392.jpg 696w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1068x601.jpg 1068w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash-1920x1080.jpg 1920w, https://nam3t.com/wp-content/uploads/2023/02/shubham-dhage-UxDU0Gg5pqQ-unsplash.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Tiền điện tử hoạt động như thế nào? 18"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
 
 
 
@@ -1537,15 +1537,15 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/tien-dien-tu-hoat-dong-nhu-the-nao/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/tien-dien-tu-hoat-dong-nhu-the-nao/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins</title>
-		<link>/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins</link>
-					<comments>/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/#respond</comments>
+		<link>https://nam3t.com/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins</link>
+					<comments>https://nam3t.com/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
@@ -1759,15 +1759,15 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>Giới thiệu về tiền điện tử</title>
-		<link>/gioi-thieu-ve-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=gioi-thieu-ve-tien-dien-tu</link>
-					<comments>/gioi-thieu-ve-tien-dien-tu/#respond</comments>
+		<link>https://nam3t.com/gioi-thieu-ve-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=gioi-thieu-ve-tien-dien-tu</link>
+					<comments>https://nam3t.com/gioi-thieu-ve-tien-dien-tu/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Thu, 09 Mar 2023 10:23:45 +0000</pubDate>
@@ -1931,7 +1931,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1024x576.jpg" alt="Công nghệ Blockchain" class="wp-image-176" srcset="/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1024x576.jpg 1024w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-300x169.jpg 300w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-768x432.jpg 768w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1536x864.jpg 1536w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-2048x1152.jpg 2048w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-150x84.jpg 150w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-696x392.jpg 696w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1068x601.jpg 1068w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1920x1080.jpg 1920w, /wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 28"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1024x576.jpg" alt="Công nghệ Blockchain" class="wp-image-176" srcset="https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1024x576.jpg 1024w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-300x169.jpg 300w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-768x432.jpg 768w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1536x864.jpg 1536w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-2048x1152.jpg 2048w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-150x84.jpg 150w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-696x392.jpg 696w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1068x601.jpg 1068w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-1920x1080.jpg 1920w, https://nam3t.com/wp-content/uploads/2023/02/photo-1639322537228-f710d846310a-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 28"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
 
 
 
@@ -2031,7 +2031,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-1024x683.jpg" alt="Tương lai của tiền điện tử" class="wp-image-194" srcset="/wp-content/uploads/2023/02/future-blockchain-1024x683.jpg 1024w, /wp-content/uploads/2023/02/future-blockchain-300x200.jpg 300w, /wp-content/uploads/2023/02/future-blockchain-768x512.jpg 768w, /wp-content/uploads/2023/02/future-blockchain-1536x1024.jpg 1536w, /wp-content/uploads/2023/02/future-blockchain-2048x1365.jpg 2048w, /wp-content/uploads/2023/02/future-blockchain-150x100.jpg 150w, /wp-content/uploads/2023/02/future-blockchain-696x464.jpg 696w, /wp-content/uploads/2023/02/future-blockchain-1068x712.jpg 1068w, /wp-content/uploads/2023/02/future-blockchain-1920x1280.jpg 1920w, /wp-content/uploads/2023/02/future-blockchain.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 30"><figcaption class="wp-element-caption">Tương lai của tiền điện tử</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-1024x683.jpg" alt="Tương lai của tiền điện tử" class="wp-image-194" srcset="https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-1024x683.jpg 1024w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-300x200.jpg 300w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-768x512.jpg 768w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-1536x1024.jpg 1536w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-2048x1365.jpg 2048w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-150x100.jpg 150w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-696x464.jpg 696w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-1068x712.jpg 1068w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain-1920x1280.jpg 1920w, https://nam3t.com/wp-content/uploads/2023/02/future-blockchain.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giới thiệu về tiền điện tử 30"><figcaption class="wp-element-caption">Tương lai của tiền điện tử</figcaption></figure>
 
 
 
@@ -2088,7 +2088,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/gioi-thieu-ve-tien-dien-tu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/gioi-thieu-ve-tien-dien-tu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

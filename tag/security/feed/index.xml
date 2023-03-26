@@ -9,8 +9,8 @@
 
 <channel>
 	<title>security &#8211; nam3t</title>
-	<atom:link href="/tag/security/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/security/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Wed, 15 Mar 2023 07:05:52 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>security &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Bảo mật Tiền điện tử</title>
-		<link>/bao-mat-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=bao-mat-tien-dien-tu</link>
-					<comments>/bao-mat-tien-dien-tu/#comments</comments>
+		<link>https://nam3t.com/bao-mat-tien-dien-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=bao-mat-tien-dien-tu</link>
+					<comments>https://nam3t.com/bao-mat-tien-dien-tu/#comments</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Sat, 18 Mar 2023 01:27:00 +0000</pubDate>
@@ -268,7 +268,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/bao-mat-tien-dien-tu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/bao-mat-tien-dien-tu/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

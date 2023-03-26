@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Bình luận cho nam3t	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/comments/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Wed, 22 Mar 2023 14:56:47 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,7 +20,7 @@
 	<item>
 		<title>
 		Phản hồi cho Smart Contract là gì và Cách nó hoạt động bởi Flash Loans là gì? Những điều bạn cần biết - nam3t		</title>
-		<link>/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-46</link>
+		<link>https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-46</link>
 
 		<dc:creator><![CDATA[Flash Loans là gì? Những điều bạn cần biết - nam3t]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 14:56:47 +0000</pubDate>
@@ -34,7 +34,7 @@
 		<item>
 		<title>
 		Phản hồi cho Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết bởi Vai trò của sàn giao dịch tiền điện tử - nam3t		</title>
-		<link>/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/#comment-44</link>
+		<link>https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/#comment-44</link>
 
 		<dc:creator><![CDATA[Vai trò của sàn giao dịch tiền điện tử - nam3t]]></dc:creator>
 		<pubDate>Wed, 22 Mar 2023 01:05:59 +0000</pubDate>
@@ -48,7 +48,7 @@
 		<item>
 		<title>
 		Phản hồi cho Smart Contract là gì và Cách nó hoạt động bởi NFT (Non-Fungible Token) - Đột phá trong tiền điện tử và ứng dụng thực tế - nam3t		</title>
-		<link>/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-43</link>
+		<link>https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-43</link>
 
 		<dc:creator><![CDATA[NFT (Non-Fungible Token) - Đột phá trong tiền điện tử và ứng dụng thực tế - nam3t]]></dc:creator>
 		<pubDate>Tue, 21 Mar 2023 14:39:29 +0000</pubDate>
@@ -62,7 +62,7 @@
 		<item>
 		<title>
 		Phản hồi cho Giao dịch tiền điện tử căn bản bởi ICO là gì? Những điều bạn cần biết - nam3t		</title>
-		<link>/giao-dich-tien-dien-tu-can-ban/#comment-42</link>
+		<link>https://nam3t.com/giao-dich-tien-dien-tu-can-ban/#comment-42</link>
 
 		<dc:creator><![CDATA[ICO là gì? Những điều bạn cần biết - nam3t]]></dc:creator>
 		<pubDate>Tue, 21 Mar 2023 00:37:32 +0000</pubDate>
@@ -76,7 +76,7 @@
 		<item>
 		<title>
 		Phản hồi cho Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết bởi Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain - nam3t		</title>
-		<link>/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/#comment-41</link>
+		<link>https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/#comment-41</link>
 
 		<dc:creator><![CDATA[Giải pháp Layer 2: Cải thiện khả năng mở rộng và hiệu suất của Blockchain - nam3t]]></dc:creator>
 		<pubDate>Mon, 20 Mar 2023 14:30:10 +0000</pubDate>
@@ -90,7 +90,7 @@
 		<item>
 		<title>
 		Phản hồi cho Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết bởi Phi tập trung là gì và Tầm quan trọng - nam3t		</title>
-		<link>/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/#comment-40</link>
+		<link>https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/#comment-40</link>
 
 		<dc:creator><![CDATA[Phi tập trung là gì và Tầm quan trọng - nam3t]]></dc:creator>
 		<pubDate>Mon, 20 Mar 2023 00:27:12 +0000</pubDate>
@@ -104,7 +104,7 @@
 		<item>
 		<title>
 		Phản hồi cho Smart Contract là gì và Cách nó hoạt động bởi Giới thiệu về tiền điện tử - nam3t		</title>
-		<link>/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-38</link>
+		<link>https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-38</link>
 
 		<dc:creator><![CDATA[Giới thiệu về tiền điện tử - nam3t]]></dc:creator>
 		<pubDate>Sun, 19 Mar 2023 04:03:31 +0000</pubDate>
@@ -118,7 +118,7 @@
 		<item>
 		<title>
 		Phản hồi cho Smart Contract là gì và Cách nó hoạt động bởi Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins - nam3t		</title>
-		<link>/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-37</link>
+		<link>https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-37</link>
 
 		<dc:creator><![CDATA[Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins - nam3t]]></dc:creator>
 		<pubDate>Sun, 19 Mar 2023 04:03:15 +0000</pubDate>
@@ -132,7 +132,7 @@
 		<item>
 		<title>
 		Phản hồi cho Smart Contract là gì và Cách nó hoạt động bởi Các loại tiền điện tử: Hướng dẫn toàn diện - nam3t		</title>
-		<link>/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-36</link>
+		<link>https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/#comment-36</link>
 
 		<dc:creator><![CDATA[Các loại tiền điện tử: Hướng dẫn toàn diện - nam3t]]></dc:creator>
 		<pubDate>Sun, 19 Mar 2023 04:02:58 +0000</pubDate>
@@ -146,7 +146,7 @@
 		<item>
 		<title>
 		Phản hồi cho Giới thiệu về Công nghệ Blockchain: Mọi thứ bạn cần biết bởi Smart Contract là gì và Cách nó hoạt động - nam3t		</title>
-		<link>/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/#comment-35</link>
+		<link>https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/#comment-35</link>
 
 		<dc:creator><![CDATA[Smart Contract là gì và Cách nó hoạt động - nam3t]]></dc:creator>
 		<pubDate>Sun, 19 Mar 2023 01:30:18 +0000</pubDate>

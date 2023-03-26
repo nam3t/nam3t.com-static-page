@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Digital Art &#8211; nam3t</title>
-	<atom:link href="/tag/digital-art/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/digital-art/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Fri, 24 Mar 2023 04:37:25 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,21 +23,21 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Digital Art &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>NFT nổi bật trong nghệ thuật kỹ thuật số</title>
-		<link>/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=nft-noi-bat-trong-nghe-thuat-ky-thuat-so</link>
-					<comments>/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/#respond</comments>
+		<link>https://nam3t.com/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=nft-noi-bat-trong-nghe-thuat-ky-thuat-so</link>
+					<comments>https://nam3t.com/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Fri, 24 Mar 2023 12:00:00 +0000</pubDate>
 				<category><![CDATA[Tiền điện tử nâng cao]]></category>
 		<category><![CDATA[Digital Art]]></category>
 		<category><![CDATA[NFT]]></category>
-		<guid isPermaLink="false">/?p=1063</guid>
+		<guid isPermaLink="false">https://nam3t.com/?p=1063</guid>
 
 					<description><![CDATA[NFTs đã mở ra một thế giới mới đầy hứa hẹn trong lĩnh vực nghệ thuật kỹ thuật số. Dưới đây là một số dự án NFT nổi bật trong nghệ thuật kỹ thuật số, được đánh giá dựa trên thông tin từ Nansen.ai. Lợi ích của NFTs trong nghệ thuật kỹ thuật số NFT [&#8230;]]]></description>
 										<content:encoded><![CDATA[
@@ -202,7 +202,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

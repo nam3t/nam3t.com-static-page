@@ -9,8 +9,8 @@
 
 <channel>
 	<title>ngủ &#8211; nam3t</title>
-	<atom:link href="/tag/ngu/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/ngu/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Thu, 23 Mar 2023 09:35:46 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>ngủ &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Sleepagotchi &#8211; Game nhận token khi đi ngủ</title>
-		<link>/sleepagotchi-nhan-token-khi-di-ngu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=sleepagotchi-nhan-token-khi-di-ngu</link>
-					<comments>/sleepagotchi-nhan-token-khi-di-ngu/#respond</comments>
+		<link>https://nam3t.com/sleepagotchi-nhan-token-khi-di-ngu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=sleepagotchi-nhan-token-khi-di-ngu</link>
+					<comments>https://nam3t.com/sleepagotchi-nhan-token-khi-di-ngu/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Wed, 01 Mar 2023 11:11:06 +0000</pubDate>
@@ -79,7 +79,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-fa3afce elementor-flip-box--effect-flip elementor-flip-box--direction-up elementor-widget elementor-widget-flip-box" data-id="fa3afce" data-element_type="widget" data-widget_type="flip-box.default">
 				<div class="elementor-widget-container">
-			<link rel="stylesheet" href="/wp-content/plugins/elementor-pro/assets/css/widget-flip-box.min.css">		<div class="elementor-flip-box" tabindex="0">
+			<link rel="stylesheet" href="https://nam3t.com/wp-content/plugins/elementor-pro/assets/css/widget-flip-box.min.css">		<div class="elementor-flip-box" tabindex="0">
 			<div class="elementor-flip-box__layer elementor-flip-box__front">
 				<div class="elementor-flip-box__layer__overlay">
 					<div class="elementor-flip-box__layer__inner">
@@ -139,7 +139,7 @@
 				<div class="elementor-widget-container">
 			<style>/*! elementor - v3.11.2 - 22-02-2023 */
 .elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>									<figure class="wp-caption">
-										<img decoding="async" width="511" height="1024" src="/wp-content/uploads/2023/03/Room-511x1024.png" class="attachment-large size-large wp-image-288" alt="Sleepagotchi - Game nhận token khi đi ngủ 4" srcset="/wp-content/uploads/2023/03/Room-511x1024.png 511w, /wp-content/uploads/2023/03/Room-150x300.png 150w, /wp-content/uploads/2023/03/Room-768x1539.png 768w, /wp-content/uploads/2023/03/Room-767x1536.png 767w, /wp-content/uploads/2023/03/Room-1022x2048.png 1022w, /wp-content/uploads/2023/03/Room-750x1503.png 750w, /wp-content/uploads/2023/03/Room-1140x2284.png 1140w, /wp-content/uploads/2023/03/Room.png 799w" sizes="(max-width: 511px) 100vw, 511px" title="Sleepagotchi - Game nhận token khi đi ngủ 4">											<figcaption class="widget-image-caption wp-caption-text">MetaRoom</figcaption>
+										<img decoding="async" width="511" height="1024" src="https://nam3t.com/wp-content/uploads/2023/03/Room-511x1024.png" class="attachment-large size-large wp-image-288" alt="Sleepagotchi - Game nhận token khi đi ngủ 4" srcset="https://nam3t.com/wp-content/uploads/2023/03/Room-511x1024.png 511w, https://nam3t.com/wp-content/uploads/2023/03/Room-150x300.png 150w, https://nam3t.com/wp-content/uploads/2023/03/Room-768x1539.png 768w, https://nam3t.com/wp-content/uploads/2023/03/Room-767x1536.png 767w, https://nam3t.com/wp-content/uploads/2023/03/Room-1022x2048.png 1022w, https://nam3t.com/wp-content/uploads/2023/03/Room-750x1503.png 750w, https://nam3t.com/wp-content/uploads/2023/03/Room-1140x2284.png 1140w, https://nam3t.com/wp-content/uploads/2023/03/Room.png 799w" sizes="(max-width: 511px) 100vw, 511px" title="Sleepagotchi - Game nhận token khi đi ngủ 4">											<figcaption class="widget-image-caption wp-caption-text">MetaRoom</figcaption>
 										</figure>
 									</div>
 				</div>
@@ -173,7 +173,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d7122b4 elementor-widget elementor-widget-image" data-id="d7122b4" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="552" height="1024" src="/wp-content/uploads/2023/03/Market-552x1024.png" class="attachment-large size-large wp-image-289" alt="Sleepagotchi - Game nhận token khi đi ngủ 5" srcset="/wp-content/uploads/2023/03/Market-552x1024.png 552w, /wp-content/uploads/2023/03/Market-162x300.png 162w, /wp-content/uploads/2023/03/Market-768x1425.png 768w, /wp-content/uploads/2023/03/Market-828x1536.png 828w, /wp-content/uploads/2023/03/Market-1104x2048.png 1104w, /wp-content/uploads/2023/03/Market-750x1391.png 750w, /wp-content/uploads/2023/03/Market-1140x2115.png 1140w, /wp-content/uploads/2023/03/Market.png 863w" sizes="(max-width: 552px) 100vw, 552px" title="Sleepagotchi - Game nhận token khi đi ngủ 5">															</div>
+															<img decoding="async" width="552" height="1024" src="https://nam3t.com/wp-content/uploads/2023/03/Market-552x1024.png" class="attachment-large size-large wp-image-289" alt="Sleepagotchi - Game nhận token khi đi ngủ 5" srcset="https://nam3t.com/wp-content/uploads/2023/03/Market-552x1024.png 552w, https://nam3t.com/wp-content/uploads/2023/03/Market-162x300.png 162w, https://nam3t.com/wp-content/uploads/2023/03/Market-768x1425.png 768w, https://nam3t.com/wp-content/uploads/2023/03/Market-828x1536.png 828w, https://nam3t.com/wp-content/uploads/2023/03/Market-1104x2048.png 1104w, https://nam3t.com/wp-content/uploads/2023/03/Market-750x1391.png 750w, https://nam3t.com/wp-content/uploads/2023/03/Market-1140x2115.png 1140w, https://nam3t.com/wp-content/uploads/2023/03/Market.png 863w" sizes="(max-width: 552px) 100vw, 552px" title="Sleepagotchi - Game nhận token khi đi ngủ 5">															</div>
 				</div>
 					</div>
 		</div>
@@ -212,7 +212,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-2cd8286 elementor-widget elementor-widget-image" data-id="2cd8286" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img decoding="async" width="559" height="1024" src="/wp-content/uploads/2023/03/Items-559x1024.png" class="attachment-large size-large wp-image-290" alt="Sleepagotchi - Game nhận token khi đi ngủ 6" srcset="/wp-content/uploads/2023/03/Items-559x1024.png 559w, /wp-content/uploads/2023/03/Items-164x300.png 164w, /wp-content/uploads/2023/03/Items-768x1406.png 768w, /wp-content/uploads/2023/03/Items-839x1536.png 839w, /wp-content/uploads/2023/03/Items-1119x2048.png 1119w, /wp-content/uploads/2023/03/Items-750x1373.png 750w, /wp-content/uploads/2023/03/Items-1140x2087.png 1140w, /wp-content/uploads/2023/03/Items.png 874w" sizes="(max-width: 559px) 100vw, 559px" title="Sleepagotchi - Game nhận token khi đi ngủ 6">															</div>
+															<img decoding="async" width="559" height="1024" src="https://nam3t.com/wp-content/uploads/2023/03/Items-559x1024.png" class="attachment-large size-large wp-image-290" alt="Sleepagotchi - Game nhận token khi đi ngủ 6" srcset="https://nam3t.com/wp-content/uploads/2023/03/Items-559x1024.png 559w, https://nam3t.com/wp-content/uploads/2023/03/Items-164x300.png 164w, https://nam3t.com/wp-content/uploads/2023/03/Items-768x1406.png 768w, https://nam3t.com/wp-content/uploads/2023/03/Items-839x1536.png 839w, https://nam3t.com/wp-content/uploads/2023/03/Items-1119x2048.png 1119w, https://nam3t.com/wp-content/uploads/2023/03/Items-750x1373.png 750w, https://nam3t.com/wp-content/uploads/2023/03/Items-1140x2087.png 1140w, https://nam3t.com/wp-content/uploads/2023/03/Items.png 874w" sizes="(max-width: 559px) 100vw, 559px" title="Sleepagotchi - Game nhận token khi đi ngủ 6">															</div>
 				</div>
 					</div>
 		</div>
@@ -245,7 +245,7 @@
 							</div>
 		]]></content:encoded>
 					
-					<wfw:commentRss>/sleepagotchi-nhan-token-khi-di-ngu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/sleepagotchi-nhan-token-khi-di-ngu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

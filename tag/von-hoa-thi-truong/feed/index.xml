@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Vốn hóa thị trường &#8211; nam3t</title>
-	<atom:link href="/tag/von-hoa-thi-truong/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/von-hoa-thi-truong/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Wed, 15 Mar 2023 06:04:19 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Vốn hóa thị trường &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Vốn hóa thị trường tiền điện tử toàn tập</title>
-		<link>/von-hoa-thi-truong-tien-dien-tu-toan-tap/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=von-hoa-thi-truong-tien-dien-tu-toan-tap</link>
-					<comments>/von-hoa-thi-truong-tien-dien-tu-toan-tap/#comments</comments>
+		<link>https://nam3t.com/von-hoa-thi-truong-tien-dien-tu-toan-tap/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=von-hoa-thi-truong-tien-dien-tu-toan-tap</link>
+					<comments>https://nam3t.com/von-hoa-thi-truong-tien-dien-tu-toan-tap/#comments</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Thu, 16 Mar 2023 00:55:00 +0000</pubDate>
@@ -218,7 +218,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/von-hoa-thi-truong-tien-dien-tu-toan-tap/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/von-hoa-thi-truong-tien-dien-tu-toan-tap/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		

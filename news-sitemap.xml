@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//34.126.125.106/news-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-news/0.9 http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
-		<loc>/token-economics/</loc>
+		<loc>https://nam3t.com/token-economics/</loc>
 		<news:news>
 			<news:publication>
 				<news:name>nam3t</news:name>
@@ -12,7 +12,7 @@
 		</news:news>
 	</url>
 	<url>
-		<loc>/blockchain-interoperability/</loc>
+		<loc>https://nam3t.com/blockchain-interoperability/</loc>
 		<news:news>
 			<news:publication>
 				<news:name>nam3t</news:name>
@@ -23,7 +23,7 @@
 		</news:news>
 	</url>
 	<url>
-		<loc>/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/</loc>
+		<loc>https://nam3t.com/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/</loc>
 		<news:news>
 			<news:publication>
 				<news:name>nam3t</news:name>
@@ -34,7 +34,7 @@
 		</news:news>
 	</url>
 	<url>
-		<loc>/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/</loc>
+		<loc>https://nam3t.com/nft-noi-bat-trong-nghe-thuat-ky-thuat-so/</loc>
 		<news:news>
 			<news:publication>
 				<news:name>nam3t</news:name>

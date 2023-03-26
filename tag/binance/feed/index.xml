@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Binance &#8211; nam3t</title>
-	<atom:link href="/tag/binance/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/binance/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Thu, 23 Mar 2023 09:45:20 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Binance &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Binance &#8211; Hướng dẫn đăng ký và sử dụng sàn giao dịch tiền số lớn nhất thế giới</title>
-		<link>/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi</link>
-					<comments>/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/#respond</comments>
+		<link>https://nam3t.com/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi</link>
+					<comments>https://nam3t.com/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Tue, 07 Mar 2023 18:40:49 +0000</pubDate>
@@ -111,7 +111,7 @@
 <p>Binance là một trong những sàn <a class="wpil_keyword_link" href="https://nam3t.com/giao-dich-tien-dien-tu-can-ban/" title="giao dịch tiền điện tử" data-wpil-keyword-link="linked" target="_blank" rel="noopener">giao dịch tiền điện tử</a> lớn nhất thế giới, với hàng trăm đồng tiền điện tử được hỗ trợ và hàng triệu người dùng trên toàn cầu. Để bắt đầu sử dụng Binance, bạn cần đăng ký tài khoản, xác thực tài khoản và nạp tiền vào tài khoản của mình. Sau đó, bạn có thể bắt đầu giao dịch trên Binance và rút tiền từ tài khoản của mình khi cần thiết. Chúc bạn thành công trong việc đầu tư và giao dịch tiền điện tử trên Binance!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/binance-huong-dan-dang-ky-va-su-dung-san-giao-dich-tien-so-lon-nhat-the-gioi/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

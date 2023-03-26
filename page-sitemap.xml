@@ -1,22 +1,22 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://nam3t.com/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/</loc>
+		<loc>https://nam3t.com/</loc>
 	</url>
 	<url>
-		<loc>/chinh-sach-bao-mat/</loc>
+		<loc>https://nam3t.com/chinh-sach-bao-mat/</loc>
 		<lastmod>2023-03-26T12:30:52+07:00</lastmod>
 	</url>
 	<url>
-		<loc>/mien-tru-trach-nhiem/</loc>
+		<loc>https://nam3t.com/mien-tru-trach-nhiem/</loc>
 		<lastmod>2023-03-23T17:34:33+07:00</lastmod>
 	</url>
 	<url>
-		<loc>/lien-he/</loc>
+		<loc>https://nam3t.com/lien-he/</loc>
 		<lastmod>2023-03-23T17:14:40+07:00</lastmod>
 	</url>
 	<url>
-		<loc>/ve-nam3t/</loc>
+		<loc>https://nam3t.com/ve-nam3t/</loc>
 		<lastmod>2023-03-01T17:08:07+07:00</lastmod>
 	</url>
 </urlset>

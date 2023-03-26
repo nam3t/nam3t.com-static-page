@@ -9,8 +9,8 @@
 
 <channel>
 	<title>investment &#8211; nam3t</title>
-	<atom:link href="/tag/investment/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/investment/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Wed, 15 Mar 2023 08:20:50 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>investment &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Chọn đồng tiền điện tử nào để đầu tư</title>
-		<link>/chon-dong-tien-dien-tu-nao-de-dau-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=chon-dong-tien-dien-tu-nao-de-dau-tu</link>
-					<comments>/chon-dong-tien-dien-tu-nao-de-dau-tu/#respond</comments>
+		<link>https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=chon-dong-tien-dien-tu-nao-de-dau-tu</link>
+					<comments>https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Fri, 24 Mar 2023 00:07:00 +0000</pubDate>
@@ -431,7 +431,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/chon-dong-tien-dien-tu-nao-de-dau-tu/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		

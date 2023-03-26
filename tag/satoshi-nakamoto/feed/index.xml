@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Satoshi Nakamoto &#8211; nam3t</title>
-	<atom:link href="/tag/satoshi-nakamoto/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="https://nam3t.com/tag/satoshi-nakamoto/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
 	<lastBuildDate>Tue, 14 Mar 2023 18:24:14 +0000</lastBuildDate>
 	<language>vi</language>
@@ -23,14 +23,14 @@
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
 	<title>Satoshi Nakamoto &#8211; nam3t</title>
-	<link>/</link>
+	<link>https://nam3t.com/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
 		<title>Lịch sử của tiền điện tử: Từ Bitcoin đến Altcoins</title>
-		<link>/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins</link>
-					<comments>/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/#respond</comments>
+		<link>https://nam3t.com/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins</link>
+					<comments>https://nam3t.com/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/#respond</comments>
 		
 		<dc:creator><![CDATA[nam3t]]></dc:creator>
 		<pubDate>Fri, 10 Mar 2023 00:00:00 +0000</pubDate>
@@ -244,7 +244,7 @@
 </div></div>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/feed/</wfw:commentRss>
+					<wfw:commentRss>https://nam3t.com/lich-su-cua-tien-dien-tu-tu-bitcoin-den-altcoins/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
