@@ -28,6 +28,461 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Quantitative Trading: Công cụ và chiến lược thuật toán</title>
+		<link>https://nam3t.com/quantitative-trading/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=quantitative-trading</link>
+					<comments>https://nam3t.com/quantitative-trading/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Mon, 27 Mar 2023 12:37:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử nâng cao]]></category>
+		<category><![CDATA[Quantitative Trading]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Trading Strategy]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=1142</guid>
+
+					<description><![CDATA[Quantitative Trading, hay còn gọi là Giao dịch định lượng, là một phương pháp giao dịch dựa trên việc phân tích kỹ thuật và thống kê để đưa ra các quyết định đầu tư. Nó được xây dựng dựa trên các mô hình toán học và thuật toán để giúp nhà đầu tư tìm kiếm [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Quantitative Trading, hay còn gọi là Giao dịch định lượng, là một phương pháp giao dịch dựa trên việc phân tích kỹ thuật và thống kê để đưa ra các quyết định đầu tư. Nó được xây dựng dựa trên các mô hình toán học và thuật toán để giúp nhà đầu tư tìm kiếm lợi nhuận trên thị trường.</p>
+
+
+
+<p>Trong ngành tiền mã hóa, Quantitative Trading ngày càng phổ biến do tính chất nhanh chóng và dễ thay đổi của thị trường. Nhiều nhà <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> và trader chuyển sang sử dụng các mô hình định lượng để cải thiện hiệu quả giao dịch và giảm thiểu rủi ro.</p>
+
+
+
+<h3>Ưu điểm của Quantitative Trading:</h3>
+
+
+
+<ul>
+<li>Tự động hóa quá trình giao dịch, giúp tiết kiệm thời gian và giảm thiểu sai sót.</li>
+
+
+
+<li>Tận dụng được các cơ hội kiếm lời nhanh chóng mà con người khó nhận biết.</li>
+
+
+
+<li>Giảm thiểu tác động của cảm xúc và những quyết định không lý trí trong giao dịch.</li>
+
+
+
+<li>Dễ dàng kiểm soát rủi ro và điều chỉnh <a class="wpil_keyword_link" href="https://nam3t.com/chien-luoc-giao-dich-tien-dien-tu-can-ban/" title="chiến lược giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">chiến lược giao dịch</a>.</li>
+</ul>
+
+
+
+<h3>Nhược điểm của Quantitative Trading:</h3>
+
+
+
+<ul>
+<li>Yêu cầu kiến thức cao về toán học, lập trình và phân tích thị trường.</li>
+
+
+
+<li>Phụ thuộc vào chất lượng dữ liệu và mô hình, có thể dẫn đến sai lầm nếu dữ liệu không chính xác hoặc mô hình không phù hợp.</li>
+
+
+
+<li>Cần thời gian và công sức để xây dựng, kiểm tra và tối ưu hóa mô hình.</li>
+
+
+
+<li>Một số chiến lược định lượng có thể không hiệu quả trong một số điều kiện thị trường đặc biệt.</li>
+</ul>
+
+
+
+<p>Trong các phần tiếp theo, chúng ta sẽ tìm hiểu về các phương pháp phổ biến trong Quantitative <a class="wpil_keyword_link" href="https://nam3t.com/quantitative-trading/" title="Trading" data-wpil-keyword-link="linked" target="_blank" rel="noopener">Trading</a>, cách xây dựng mô hình, và cách quản lý rủi ro, cũng như đưa ra các ví dụ thực tế.</p>
+
+
+
+<h2>Các phương pháp phổ biến trong Quantitative Trading</h2>
+
+
+
+<p>Có nhiều phương pháp được sử dụng trong Quantitative Trading, dựa trên các mô hình toán học và phân tích thị trường. Dưới đây là một số phương pháp phổ biến mà trader tiền mã hóa thường áp dụng:</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="877" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia.jpg" alt="Arbitrage (Tận dụng chênh lệch giá)" class="wp-image-1144" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia-300x263.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia-768x674.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia-750x658.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 1"><figcaption class="wp-element-caption">Arbitrage (Tận dụng chênh lệch giá)</figcaption></figure>
+
+
+
+<h3>Arbitrage (Tận dụng chênh lệch giá)</h3>
+
+
+
+<p>Arbitrage là phương pháp tận dụng chênh lệch giá của một tài sản trên các <a class="wpil_keyword_link" href="https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/" title="sàn giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">sàn giao dịch</a> khác nhau. Trader mua tài sản trên sàn có giá thấp và bán trên sàn có giá cao, kiếm lời từ chênh lệch giá. Đối với tiền mã hóa, các sàn giao dịch có thể có chênh lệch giá đáng kể, tạo ra cơ hội arbitrage.</p>
+
+
+
+<h3>Mean Reversion (Hồi quy về trung bình)</h3>
+
+
+
+<p>Mean Reversion là chiến lược dựa trên giả định rằng giá của một tài sản sẽ quay trở lại mức trung bình sau một khoảng thời gian. Trader sẽ mua khi giá thấp hơn mức trung bình và bán khi giá cao hơn mức trung bình, đạt được lợi nhuận từ sự hồi quy về trung bình.</p>
+
+
+
+<h3>Momentum Trading (Giao dịch theo xu hướng)</h3>
+
+
+
+<p>Momentum Trading là phương pháp giao dịch dựa trên việc theo dõi xu hướng giá của tài sản. Trader sẽ mua vào khi xu hướng tăng giá và bán ra khi xu hướng giảm giá. Các công cụ phân tích kỹ thuật như đường trung bình di động (MA), chỉ số RSI và MACD thường được sử dụng để xác định xu hướng.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong.jpg" alt="Momentum Trading (Giao dịch theo xu hướng)" class="wp-image-1145" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 2"><figcaption class="wp-element-caption">Momentum Trading (Giao dịch theo xu hướng)</figcaption></figure>
+
+
+
+<h3>Machine Learning và AI</h3>
+
+
+
+<p>Ngày nay, Machine Learning và trí tuệ nhân tạo (AI) đang được ứng dụng rộng rãi trong Quantitative Trading. Các mô hình dựa trên Machine Learning có khả năng tự học và điều chỉnh dựa trên dữ liệu thị trường, giúp dự báo giá và tìm kiếm cơ hội giao dịch tốt hơn. Ví dụ, các thuật toán học tập củng cố (Reinforcement Learning) và mạng nơ-ron (Neural Networks) được sử dụng để phân tích dữ liệu và đưa ra quyết định giao dịch.</p>
+
+
+
+<p>Các phương pháp trên đều có ưu và nhược điểm riêng, tùy thuộc vào kiến thức, kỹ năng và nguồn lực của trader. Để thành công trong Quantitative Trading, trader cần nắm vững các phương pháp này, chọn ra chiến lược phù hợp với mục tiêu đầu tư và thị trường tiền mã hóa.</p>
+
+
+
+<p>Các phương pháp trên có thể kết hợp với nhau để tạo nên một hệ thống giao dịch đa dạng và linh hoạt. Ví dụ, bạn có thể kết hợp Momentum Trading với Mean Reversion để tận dụng cả xu hướng tăng giá và sự hồi quy về trung bình. Hoặc bạn có thể áp dụng Machine Learning để cải thiện hiệu quả của các chiến lược Arbitrage và tìm kiếm cơ hội giao dịch nhanh chóng hơn.</p>
+
+
+
+<p>Trong các phần sau, chúng ta sẽ tìm hiểu về các yếu tố quan trọng trong việc xây dựng mô hình Quantitative Trading, cách thiết lập và quản lý rủi ro, cũng như đưa ra các ví dụ và case study từ thực tế.</p>
+
+
+
+<h2>Yếu tố quan trọng trong việc xây dựng mô hình Quantitative Trading</h2>
+
+
+
+<p>Để xây dựng một mô hình Quantitative Trading hiệu quả, trader cần chú ý đến các yếu tố sau:</p>
+
+
+
+<h3>Thu thập và xử lý dữ liệu</h3>
+
+
+
+<ul>
+<li>Đảm bảo nguồn dữ liệu chính xác, đầy đủ và cập nhật liên tục từ các sàn giao dịch, tin tức và thông tin thị trường.</li>
+
+
+
+<li>Xử lý và làm sạch dữ liệu để loại bỏ nhiễu, dữ liệu không hợp lý và khắc phục các vấn đề về độ trễ (latency).</li>
+</ul>
+
+
+
+<h3>Xác định chiến lược giao dịch</h3>
+
+
+
+<ul>
+<li>Chọn lựa phương pháp giao dịch phù hợp với mục tiêu đầu tư, thị trường tiền mã hóa và kỹ năng của trader.</li>
+
+
+
+<li>Xác định các tiêu chí giao dịch như điểm mua/bán, mức dừng lỗ (stop-loss), mức chốt lời (take-profit) và kích thước giao dịch.</li>
+</ul>
+
+
+
+<h3>Xây dựng và kiểm tra mô hình</h3>
+
+
+
+<ul>
+<li>Lập trình thuật toán và mô hình dựa trên phương pháp giao dịch đã chọn.</li>
+
+
+
+<li>Kiểm tra mô hình trên dữ liệu lịch sử (backtesting) để đánh giá hiệu quả và tìm ra những vấn đề cần cải thiện.</li>
+</ul>
+
+
+
+<h3>Tối ưu hóa và điều chỉnh mô hình</h3>
+
+
+
+<ul>
+<li>Tối ưu hóa các tham số của mô hình để đạt được kết quả tốt nhất trên dữ liệu kiểm tra.</li>
+
+
+
+<li>Điều chỉnh mô hình dựa trên kết quả thực tế và thị trường tiền mã hóa để giữ cho mô hình luôn cập nhật và phù hợp.</li>
+</ul>
+
+
+
+<p>Chú ý rằng, xây dựng mô hình Quantitative Trading là một quá trình liên tục và đòi hỏi sự kiên nhẫn, kỹ năng và kiến thức chuyên sâu. Trader cần phải thường xuyên theo dõi, kiểm tra và điều chỉnh mô hình để đạt được kết quả tốt nhất trong thị trường tiền mã hóa đầy biến động.</p>
+
+
+
+<h2>Công cụ và ngôn ngữ lập trình phổ biến</h2>
+
+
+
+<p>Để xây dựng mô hình Quantitative Trading, trader cần sử dụng các công cụ và ngôn ngữ lập trình phù hợp. Dưới đây là một số công cụ và ngôn ngữ lập trình phổ biến trong ngành tiền mã hóa:</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="500" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh.jpg" alt="Ngôn ngữ lập trình Quantitative Trading" class="wp-image-1148" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh-300x150.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh-768x384.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh-360x180.jpg 360w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh-750x375.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 3"><figcaption class="wp-element-caption">Ngôn ngữ lập trình</figcaption></figure>
+
+
+
+<h3>Ngôn ngữ lập trình</h3>
+
+
+
+<h4>Python</h4>
+
+
+
+<p>Python là ngôn ngữ lập trình phổ biến nhất trong Quantitative Trading vì tính dễ học, dễ sử dụng và hỗ trợ nhiều thư viện chuyên dụng. Python cung cấp các thư viện như Pandas, NumPy, Scikit-learn và TensorFlow để hỗ trợ phân tích dữ liệu, xử lý số liệu và xây dựng mô hình Machine Learning.</p>
+
+
+
+<h4>R</h4>
+
+
+
+<p>R là một ngôn ngữ lập trình chuyên dụng cho phân tích thống kê và đồ họa. R hỗ trợ nhiều công cụ và thư viện dành riêng cho Quantitative Trading như quantmod, PerformanceAnalytics và TTR. Tuy nhiên, R thường ít phổ biến hơn Python trong ngành tiền mã hóa.</p>
+
+
+
+<h4>JavaScript</h4>
+
+
+
+<p>JavaScript, đặc biệt là Node.js, cũng được sử dụng trong Quantitative Trading do tính linh hoạt và khả năng xử lý dữ liệu thời gian thực. JavaScript phù hợp cho việc phát triển các ứng dụng giao dịch có yêu cầu về tốc độ và tính tương tác cao.</p>
+
+
+
+<h3>Công cụ hỗ trợ</h3>
+
+
+
+<h4>Jupyter Notebook</h4>
+
+
+
+<p>Jupyter Notebook là một công cụ phổ biến cho việc phát triển và chia sẻ mã nguồn Python và R. Nó cho phép kết hợp mã lập trình, đồ họa và tài liệu trong một tập tin, giúp giải thích quá trình phân tích dữ liệu và xây dựng mô hình.</p>
+
+
+
+<h4>TradingView</h4>
+
+
+
+<p>TradingView là một nền tảng phân tích kỹ thuật và giao dịch trực tuyến. Nó cung cấp công cụ vẽ biểu đồ, chỉ số kỹ thuật và ngôn ngữ lập trình Pine Script để phát triển các chiến lược giao dịch tự động.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="440" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-1024x440.png" alt="TradingView" class="wp-image-1147" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-1024x440.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-300x129.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-768x330.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-1536x661.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-750x323.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-1140x490.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView.png 1872w" sizes="(max-width: 1024px) 100vw, 1024px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 4"><figcaption class="wp-element-caption">TradingView</figcaption></figure>
+
+
+
+<h4>APIs của các sàn giao dịch</h4>
+
+
+
+<p>Hầu hết các sàn giao dịch tiền mã hóa như Binance, Coinbase và BitMEX đều cung cấp API (Application Programming Interface) để cho phép trader truy cập dữ liệu thị trường, quản lý danh mục đầu tư và thực hiện giao dịch tự động.</p>
+
+
+
+<p>Khi chọn lựa công cụ và ngôn ngữ lập trình, trader nên cân nhắc yếu tố như kinh nghiệm lập trình, yêu cầu về tốc độ và hiệu năng, cũng như sự hỗ trợ từ cộng đồng. Việc lựa chọn phù hợp sẽ giúp trader dễ dàng hơn trong việc xây dựng, kiểm tra và triển khai mô hình Quantitative Trading.</p>
+
+
+
+<p>Trong quá trình xây dựng mô hình, trader cần chú ý đến việc tối ưu hóa hiệu năng, giảm độ trễ và quản lý rủi ro. Hãy kết hợp các công cụ và ngôn ngữ lập trình phù hợp để tạo ra một hệ thống giao dịch định lượng hiệu quả và phù hợp với mục tiêu đầu tư cũng như thị trường tiền mã hóa.</p>
+
+
+
+<h2>Thiết lập và quản lý rủi ro</h2>
+
+
+
+<p>Trong Quantitative Trading, việc quản lý rủi ro là yếu tố quan trọng để đảm bảo an toàn vốn và duy trì lợi nhuận. Dưới đây là một số phương pháp thiết lập và quản lý rủi ro phổ biến:</p>
+
+
+
+<h3>Xác định mức dừng lỗ (Stop-loss)</h3>
+
+
+
+<p>Mức dừng lỗ là giá mà trader sẵn sàng chấp nhận thua lỗ và rút khỏi giao dịch. Việc xác định mức dừng lỗ giúp hạn chế rủi ro và bảo vệ vốn đầu tư. Trader có thể sử dụng các công cụ phân tích kỹ thuật, như đường trung bình di động (MA) và chỉ số ATR (Average True Range), để xác định mức dừng lỗ phù hợp.</p>
+
+
+
+<h3>Xác định mức chốt lời (Take-profit)</h3>
+
+
+
+<p>Mức chốt lời là giá mà trader dự định thu được lợi nhuận và rút khỏi giao dịch. Việc xác định mức chốt lời giúp trader nắm bắt cơ hội và đảm bảo lợi nhuận. Các công cụ phân tích kỹ thuật, như các mức hỗ trợ và kháng cự, cũng có thể được sử dụng để xác định mức chốt lời hợp lý.</p>
+
+
+
+<h3>Kích thước giao dịch (Position sizing)</h3>
+
+
+
+<p>Kích thước giao dịch là số lượng tiền mã hóa mà trader đầu tư vào mỗi giao dịch. Việc điều chỉnh kích thước giao dịch phù hợp giúp hạn chế rủi ro và tối ưu hóa lợi nhuận. Trader có thể sử dụng phương pháp quản lý vốn như phương pháp Kelly Criterion hoặc phần trăm cố định (Fixed Percentage) để xác định kích thước giao dịch.</p>
+
+
+
+<h3>Đa dạng hóa danh mục đầu tư (Portfolio diversification)</h3>
+
+
+
+<p>Đa dạng hóa danh mục đầu tư là việc đầu tư vào nhiều loại tiền mã hóa khác nhau để giảm rủi ro và ổn định lợi nhuận. Trader có thể sử dụng phương pháp đầu tư đa dạng hóa như Modern Portfolio Theory (MPT) hoặc Equal Weighted Portfolio để phân bổ vốn một cách hợp lý.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT.jpg" alt="Modern Portfolio Theory (MPT)" class="wp-image-1146" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-300x300.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-150x150.jpg 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-768x768.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-75x75.jpg 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-750x750.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 5"><figcaption class="wp-element-caption">Modern Portfolio Theory (MPT)</figcaption></figure>
+
+
+
+<h3>Theo dõi và đánh giá hiệu quả</h3>
+
+
+
+<p>Trader cần theo dõi hiệu quả của mô hình Quantitative Trading và đánh giá các chỉ số hiệu suất như tỷ lệ Sharpe, tỷ lệ Sortino và tỷ lệ thông tin. Việc đánh giá hiệu quả giúp trader nhận biết những điểm mạnh và yếu của mô hình, đồng thời điều chỉnh chiến lược để cải thiện hiệu suất và giảm rủi ro.</p>
+
+
+
+<h3>Tối ưu hóa và điều chỉnh chiến lược</h3>
+
+
+
+<p>Sau khi đánh giá hiệu quả, trader cần tiến hành tối ưu hóa và điều chỉnh chiến lược giao dịch dựa trên kết quả đánh giá. Các kỹ thuật tối ưu hóa như tìm kiếm lưới (Grid Search), tìm kiếm ngẫu nhiên (Random Search) và thuật toán di truyền (Genetic Algorithm) có thể được sử dụng để tìm ra các tham số tối ưu cho mô hình.</p>
+
+
+
+<p>Việc thiết lập và quản lý rủi ro là một phần không thể thiếu trong Quantitative Trading. Trader cần chú ý đến việc bảo vệ vốn, tối ưu hóa lợi nhuận và đánh giá hiệu quả mô hình, nhằm đảm bảo sự ổn định và bền vững trong giao dịch tiền mã hóa.</p>
+
+
+
+<h2>Ví dụ và case study</h2>
+
+
+
+<p>Dưới đây là một số ví dụ và case study về Quantitative Trading trong thị trường tiền mã hóa, giúp bạn hiểu rõ hơn về cách thức hoạt động và ứng dụng của các chiến lược giao dịch định lượng.</p>
+
+
+
+<h3>Ví dụ 1: Arbitrage giữa hai sàn giao dịch</h3>
+
+
+
+<p>Giả sử trader phát hiện ra chênh lệch giá của Bitcoin (BTC) giữa hai sàn giao dịch A và B. Sàn A có giá mua BTC là $30,000, trong khi sàn B có giá bán BTC là $30,500. Trader có thể mua BTC trên sàn A rồi bán ngay lập tức trên sàn B, kiếm lời từ chênh lệch giá $500.</p>
+
+
+
+<h3>Ví dụ 2: Momentum Trading với đường trung bình di động (MA)</h3>
+
+
+
+<p>Giả sử một trader áp dụng chiến lược Momentum Trading dựa trên đường trung bình di động (MA) 50 ngày và 200 ngày cho đồng tiền mã hóa X. Trader quyết định mua vào khi đường MA 50 ngày cắt lên đường MA 200 ngày (Golden Cross) và bán ra khi đường MA 50 ngày cắt xuống đường MA 200 ngày (Death Cross).</p>
+
+
+
+<p>Kết hợp với các công cụ phân tích kỹ thuật khác, trader có thể nắm bắt các xu hướng tăng và giảm giá của đồng tiền mã hóa X, kiếm lời từ sự biến động của thị trường.</p>
+
+
+
+<h3>Case study: Quantitative Trading với Machine Learning</h3>
+
+
+
+<p>Một trader quyết định xây dựng một mô hình giao dịch định lượng dựa trên Machine Learning để dự đoán giá Ethereum (ETH) trong ngắn hạn. Trader sử dụng mạng nơ-ron nhân tạo (Artificial Neural Network) để phân tích dữ liệu lịch sử về giá, khối lượng giao dịch và các chỉ số kỹ thuật.</p>
+
+
+
+<p>Sau khi huấn luyện và kiểm tra mô hình, trader triển khai mô hình vào thị trường thực tế. Mô hình tự động đưa ra các quyết định mua và bán dựa trên dự đoán của mạng nơ-ron, giúp trader kiếm lời từ các cơ hội giao dịch ngắn hạn mà không cần theo dõi thị trường liên tục.</p>
+
+
+
+<p>Các ví dụ và case study trên chỉ là một số minh họa về cách thức hoạt động của Quantitative Trading trong thị trường tiền mã hóa. Mỗi trader có thể xây dựng và điều chỉnh các chiến lược giao dịch định lượng dựa trên kinh nghiệm, kiến thức và kỹ năng của bản thân. Đồng thời, việc kết hợp nhiều phương pháp và công cụ phân tích khác nhau cũng giúp trader nâng cao hiệu quả giao dịch và giảm rủi ro trong thị trường tiền mã hóa đầy biến động.</p>
+
+
+
+<p>Trong quá trình xây dựng và áp dụng các chiến lược Quantitative Trading, trader cần luôn chú ý đến việc quản lý rủi ro, theo dõi hiệu quả của mô hình và điều chỉnh chiến lược kịp thời dựa trên thị trường và kết quả đánh giá. Đồng thời, việc học hỏi và cập nhật kiến thức mới về tiền mã hóa, phân tích kỹ thuật và phát triển công nghệ cũng rất quan trọng để trader nắm bắt cơ hội và thành công trong lĩnh vực Quantitative Trading.</p>
+
+
+
+<h2>Kết luận</h2>
+
+
+
+<p>Quantitative Trading là một phương pháp giao dịch tiền mã hóa hiệu quả, dựa trên các mô hình toán học và phân tích kỹ thuật. Bằng cách áp dụng các chiến lược định lượng như Arbitrage, Mean Reversion, Momentum Trading và sử dụng công nghệ Machine Learning, trader có thể tận dụng các cơ hội giao dịch và kiếm lời từ sự biến động của thị trường tiền mã hóa.</p>
+
+
+
+<p>Tuy nhiên, thành công trong Quantitative Trading đòi hỏi trader phải có kiến thức sâu rộng về tiền mã hóa, phân tích kỹ thuật và lập trình, cũng như kỹ năng quản lý rủi ro và đánh giá hiệu quả của mô hình giao dịch. Hãy không ngừng học hỏi, nâng cao kỹ năng và trau dồi kiến thức để đạt được kết quả tốt nhất trong lĩnh vực Quantitative Trading.</p>
+
+
+
+<p>Hy vọng qua bài viết này, bạn đã hiểu rõ hơn về Quantitative Trading trong thị trường tiền mã hóa và có đủ thông tin để bắt đầu xây dựng chiến lược giao dịch định lượng cho riêng mình. Chúc bạn thành công và kiếm được nhiều lợi nhuận từ thị trường tiền mã hóa!</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p>Tài liệu tham khảo:</p>
+
+
+
+<ol>
+<li><a href="https://academy.binance.com/vi" target="_blank" rel="noreferrer noopener">Binance Academy</a></li>
+
+
+
+<li><a href="https://cointelegraph.com/explained" target="_blank" rel="noreferrer noopener">Cointelegraph Explained</a></li>
+
+
+
+<li><a href="https://www.investopedia.com/terms/a/algorithmictrading.asp" target="_blank" rel="noreferrer noopener">Investopedia &#8211; Algorithmic Trading</a></li>
+
+
+
+<li><a href="https://github.com/quantopian" target="_blank" data-type="URL" data-id="https://github.com/quantopian" rel="noreferrer noopener">Quantopian</a></li>
+
+
+
+<li><a href="https://www.quantstart.com/" target="_blank" rel="noreferrer noopener">QuantStart</a></li>
+
+
+
+<li><a href="https://www.tradingview.com/" target="_blank" rel="noreferrer noopener">TradingView</a></li>
+</ol>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nam3t.com/quantitative-trading/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Cross-Chain Swaps: Mở khóa  tiềm năng của Blockchain Interoperability</title>
 		<link>https://nam3t.com/cross-chain-swaps/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=cross-chain-swaps</link>
 					<comments>https://nam3t.com/cross-chain-swaps/#respond</comments>
@@ -70,7 +525,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps.jpg" alt="Atomic Swaps" class="wp-image-1134" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 1"><figcaption class="wp-element-caption">Atomic Swaps</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps.jpg" alt="Atomic Swaps" class="wp-image-1134" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26112823/Atomic-Swaps-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 6"><figcaption class="wp-element-caption">Atomic Swaps</figcaption></figure>
 
 
 
@@ -86,7 +541,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="750" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges.jpg" alt="Token Bridges" class="wp-image-1135" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges-300x225.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges-768x576.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges-750x563.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 2"><figcaption class="wp-element-caption">Token Bridges</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="750" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges.jpg" alt="Token Bridges" class="wp-image-1135" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges-300x225.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges-768x576.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113208/Token-Bridges-750x563.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 7"><figcaption class="wp-element-caption">Token Bridges</figcaption></figure>
 
 
 
@@ -266,7 +721,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="563" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain.jpg" alt="THORChain" class="wp-image-1136" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 3"><figcaption class="wp-element-caption">THORChain</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="563" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain.jpg" alt="THORChain" class="wp-image-1136" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113410/THORChain-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 8"><figcaption class="wp-element-caption">THORChain</figcaption></figure>
 
 
 
@@ -278,7 +733,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="599" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-1024x599.png" alt="ChainSwap" class="wp-image-1138" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-1024x599.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-300x175.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-768x449.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-750x439.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-1140x667.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap.png 1387w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 4"><figcaption class="wp-element-caption">ChainSwap</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="599" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-1024x599.png" alt="ChainSwap" class="wp-image-1138" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-1024x599.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-300x175.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-768x449.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-750x439.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap-1140x667.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113816/ChainSwap.png 1387w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 9"><figcaption class="wp-element-caption">ChainSwap</figcaption></figure>
 
 
 
@@ -290,7 +745,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="666" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-1024x666.png" alt="Multichain" class="wp-image-1139" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-1024x666.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-300x195.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-768x500.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-750x488.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-1140x742.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain.png 1319w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 5"><figcaption class="wp-element-caption">Multichain</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="666" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-1024x666.png" alt="Multichain" class="wp-image-1139" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-1024x666.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-300x195.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-768x500.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-750x488.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain-1140x742.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113928/Multichain.png 1319w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 10"><figcaption class="wp-element-caption">Multichain</figcaption></figure>
 
 
 
@@ -302,7 +757,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="648" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-1024x648.png" alt="Ren Protocol" class="wp-image-1140" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-1024x648.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-300x190.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-768x486.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-750x475.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-1140x722.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol.png 1215w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 6"><figcaption class="wp-element-caption">Ren Protocol</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="648" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-1024x648.png" alt="Ren Protocol" class="wp-image-1140" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-1024x648.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-300x190.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-768x486.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-750x475.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol-1140x722.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26114128/Ren-Protocol.png 1215w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 11"><figcaption class="wp-element-caption">Ren Protocol</figcaption></figure>
 
 
 
@@ -314,7 +769,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="528" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png" alt="Cosmos" class="wp-image-1089" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-300x155.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-768x396.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-750x387.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1140x588.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos.png 1251w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 7"><figcaption class="wp-element-caption">Cosmos</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="528" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png" alt="Cosmos" class="wp-image-1089" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-300x155.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-768x396.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-750x387.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1140x588.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos.png 1251w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 12"><figcaption class="wp-element-caption">Cosmos</figcaption></figure>
 
 
 
@@ -326,7 +781,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="537" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png" alt="Polkadot" class="wp-image-1090" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-300x157.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-768x403.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-750x393.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1140x598.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot.png 1306w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 8"><figcaption class="wp-element-caption">Polkadot</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="537" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png" alt="Polkadot" class="wp-image-1090" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-300x157.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-768x403.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-750x393.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1140x598.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot.png 1306w" sizes="(max-width: 1024px) 100vw, 1024px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 13"><figcaption class="wp-element-caption">Polkadot</figcaption></figure>
 
 
 
@@ -338,7 +793,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="563" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network.jpg" alt="Kyber Network " class="wp-image-1137" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 9"><figcaption class="wp-element-caption">Kyber Network </figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="563" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network.jpg" alt="Kyber Network " class="wp-image-1137" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Cross-Chain Swaps: Mở khóa tiềm năng của Blockchain Interoperability 14"><figcaption class="wp-element-caption">Kyber Network </figcaption></figure>
 
 
 
@@ -507,7 +962,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi.jpg" alt="Staking là gì?" class="wp-image-1122" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi-750x500.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược Staking Nâng cao 10"><figcaption class="wp-element-caption">Staking là gì?</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi.jpg" alt="Staking là gì?" class="wp-image-1122" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191026/Staking-la-gi-750x500.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược Staking Nâng cao 15"><figcaption class="wp-element-caption">Staking là gì?</figcaption></figure>
 
 
 
@@ -715,7 +1170,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="933" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao.jpg" alt="So Sánh Các Chiến Lược Staking Nâng Cao" class="wp-image-1123" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao-300x280.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao-768x717.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao-750x700.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược Staking Nâng cao 11"><figcaption class="wp-element-caption">So Sánh Các Chiến Lược Staking Nâng Cao</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="933" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao.jpg" alt="So Sánh Các Chiến Lược Staking Nâng Cao" class="wp-image-1123" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao-300x280.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao-768x717.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25191204/So-Sanh-Cac-Chien-Luoc-Staking-Nang-Cao-750x700.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược Staking Nâng cao 16"><figcaption class="wp-element-caption">So Sánh Các Chiến Lược Staking Nâng Cao</figcaption></figure>
 
 
 
@@ -881,7 +1336,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="715" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token.jpg" alt="Cách phân phối token" class="wp-image-1109" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-300x215.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-768x549.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-120x86.jpg 120w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-350x250.jpg 350w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-750x536.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Token Economics: Giá trị tiềm ẩn của token trong ngành công nghiệp tiền mã hoá 12"><figcaption class="wp-element-caption">Cách phân phối token</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="715" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token.jpg" alt="Cách phân phối token" class="wp-image-1109" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-300x215.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-768x549.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-120x86.jpg 120w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-350x250.jpg 350w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162702/Cach-phan-phoi-token-750x536.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Token Economics: Giá trị tiềm ẩn của token trong ngành công nghiệp tiền mã hoá 17"><figcaption class="wp-element-caption">Cách phân phối token</figcaption></figure>
 
 
 
@@ -959,7 +1414,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="640" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong.jpg" alt="Chiến lược tạo giá trị cho cộng đồng " class="wp-image-1111" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong-300x192.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong-768x492.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong-750x480.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Token Economics: Giá trị tiềm ẩn của token trong ngành công nghiệp tiền mã hoá 13"><figcaption class="wp-element-caption">Chiến lược tạo giá trị cho cộng đồng </figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="640" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong.jpg" alt="Chiến lược tạo giá trị cho cộng đồng " class="wp-image-1111" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong-300x192.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong-768x492.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/25162959/Chien-luoc-tao-gia-tri-cho-cong-dong-750x480.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Token Economics: Giá trị tiềm ẩn của token trong ngành công nghiệp tiền mã hoá 18"><figcaption class="wp-element-caption">Chiến lược tạo giá trị cho cộng đồng </figcaption></figure>
 
 
 
@@ -1219,7 +1674,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="528" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png" alt="Cosmos" class="wp-image-1089" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-300x155.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-768x396.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-750x387.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1140x588.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos.png 1251w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 14"><figcaption class="wp-element-caption">Cosmos</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="528" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png" alt="Cosmos" class="wp-image-1089" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1024x528.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-300x155.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-768x396.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-750x387.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos-1140x588.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130212/Cosmos.png 1251w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 19"><figcaption class="wp-element-caption">Cosmos</figcaption></figure>
 
 
 
@@ -1233,7 +1688,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="537" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png" alt="Polkadot" class="wp-image-1090" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-300x157.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-768x403.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-750x393.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1140x598.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot.png 1306w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 15"><figcaption class="wp-element-caption">Polkadot</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="537" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png" alt="Polkadot" class="wp-image-1090" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1024x537.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-300x157.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-768x403.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-750x393.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot-1140x598.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24130307/Polkadot.png 1306w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 20"><figcaption class="wp-element-caption">Polkadot</figcaption></figure>
 
 
 
@@ -1245,7 +1700,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="453" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1024x453.png" alt="Chainlink" class="wp-image-1091" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1024x453.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-300x133.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-768x340.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1536x679.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-750x332.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1140x504.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink.png 1547w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 16"><figcaption class="wp-element-caption">Chainlink</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="453" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1024x453.png" alt="Chainlink" class="wp-image-1091" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1024x453.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-300x133.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-768x340.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1536x679.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-750x332.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1140x504.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink.png 1547w" sizes="(max-width: 1024px) 100vw, 1024px" title="Blockchain Interoperability: Kết nối các nền tảng Blockchain 21"><figcaption class="wp-element-caption">Chainlink</figcaption></figure>
 
 
 
@@ -1403,7 +1858,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="307" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi.jpg" alt="Các thành phần chính của DeFi" class="wp-image-1074" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-300x92.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-768x236.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-750x230.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 17"><figcaption class="wp-element-caption">Các thành phần chính của DeFi</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="307" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi.jpg" alt="Các thành phần chính của DeFi" class="wp-image-1074" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-300x92.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-768x236.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121107/Cac-thanh-phan-chinh-cua-DeFi-750x230.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 22"><figcaption class="wp-element-caption">Các thành phần chính của DeFi</figcaption></figure>
 
 
 
@@ -1511,7 +1966,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1024x576.jpg" alt="aave" class="wp-image-607" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1024x576.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-750x422.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1140x641.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 18"><figcaption>DeFi là gì và Tiềm năng của tài chính phi tập trung 29</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="576" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1024x576.jpg" alt="aave" class="wp-image-607" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1024x576.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-750x422.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18-1140x641.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/10190239/2023-18.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 23"><figcaption>DeFi là gì và Tiềm năng của tài chính phi tập trung 34</figcaption></figure>
 
 
 
@@ -1527,7 +1982,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="739" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1024x739.png" alt="Compound" class="wp-image-1076" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1024x739.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-300x217.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-768x555.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-120x86.png 120w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-750x542.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1140x823.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound.png 1173w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 19"><figcaption class="wp-element-caption">Compound</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="739" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1024x739.png" alt="Compound" class="wp-image-1076" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1024x739.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-300x217.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-768x555.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-120x86.png 120w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-750x542.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound-1140x823.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121448/Compound.png 1173w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 24"><figcaption class="wp-element-caption">Compound</figcaption></figure>
 
 
 
@@ -1543,7 +1998,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1024x687.png" alt="MakerDAO" class="wp-image-1077" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1024x687.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-300x201.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-768x515.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-750x503.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1140x765.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO.png 1273w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 20"><figcaption class="wp-element-caption">MakerDAO</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1024x687.png" alt="MakerDAO" class="wp-image-1077" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1024x687.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-300x201.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-768x515.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-750x503.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1140x765.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO.png 1273w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 25"><figcaption class="wp-element-caption">MakerDAO</figcaption></figure>
 
 
 
@@ -1559,7 +2014,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="650" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1024x650.png" alt="Uniswap" class="wp-image-1078" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1024x650.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-300x190.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-768x487.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-750x476.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1140x723.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap.png 1289w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 21"><figcaption class="wp-element-caption">Uniswap</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="650" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1024x650.png" alt="Uniswap" class="wp-image-1078" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1024x650.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-300x190.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-768x487.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-750x476.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap-1140x723.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121727/Uniswap.png 1289w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 26"><figcaption class="wp-element-caption">Uniswap</figcaption></figure>
 
 
 
@@ -1575,7 +2030,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1018" height="688" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap.png" alt="Sushiswap" class="wp-image-1079" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap.png 1018w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-300x203.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-768x519.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-750x507.png 750w" sizes="(max-width: 1018px) 100vw, 1018px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 22"><figcaption class="wp-element-caption">Sushiswap</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1018" height="688" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap.png" alt="Sushiswap" class="wp-image-1079" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap.png 1018w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-300x203.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-768x519.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121914/Sushiswap-750x507.png 750w" sizes="(max-width: 1018px) 100vw, 1018px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 27"><figcaption class="wp-element-caption">Sushiswap</figcaption></figure>
 
 
 
@@ -1591,7 +2046,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="442" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1024x442.png" alt="dydx" class="wp-image-1080" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1024x442.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-300x130.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-768x332.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1536x664.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-750x324.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1140x493.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx.png 1900w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 23"><figcaption class="wp-element-caption">dydx</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="442" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1024x442.png" alt="dydx" class="wp-image-1080" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1024x442.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-300x130.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-768x332.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1536x664.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-750x324.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx-1140x493.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122031/dydx.png 1900w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 28"><figcaption class="wp-element-caption">dydx</figcaption></figure>
 
 
 
@@ -1607,7 +2062,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="410" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1024x410.png" alt="synthetix" class="wp-image-1081" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1024x410.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-300x120.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-768x308.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1536x616.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-750x301.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1140x457.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix.png 1881w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 24"><figcaption class="wp-element-caption">synthetix</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="410" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1024x410.png" alt="synthetix" class="wp-image-1081" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1024x410.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-300x120.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-768x308.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1536x616.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-750x301.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix-1140x457.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122207/synthetix.png 1881w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 29"><figcaption class="wp-element-caption">synthetix</figcaption></figure>
 
 
 
@@ -1623,7 +2078,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="520" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1024x520.png" alt="Nexus Mutual" class="wp-image-1082" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1024x520.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-300x152.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-768x390.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-750x381.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1140x579.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual.png 1328w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 25"><figcaption class="wp-element-caption">Nexus Mutual</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="520" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1024x520.png" alt="Nexus Mutual" class="wp-image-1082" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1024x520.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-300x152.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-768x390.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-750x381.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual-1140x579.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122328/Nexus-Mutual.png 1328w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 30"><figcaption class="wp-element-caption">Nexus Mutual</figcaption></figure>
 
 
 
@@ -1639,7 +2094,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="577" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1024x577.png" alt="DeFi là gì và Tiềm năng của tài chính phi tập trung 1" class="wp-image-1083" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1024x577.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-300x169.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-768x433.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-750x423.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1140x642.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance.png 1283w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 26"><figcaption class="wp-element-caption">Yearn Finance</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="577" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1024x577.png" alt="DeFi là gì và Tiềm năng của tài chính phi tập trung 1" class="wp-image-1083" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1024x577.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-300x169.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-768x433.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-750x423.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance-1140x642.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122423/Yearn-Finance.png 1283w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 31"><figcaption class="wp-element-caption">Yearn Finance</figcaption></figure>
 
 
 
@@ -1655,7 +2110,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="552" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1024x552.png" alt="Curve Finance" class="wp-image-1084" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1024x552.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-300x162.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-768x414.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-750x404.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1140x614.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance.png 1256w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 27"><figcaption class="wp-element-caption">Curve Finance</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="552" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1024x552.png" alt="Curve Finance" class="wp-image-1084" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1024x552.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-300x162.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-768x414.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-750x404.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance-1140x614.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122542/Curve-Finance.png 1256w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 32"><figcaption class="wp-element-caption">Curve Finance</figcaption></figure>
 
 
 
@@ -1671,7 +2126,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="267" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1024x267.png" alt="DeFi là gì và Tiềm năng của tài chính phi tập trung 2" class="wp-image-1085" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1024x267.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-300x78.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-768x200.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1536x400.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-750x195.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1140x297.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer.png 1842w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 28"><figcaption>DeFi là gì và Tiềm năng của tài chính phi tập trung 30</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="267" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1024x267.png" alt="DeFi là gì và Tiềm năng của tài chính phi tập trung 2" class="wp-image-1085" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1024x267.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-300x78.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-768x200.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1536x400.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-750x195.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer-1140x297.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24122653/Balancer.png 1842w" sizes="(max-width: 1024px) 100vw, 1024px" title="DeFi là gì và Tiềm năng của tài chính phi tập trung 33"><figcaption>DeFi là gì và Tiềm năng của tài chính phi tập trung 35</figcaption></figure>
 
 
 
@@ -1783,7 +2238,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days.jpg" alt="Beeple và tác phẩm &quot;Everydays: The First 5000 Days&quot;" class="wp-image-1065" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-300x300.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-150x150.jpg 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-768x768.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-75x75.jpg 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-750x750.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 31"><figcaption class="wp-element-caption">Beeple và tác phẩm &#8220;Everydays: The First 5000 Days&#8221;</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1024" height="1024" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days.jpg" alt="Beeple và tác phẩm &quot;Everydays: The First 5000 Days&quot;" class="wp-image-1065" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-300x300.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-150x150.jpg 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-768x768.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-75x75.jpg 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112820/Everydays-The-First-5000-Days-750x750.jpg 750w" sizes="(max-width: 1024px) 100vw, 1024px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 36"><figcaption class="wp-element-caption">Beeple và tác phẩm &#8220;Everydays: The First 5000 Days&#8221;</figcaption></figure>
 
 
 
@@ -1795,7 +2250,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks.jpg" alt="CryptoPunks" class="wp-image-1064" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-300x300.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-150x150.jpg 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-768x768.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-75x75.jpg 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-750x750.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 32"><figcaption class="wp-element-caption">CryptoPunks</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks.jpg" alt="CryptoPunks" class="wp-image-1064" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-300x300.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-150x150.jpg 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-768x768.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-75x75.jpg 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112409/CryptoPunks-750x750.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 37"><figcaption class="wp-element-caption">CryptoPunks</figcaption></figure>
 
 
 
@@ -1807,7 +2262,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="563" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity.jpeg" alt="Axie Infinity" class="wp-image-1066" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity.jpeg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity-300x169.jpeg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity-768x432.jpeg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity-750x422.jpeg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 33"><figcaption class="wp-element-caption">Axie Infinity</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="563" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity.jpeg" alt="Axie Infinity" class="wp-image-1066" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity.jpeg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity-300x169.jpeg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity-768x432.jpeg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24112835/Axie-Infinity-750x422.jpeg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 38"><figcaption class="wp-element-caption">Axie Infinity</figcaption></figure>
 
 
 
@@ -1827,7 +2282,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1008" height="639" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women.png" alt="World of Women" class="wp-image-1067" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women.png 1008w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women-300x190.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women-768x487.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women-750x475.png 750w" sizes="(max-width: 1008px) 100vw, 1008px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 34"><figcaption class="wp-element-caption">World of Women</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1008" height="639" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women.png" alt="World of Women" class="wp-image-1067" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women.png 1008w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women-300x190.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women-768x487.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113103/World-of-Women-750x475.png 750w" sizes="(max-width: 1008px) 100vw, 1008px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 39"><figcaption class="wp-element-caption">World of Women</figcaption></figure>
 
 
 
@@ -1843,7 +2298,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1006" height="628" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC.png" alt="Bored Ape Yacht Club - BAYC" class="wp-image-1068" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC.png 1006w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC-300x187.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC-768x479.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC-750x468.png 750w" sizes="(max-width: 1006px) 100vw, 1006px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 35"><figcaption class="wp-element-caption"> BAYC &#8211; Bored Ape Yacht Club</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1006" height="628" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC.png" alt="Bored Ape Yacht Club - BAYC" class="wp-image-1068" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC.png 1006w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC-300x187.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC-768x479.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24113352/Bored-Ape-Yacht-Club-BAYC-750x468.png 750w" sizes="(max-width: 1006px) 100vw, 1006px" title="NFT nổi bật trong nghệ thuật kỹ thuật số 40"><figcaption class="wp-element-caption"> BAYC &#8211; Bored Ape Yacht Club</figcaption></figure>
 
 
 
@@ -2010,7 +2465,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="733" src="https://nam3t.com/wp-content/uploads/2023/03/Xac-dinh-muc-tieu-1024x733.jpg" alt="Xác định mục tiêu" class="wp-image-829" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-1024x733.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-300x215.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-768x549.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-1536x1099.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-2048x1465.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-120x86.jpg 120w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-350x250.jpg 350w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-750x537.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-1140x816.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chọn đồng tiền điện tử nào để đầu tư 36"><figcaption class="wp-element-caption">Xác định mục tiêu</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="733" src="https://nam3t.com/wp-content/uploads/2023/03/Xac-dinh-muc-tieu-1024x733.jpg" alt="Xác định mục tiêu" class="wp-image-829" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-1024x733.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-300x215.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-768x549.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-1536x1099.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-2048x1465.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-120x86.jpg 120w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-350x250.jpg 350w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-750x537.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-1140x816.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151652/Xac-dinh-muc-tieu-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Chọn đồng tiền điện tử nào để đầu tư 41"><figcaption class="wp-element-caption">Xác định mục tiêu</figcaption></figure>
 
 
 
@@ -2114,7 +2569,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Cong-nghe-Blockchain.jpg" alt="Công nghệ Blockchain" class="wp-image-828" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151422/Cong-nghe-Blockchain.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151422/Cong-nghe-Blockchain-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151422/Cong-nghe-Blockchain-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151422/Cong-nghe-Blockchain-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chọn đồng tiền điện tử nào để đầu tư 37"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Cong-nghe-Blockchain.jpg" alt="Công nghệ Blockchain" class="wp-image-828" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151422/Cong-nghe-Blockchain.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151422/Cong-nghe-Blockchain-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151422/Cong-nghe-Blockchain-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151422/Cong-nghe-Blockchain-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chọn đồng tiền điện tử nào để đầu tư 42"><figcaption class="wp-element-caption">Công nghệ Blockchain</figcaption></figure>
 
 
 
@@ -2222,7 +2677,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://nam3t.com/wp-content/uploads/2023/03/Chon-dung-san-giao-dich.jpg" alt="Chọn đúng sàn giao dịch" class="wp-image-827" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151302/Chon-dung-san-giao-dich.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151302/Chon-dung-san-giao-dich-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151302/Chon-dung-san-giao-dich-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151302/Chon-dung-san-giao-dich-750x500.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chọn đồng tiền điện tử nào để đầu tư 38"><figcaption class="wp-element-caption">Chọn đúng sàn giao dịch</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://nam3t.com/wp-content/uploads/2023/03/Chon-dung-san-giao-dich.jpg" alt="Chọn đúng sàn giao dịch" class="wp-image-827" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151302/Chon-dung-san-giao-dich.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151302/Chon-dung-san-giao-dich-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151302/Chon-dung-san-giao-dich-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15151302/Chon-dung-san-giao-dich-750x500.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chọn đồng tiền điện tử nào để đầu tư 43"><figcaption class="wp-element-caption">Chọn đúng sàn giao dịch</figcaption></figure>
 
 
 
@@ -2454,7 +2909,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="570" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero.jpg" alt="Monero (XMR)" class="wp-image-907" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero-300x171.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero-768x438.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero-750x428.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Khám phá Privacy Coins: Monero, Zcash, và Grin 39"><figcaption class="wp-element-caption">Monero (XMR)</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="570" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero.jpg" alt="Monero (XMR)" class="wp-image-907" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero-300x171.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero-768x438.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171803/monero-750x428.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Khám phá Privacy Coins: Monero, Zcash, và Grin 44"><figcaption class="wp-element-caption">Monero (XMR)</figcaption></figure>
 
 
 
@@ -2532,7 +2987,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="514" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash.jpg" alt="Zcash (ZEC)" class="wp-image-908" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash-300x154.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash-768x395.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash-750x386.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Khám phá Privacy Coins: Monero, Zcash, và Grin 40"><figcaption class="wp-element-caption">Zcash (ZEC)</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="514" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash.jpg" alt="Zcash (ZEC)" class="wp-image-908" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash-300x154.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash-768x395.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/20171808/zcash-750x386.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Khám phá Privacy Coins: Monero, Zcash, và Grin 45"><figcaption class="wp-element-caption">Zcash (ZEC)</figcaption></figure>
 
 
 
@@ -2572,7 +3027,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN.jpg" alt="Grin (GRIN)" class="wp-image-1037" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-300x300.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-150x150.jpg 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-768x768.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-75x75.jpg 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-750x750.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Khám phá Privacy Coins: Monero, Zcash, và Grin 41"><figcaption class="wp-element-caption">Grin (GRIN)</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN.jpg" alt="Grin (GRIN)" class="wp-image-1037" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-300x300.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-150x150.jpg 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-768x768.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-75x75.jpg 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23233823/Grin-GRIN-750x750.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Khám phá Privacy Coins: Monero, Zcash, và Grin 46"><figcaption class="wp-element-caption">Grin (GRIN)</figcaption></figure>
 
 
 
@@ -2687,7 +3142,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="750" src="https://nam3t.com/wp-content/uploads/2023/03/Phan-tich-ky-thuat.jpg" alt="Phân tích kỹ thuật" class="wp-image-822" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-300x225.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-768x576.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-750x563.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 42"><figcaption class="wp-element-caption">Phân tích kỹ thuật</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="750" src="https://nam3t.com/wp-content/uploads/2023/03/Phan-tich-ky-thuat.jpg" alt="Phân tích kỹ thuật" class="wp-image-822" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-300x225.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-768x576.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-750x563.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 47"><figcaption class="wp-element-caption">Phân tích kỹ thuật</figcaption></figure>
 
 
 
@@ -2777,7 +3232,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="429" src="https://nam3t.com/wp-content/uploads/2023/03/Phan-tich-co-ban.jpg" alt="Phân tích cơ bản" class="wp-image-823" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-300x129.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-768x329.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-750x322.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 43"><figcaption class="wp-element-caption">Phân tích cơ bản</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="429" src="https://nam3t.com/wp-content/uploads/2023/03/Phan-tich-co-ban.jpg" alt="Phân tích cơ bản" class="wp-image-823" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-300x129.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-768x329.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-750x322.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 48"><figcaption class="wp-element-caption">Phân tích cơ bản</figcaption></figure>
 
 
 
@@ -2927,7 +3382,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Chien-luoc-giao-dich.jpg" alt="Chiến lược giao dịch" class="wp-image-824" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 44"><figcaption class="wp-element-caption">Chiến lược giao dịch</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Chien-luoc-giao-dich.jpg" alt="Chiến lược giao dịch" class="wp-image-824" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 49"><figcaption class="wp-element-caption">Chiến lược giao dịch</figcaption></figure>
 
 
 
@@ -2939,7 +3394,7 @@
 
 
 
-<p><strong>Swing trading</strong> là chiến lược giao dịch ngắn hạn, với mục tiêu nắm giữ vị thế trong vài ngày hoặc vài tuần. Chiến lược này phù hợp với những người muốn tận dụng sự dao động ngắn hạn của giá để tìm kiếm lợi nhuận. Ví dụ, một nhà giao dịch có thể mua một đồng coin với giá thấp và bán nó với giá cao hơn sau vài ngày hoặc vài tuần khi giá tăng lên. Điều quan trọng là lựa chọn đúng thời điểm để mua và bán.</p>
+<p><strong>Swing <a class="wpil_keyword_link" href="https://nam3t.com/quantitative-trading/" title="trading" data-wpil-keyword-link="linked" target="_blank" rel="noopener">trading</a></strong> là chiến lược giao dịch ngắn hạn, với mục tiêu nắm giữ vị thế trong vài ngày hoặc vài tuần. Chiến lược này phù hợp với những người muốn tận dụng sự dao động ngắn hạn của giá để tìm kiếm lợi nhuận. Ví dụ, một nhà giao dịch có thể mua một đồng coin với giá thấp và bán nó với giá cao hơn sau vài ngày hoặc vài tuần khi giá tăng lên. Điều quan trọng là lựa chọn đúng thời điểm để mua và bán.</p>
 
 
 
@@ -3033,251 +3488,6 @@
 ]]></content:encoded>
 					
 					<wfw:commentRss>https://nam3t.com/chien-luoc-giao-dich-tien-dien-tu-can-ban/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Flash Loans là gì? Những điều bạn cần biết</title>
-		<link>https://nam3t.com/flash-loans-la-gi-nhung-dieu-ban-can-biet/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=flash-loans-la-gi-nhung-dieu-ban-can-biet</link>
-					<comments>https://nam3t.com/flash-loans-la-gi-nhung-dieu-ban-can-biet/#respond</comments>
-		
-		<dc:creator><![CDATA[nam3t]]></dc:creator>
-		<pubDate>Wed, 22 Mar 2023 14:49:00 +0000</pubDate>
-				<category><![CDATA[Tiền điện tử nâng cao]]></category>
-		<category><![CDATA[Flash Loans]]></category>
-		<guid isPermaLink="false">https://nam3t.com/?p=922</guid>
-
-					<description><![CDATA[Trong thế giới tiền điện tử và blockchain, các công nghệ và sản phẩm mới liên tục xuất hiện, tạo ra nhiều cơ hội cho người dùng. Một trong những xu hướng mới đáng chú ý là Flash Loans, hay còn gọi là khoản vay nhanh. Bài Flash Loans là gì này sẽ giúp bạn [&#8230;]]]></description>
-										<content:encoded><![CDATA[
-<p>Trong thế giới tiền điện tử và blockchain, các công nghệ và sản phẩm mới liên tục xuất hiện, tạo ra nhiều cơ hội cho người dùng. Một trong những xu hướng mới đáng chú ý là Flash Loans, hay còn gọi là khoản vay nhanh. Bài <strong>Flash Loans là gì</strong> này sẽ giúp bạn hiểu rõ hơn về Flash Loans, cách hoạt động của chúng, ứng dụng thực tế và các vấn đề liên quan.</p>
-
-
-
-<h2>Flash Loans là gì?</h2>
-
-
-
-<p>Flash Loans là một dạng khoản vay không cần tài sản đảm bảo (collateral) trong thị trường tiền điện tử. Điều đặc biệt ở đây là khoản vay này chỉ tồn tại trong một giao dịch duy nhất trên blockchain, và người vay phải trả lại khoản vay đó trong cùng giao dịch. Nếu không thể hoàn trả, giao dịch sẽ bị hủy và không có tài sản nào được chuyển đi. Nhờ cơ chế này, Flash Loans đem lại nhiều lợi ích cho người dùng, đặc biệt là những người đang tìm kiếm cơ hội kiếm lợi nhuận trong ngắn hạn.</p>
-
-
-
-<h2>Cách hoạt động của Flash Loans</h2>
-
-
-
-<p>Để hiểu rõ hơn về cách hoạt động của Flash Loans, chúng ta sẽ đi sâu vào các bước thực hiện và yếu tố quan trọng liên quan đến việc sử dụng dịch vụ này.</p>
-
-
-
-<h3>1. Yêu cầu vay</h3>
-
-
-
-<p>Người dùng sẽ gửi yêu cầu vay tới một nền tảng <a class="wpil_keyword_link" href="https://nam3t.com/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/" title="DeFi" data-wpil-keyword-link="linked" target="_blank" rel="noopener">DeFi</a> hỗ trợ Flash Loans, chẳng hạn như Aave, dYdX, hoặc Uniswap. Yêu cầu này sẽ xác định loại tiền điện tử muốn vay, số lượng tài sản, và mục đích sử dụng vốn vay. Đồng thời, người dùng cần chọn một <a class="wpil_keyword_link" href="https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/" title="hợp đồng thông minh" data-wpil-keyword-link="linked" target="_blank" rel="noopener">hợp đồng thông minh</a> để xử lý yêu cầu vay và thực hiện các giao dịch liên quan.</p>
-
-
-
-<h3>2. Xác minh yêu cầu</h3>
-
-
-
-<p>Sau khi nhận được yêu cầu, nền tảng DeFi sẽ xác minh thông tin và kiểm tra số dư tài sản trong quỹ của họ. Nếu điều kiện đủ, nền tảng sẽ đồng ý cho vay và chuyển số tiền điện tử yêu cầu vào hợp đồng thông minh mà người dùng đã chọn.</p>
-
-
-
-<h3>3. Thực hiện giao dịch</h3>
-
-
-
-<p>Với vốn vay từ Flash Loans, người dùng có thể thực hiện các giao dịch như arbitrage, leverage, refinancing, hoặc liquidation. Tất cả các giao dịch này phải được thực hiện trong cùng một khối (block) trên mạng blockchain, đảm bảo tính nhất quán và an toàn cho người dùng.</p>
-
-
-
-<h3>4. Trả vay và lãi suất</h3>
-
-
-
-<p>Sau khi hoàn thành các giao dịch, người dùng phải trả lại toàn bộ số tiền vay cùng với một khoản phí (lãi suất) cho nền tảng DeFi. Điều này cũng cần được thực hiện trong cùng một khối với các giao dịch trên. Lãi suất của Flash Loans thường rất thấp, chỉ khoảng 0.09% &#8211; 0.3% của tổng số tiền vay.</p>
-
-
-
-<h3>5. Kiểm tra và xác nhận</h3>
-
-
-
-<p>Cuối cùng, nền tảng DeFi sẽ kiểm tra và xác nhận việc trả vay thành công. Nếu người dùng không trả đúng số tiền vay và lãi suất trong cùng một khối với các giao dịch, toàn bộ quá trình sẽ bị hủy bỏ và mọi giao dịch liên quan sẽ được hoàn lại, như thể chúng chưa bao giờ diễn ra. Điều này giúp đảm bảo rằng người dùng phải tuân theo các điều kiện của Flash Loans và không thể lợi dụng dịch vụ này để trục lợi.</p>
-
-
-
-<h3>6. Kết thúc quá trình</h3>
-
-
-
-<p>Sau khi kiểm tra và xác nhận thành công, quá trình Flash Loans hoàn tất và người dùng có thể tiếp tục sử dụng dịch vụ này cho các giao dịch tiếp theo. Mặc dù Flash Loans có vẻ phức tạp, nhưng chúng mang lại nhiều lợi ích và cơ hội cho người dùng có kinh nghiệm và kiến thức về tiền điện tử, DeFi, và hợp đồng thông minh.</p>
-
-
-
-<h2>Ưu điểm của Flash Loans</h2>
-
-
-
-<p>Một số ưu điểm nổi bật của Flash Loans bao gồm:</p>
-
-
-
-<ul>
-<li><strong>Không yêu cầu tài sản đảm bảo</strong>: Người dùng không cần cung cấp tài sản đảm bảo để vay tiền thông qua Flash Loans, giúp giảm bớt rủi ro và thủ tục liên quan.</li>
-
-
-
-<li><strong>Giao dịch nhanh chóng</strong>: Flash Loans được thực hiện trong cùng một khối trên mạng blockchain, đảm bảo tốc độ giao dịch nhanh chóng và hiệu quả.</li>
-
-
-
-<li><strong>Lãi suất thấp</strong>: Lãi suất của Flash Loans thường rất thấp so với các hình thức vay truyền thống, giúp người dùng tiết kiệm chi phí và tận dụng cơ hội tài chính một cách hiệu quả.</li>
-
-
-
-<li><strong>Tính linh hoạt</strong>: Flash Loans cho phép người dùng thực hiện các giao dịch phức tạp như arbitrage, leverage, refinancing, và liquidation mà không cần tài sản lớn sẵn có.</li>
-</ul>
-
-
-
-<p>Tuy nhiên, cũng cần lưu ý rằng Flash Loans không phải là giải pháp phù hợp cho tất cả mọi người. Người dùng cần có kiến thức sâu về tiền điện tử, DeFi, và hợp đồng thông minh để tận dụng tối đa lợi ích từ dịch vụ này và tránh các rủi ro tiềm ẩn.</p>
-
-
-
-<h2>Ứng dụng thực tế của Flash Loans</h2>
-
-
-
-<p>Flash Loans có nhiều ứng dụng trong thực tế, đặc biệt là trong lĩnh vực tài chính phi tập trung (DeFi) và thị trường tiền điện tử. Dưới đây là một số ví dụ:</p>
-
-
-
-<ul>
-<li><strong>Arbitrage</strong>: Flash Loans giúp người dùng tận dụng cơ hội kiếm lời từ sự chênh lệch giá của một đồng tiền điện tử trên các <a class="wpil_keyword_link" href="https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/" title="sàn giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">sàn giao dịch</a> khác nhau. Người dùng có thể vay một lượng lớn tiền điện tử từ Flash Loans, mua đồng tiền này ở sàn có giá thấp và bán ngay lập tức ở sàn có giá cao, sau đó trả lại khoản vay và giữ lại phần lợi nhuận.</li>
-
-
-
-<li><strong>Leverage</strong>: Flash Loans giúp người dùng gia tăng đòn bẩy trong giao dịch tiền mã hóa bằng cách sử dụng vốn vay để mua thêm tài sản. Sau khi hoàn thành giao dịch, người dùng trả lại khoản vay và giữ lại lợi nhuận từ giao dịch có đòn bẩy cao hơn.</li>
-
-
-
-<li><strong>Refinancing</strong>: Người dùng có thể sử dụng Flash Loans để tái cấu trúc khoản vay hiện tại của họ, chẳng hạn như chuyển từ một nền tảng vay mượn sang nền tảng khác có lãi suất thấp hơn. Flash Loans cung cấp vốn cần thiết để trả lại khoản vay cũ, sau đó người dùng sẽ tiếp tục vay vốn mới với lãi suất ưu đãi hơn.</li>
-
-
-
-<li><strong>Liquidation</strong>: Trong trường hợp một khoản vay bị thanh lý (liquidate) do không đáp ứng yêu cầu về đòn bẩy, người dùng có thể sử dụng Flash Loans để mua lại tài sản đảm bảo của khoản vay đó với giá rẻ hơn. Sau đó, họ có thể bán tài sản đó trên thị trường với giá cao hơn và trả lại khoản vay Flash Loans.</li>
-</ul>
-
-
-
-<h2>Vấn đề bảo mật và những rủi ro liên quan</h2>
-
-
-
-<p>Mặc dù Flash Loans mang lại nhiều lợi ích, chúng cũng tiềm ẩn một số rủi ro và vấn đề bảo mật:</p>
-
-
-
-<ul>
-<li><strong>Tấn công reentrancy</strong>: Một số hợp đồng thông minh không được lập trình đúng cách có thể dẫn đến tấn công reentrancy, khi đó kẻ tấn công có thể lợi dụng lỗ hổng để chiếm đoạt tiền điện tử từ hợp đồng thông minh trong quá trình thực hiện Flash Loans. Để ngăn chặn điều này, các nhà phát triển nên kiểm tra kỹ lưỡng mã nguồn của hợp đồng thông minh và tuân thủ các nguyên tắc bảo mật.</li>
-
-
-
-<li><strong>Giá trị tài sản bị ảnh hưởng</strong>: Khi một lượng lớn tiền điện tử được vay thông qua Flash Loans, giá trị của tài sản đó có thể bị ảnh hưởng trên thị trường. Kẻ tấn công có thể lợi dụng điều này để tạo ra những biến động giá không mong muốn và gây thiệt hại cho người dùng khác.</li>
-
-
-
-<li><strong>Tạo ra các giao dịch phức tạp</strong>: Flash Loans thường liên quan đến nhiều bước giao dịch và tích hợp với nhiều hợp đồng thông minh khác nhau. Điều này có thể tạo ra các giao dịch phức tạp, gây khó khăn cho người dùng trong việc theo dõi và hiểu rõ hành động của mình.</li>
-
-
-
-<li><strong>Phí giao dịch</strong>: Việc sử dụng Flash Loans đòi hỏi người dùng phải trả phí giao dịch cho mỗi hành động thực hiện. Phí này có thể cao đến mức không còn hấp dẫn để thực hiện Flash Loans, đặc biệt trong các mạng blockchain có phí giao dịch cao như Ethereum.</li>
-</ul>
-
-
-
-<h2>Các nền tảng hỗ trợ Flash Loans</h2>
-
-
-
-<p>Có nhiều nền tảng DeFi hỗ trợ Flash Loans, một số ví dụ nổi bật gồm:</p>
-
-
-
-<ul>
-<li><strong>Aave</strong>: Một trong những nền tảng DeFi hàng đầu, Aave cung cấp Flash Loans trên nhiều đồng tiền điện tử khác nhau. Aave sử dụng hợp đồng thông minh để xử lý các yêu cầu vay và đảm bảo an toàn cho người dùng.</li>
-
-
-
-<li><strong>dYdX</strong>: Là một sàn giao dịch tài chính phi tập trung (DEX), dYdX cung cấp Flash Loans cho người dùng để thực hiện các giao dịch có đòn bẩy cao, arbitrage và các ứng dụng khác.</li>
-
-
-
-<li><strong>Uniswap</strong>: Uniswap là một DEX phổ biến khác hỗ trợ Flash Loans thông qua hợp đồng thông minh. Người dùng có thể sử dụng Flash Loans trên Uniswap để thực hiện các giao dịch liên quan đến token ERC-20.</li>
-</ul>
-
-
-
-<h2>Kết luận</h2>
-
-
-
-<p>Flash Loans là một cơ chế vay mượn độc đáo trong thị trường tiền điện tử và DeFi, mang lại nhiều cơ hội cho người dùng kỳ cựu và những người yêu thích công nghệ. Tuy nhiên, người dùng cần nắm rõ các rủi ro và vấn đề bảo mật liên quan để đảm bảo an toàn khi sử dụng Flash Loans.</p>
-
-
-
-<p>Ngoài ra, việc nắm vững kiến thức về blockchain, tiền điện tử, và hợp đồng thông minh cũng rất quan trọng để có thể tận dụng tối đa lợi ích từ Flash Loans. Đối với người dùng mới, việc tìm hiểu kỹ lưỡng và tham khảo ý kiến từ chuyên gia là rất cần thiết trước khi bắt đầu sử dụng Flash Loans.</p>
-
-
-
-<p>Cuối cùng, đừng quên theo dõi các nguồn thông tin uy tín về tiền điện tử và blockchain để cập nhật những thông tin mới nhất và nắm bắt xu hướng trong lĩnh vực này.</p>
-
-
-
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p>Tài liệu tham khảo:</p>
-
-
-
-<ol>
-<li>Aave. (n.d.). Flash Loans. Truy cập từ <a href="https://docs.aave.com/developers/guides/flash-loans" target="_blank" rel="noopener">https://docs.aave.com/developers/guides/flash-loans</a></li>
-
-
-
-<li>dYdX. (n.d.). Introduction to dYdX. Truy cập từ <a href="https://dydxprotocol.github.io/v3-teacher/#terms-of-service-and-privacy-policy" target="_blank" rel="noreferrer noopener">https://dydxprotocol.github.io/v3-teacher/#terms-of-service-and-privacy-policy</a></li>
-
-
-
-<li>Uniswap. (n.d.). Uniswap V2 Core. Truy cập từ <a href="https://docs.uniswap.org/" target="_blank" rel="noopener">https://docs.uniswap.org/</a></li>
-
-
-
-<li>Binance Academy. (2020, October 14). Flash Loans: What Are They and How Do They Work? Truy cập từ <a href="https://academy.binance.com/en/" target="_blank" rel="noopener">https://academy.binance.com/en/</a></li>
-
-
-
-<li>Cointelegraph. (2020, August 17). Flash Loans: Attack or Opportunity? Truy cập từ <a href="https://cointelegraph.com/" target="_blank" rel="noopener">https://cointelegraph.com/</a></li>
-</ol>
-
-
-
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
-<hr class="wp-block-separator has-alpha-channel-opacity"/>
-
-
-
-<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
-</div></div>
-]]></content:encoded>
-					
-					<wfw:commentRss>https://nam3t.com/flash-loans-la-gi-nhung-dieu-ban-can-biet/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
