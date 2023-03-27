@@ -28,6 +28,461 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>Quantitative Trading: Công cụ và chiến lược thuật toán</title>
+		<link>https://nam3t.com/quantitative-trading/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=quantitative-trading</link>
+					<comments>https://nam3t.com/quantitative-trading/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Mon, 27 Mar 2023 12:37:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử nâng cao]]></category>
+		<category><![CDATA[Quantitative Trading]]></category>
+		<category><![CDATA[Trading]]></category>
+		<category><![CDATA[Trading Strategy]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=1142</guid>
+
+					<description><![CDATA[Quantitative Trading, hay còn gọi là Giao dịch định lượng, là một phương pháp giao dịch dựa trên việc phân tích kỹ thuật và thống kê để đưa ra các quyết định đầu tư. Nó được xây dựng dựa trên các mô hình toán học và thuật toán để giúp nhà đầu tư tìm kiếm [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<p>Quantitative Trading, hay còn gọi là Giao dịch định lượng, là một phương pháp giao dịch dựa trên việc phân tích kỹ thuật và thống kê để đưa ra các quyết định đầu tư. Nó được xây dựng dựa trên các mô hình toán học và thuật toán để giúp nhà đầu tư tìm kiếm lợi nhuận trên thị trường.</p>
+
+
+
+<p>Trong ngành tiền mã hóa, Quantitative Trading ngày càng phổ biến do tính chất nhanh chóng và dễ thay đổi của thị trường. Nhiều nhà <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> và trader chuyển sang sử dụng các mô hình định lượng để cải thiện hiệu quả giao dịch và giảm thiểu rủi ro.</p>
+
+
+
+<h3>Ưu điểm của Quantitative Trading:</h3>
+
+
+
+<ul>
+<li>Tự động hóa quá trình giao dịch, giúp tiết kiệm thời gian và giảm thiểu sai sót.</li>
+
+
+
+<li>Tận dụng được các cơ hội kiếm lời nhanh chóng mà con người khó nhận biết.</li>
+
+
+
+<li>Giảm thiểu tác động của cảm xúc và những quyết định không lý trí trong giao dịch.</li>
+
+
+
+<li>Dễ dàng kiểm soát rủi ro và điều chỉnh <a class="wpil_keyword_link" href="https://nam3t.com/chien-luoc-giao-dich-tien-dien-tu-can-ban/" title="chiến lược giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">chiến lược giao dịch</a>.</li>
+</ul>
+
+
+
+<h3>Nhược điểm của Quantitative Trading:</h3>
+
+
+
+<ul>
+<li>Yêu cầu kiến thức cao về toán học, lập trình và phân tích thị trường.</li>
+
+
+
+<li>Phụ thuộc vào chất lượng dữ liệu và mô hình, có thể dẫn đến sai lầm nếu dữ liệu không chính xác hoặc mô hình không phù hợp.</li>
+
+
+
+<li>Cần thời gian và công sức để xây dựng, kiểm tra và tối ưu hóa mô hình.</li>
+
+
+
+<li>Một số chiến lược định lượng có thể không hiệu quả trong một số điều kiện thị trường đặc biệt.</li>
+</ul>
+
+
+
+<p>Trong các phần tiếp theo, chúng ta sẽ tìm hiểu về các phương pháp phổ biến trong Quantitative <a class="wpil_keyword_link" href="https://nam3t.com/quantitative-trading/" title="Trading" data-wpil-keyword-link="linked" target="_blank" rel="noopener">Trading</a>, cách xây dựng mô hình, và cách quản lý rủi ro, cũng như đưa ra các ví dụ thực tế.</p>
+
+
+
+<h2>Các phương pháp phổ biến trong Quantitative Trading</h2>
+
+
+
+<p>Có nhiều phương pháp được sử dụng trong Quantitative Trading, dựa trên các mô hình toán học và phân tích thị trường. Dưới đây là một số phương pháp phổ biến mà trader tiền mã hóa thường áp dụng:</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="877" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia.jpg" alt="Arbitrage (Tận dụng chênh lệch giá)" class="wp-image-1144" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia-300x263.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia-768x674.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120041/Arbitrage-Tan-dung-chenh-lech-gia-750x658.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 1"><figcaption class="wp-element-caption">Arbitrage (Tận dụng chênh lệch giá)</figcaption></figure>
+
+
+
+<h3>Arbitrage (Tận dụng chênh lệch giá)</h3>
+
+
+
+<p>Arbitrage là phương pháp tận dụng chênh lệch giá của một tài sản trên các <a class="wpil_keyword_link" href="https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/" title="sàn giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">sàn giao dịch</a> khác nhau. Trader mua tài sản trên sàn có giá thấp và bán trên sàn có giá cao, kiếm lời từ chênh lệch giá. Đối với tiền mã hóa, các sàn giao dịch có thể có chênh lệch giá đáng kể, tạo ra cơ hội arbitrage.</p>
+
+
+
+<h3>Mean Reversion (Hồi quy về trung bình)</h3>
+
+
+
+<p>Mean Reversion là chiến lược dựa trên giả định rằng giá của một tài sản sẽ quay trở lại mức trung bình sau một khoảng thời gian. Trader sẽ mua khi giá thấp hơn mức trung bình và bán khi giá cao hơn mức trung bình, đạt được lợi nhuận từ sự hồi quy về trung bình.</p>
+
+
+
+<h3>Momentum Trading (Giao dịch theo xu hướng)</h3>
+
+
+
+<p>Momentum Trading là phương pháp giao dịch dựa trên việc theo dõi xu hướng giá của tài sản. Trader sẽ mua vào khi xu hướng tăng giá và bán ra khi xu hướng giảm giá. Các công cụ phân tích kỹ thuật như đường trung bình di động (MA), chỉ số RSI và MACD thường được sử dụng để xác định xu hướng.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong.jpg" alt="Momentum Trading (Giao dịch theo xu hướng)" class="wp-image-1145" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26120134/Momentum-Trading-Giao-dich-theo-xu-huong-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 2"><figcaption class="wp-element-caption">Momentum Trading (Giao dịch theo xu hướng)</figcaption></figure>
+
+
+
+<h3>Machine Learning và AI</h3>
+
+
+
+<p>Ngày nay, Machine Learning và trí tuệ nhân tạo (AI) đang được ứng dụng rộng rãi trong Quantitative Trading. Các mô hình dựa trên Machine Learning có khả năng tự học và điều chỉnh dựa trên dữ liệu thị trường, giúp dự báo giá và tìm kiếm cơ hội giao dịch tốt hơn. Ví dụ, các thuật toán học tập củng cố (Reinforcement Learning) và mạng nơ-ron (Neural Networks) được sử dụng để phân tích dữ liệu và đưa ra quyết định giao dịch.</p>
+
+
+
+<p>Các phương pháp trên đều có ưu và nhược điểm riêng, tùy thuộc vào kiến thức, kỹ năng và nguồn lực của trader. Để thành công trong Quantitative Trading, trader cần nắm vững các phương pháp này, chọn ra chiến lược phù hợp với mục tiêu đầu tư và thị trường tiền mã hóa.</p>
+
+
+
+<p>Các phương pháp trên có thể kết hợp với nhau để tạo nên một hệ thống giao dịch đa dạng và linh hoạt. Ví dụ, bạn có thể kết hợp Momentum Trading với Mean Reversion để tận dụng cả xu hướng tăng giá và sự hồi quy về trung bình. Hoặc bạn có thể áp dụng Machine Learning để cải thiện hiệu quả của các chiến lược Arbitrage và tìm kiếm cơ hội giao dịch nhanh chóng hơn.</p>
+
+
+
+<p>Trong các phần sau, chúng ta sẽ tìm hiểu về các yếu tố quan trọng trong việc xây dựng mô hình Quantitative Trading, cách thiết lập và quản lý rủi ro, cũng như đưa ra các ví dụ và case study từ thực tế.</p>
+
+
+
+<h2>Yếu tố quan trọng trong việc xây dựng mô hình Quantitative Trading</h2>
+
+
+
+<p>Để xây dựng một mô hình Quantitative Trading hiệu quả, trader cần chú ý đến các yếu tố sau:</p>
+
+
+
+<h3>Thu thập và xử lý dữ liệu</h3>
+
+
+
+<ul>
+<li>Đảm bảo nguồn dữ liệu chính xác, đầy đủ và cập nhật liên tục từ các sàn giao dịch, tin tức và thông tin thị trường.</li>
+
+
+
+<li>Xử lý và làm sạch dữ liệu để loại bỏ nhiễu, dữ liệu không hợp lý và khắc phục các vấn đề về độ trễ (latency).</li>
+</ul>
+
+
+
+<h3>Xác định chiến lược giao dịch</h3>
+
+
+
+<ul>
+<li>Chọn lựa phương pháp giao dịch phù hợp với mục tiêu đầu tư, thị trường tiền mã hóa và kỹ năng của trader.</li>
+
+
+
+<li>Xác định các tiêu chí giao dịch như điểm mua/bán, mức dừng lỗ (stop-loss), mức chốt lời (take-profit) và kích thước giao dịch.</li>
+</ul>
+
+
+
+<h3>Xây dựng và kiểm tra mô hình</h3>
+
+
+
+<ul>
+<li>Lập trình thuật toán và mô hình dựa trên phương pháp giao dịch đã chọn.</li>
+
+
+
+<li>Kiểm tra mô hình trên dữ liệu lịch sử (backtesting) để đánh giá hiệu quả và tìm ra những vấn đề cần cải thiện.</li>
+</ul>
+
+
+
+<h3>Tối ưu hóa và điều chỉnh mô hình</h3>
+
+
+
+<ul>
+<li>Tối ưu hóa các tham số của mô hình để đạt được kết quả tốt nhất trên dữ liệu kiểm tra.</li>
+
+
+
+<li>Điều chỉnh mô hình dựa trên kết quả thực tế và thị trường tiền mã hóa để giữ cho mô hình luôn cập nhật và phù hợp.</li>
+</ul>
+
+
+
+<p>Chú ý rằng, xây dựng mô hình Quantitative Trading là một quá trình liên tục và đòi hỏi sự kiên nhẫn, kỹ năng và kiến thức chuyên sâu. Trader cần phải thường xuyên theo dõi, kiểm tra và điều chỉnh mô hình để đạt được kết quả tốt nhất trong thị trường tiền mã hóa đầy biến động.</p>
+
+
+
+<h2>Công cụ và ngôn ngữ lập trình phổ biến</h2>
+
+
+
+<p>Để xây dựng mô hình Quantitative Trading, trader cần sử dụng các công cụ và ngôn ngữ lập trình phù hợp. Dưới đây là một số công cụ và ngôn ngữ lập trình phổ biến trong ngành tiền mã hóa:</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="500" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh.jpg" alt="Ngôn ngữ lập trình Quantitative Trading" class="wp-image-1148" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh-300x150.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh-768x384.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh-360x180.jpg 360w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121754/Ngon-ngu-lap-trinh-750x375.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 3"><figcaption class="wp-element-caption">Ngôn ngữ lập trình</figcaption></figure>
+
+
+
+<h3>Ngôn ngữ lập trình</h3>
+
+
+
+<h4>Python</h4>
+
+
+
+<p>Python là ngôn ngữ lập trình phổ biến nhất trong Quantitative Trading vì tính dễ học, dễ sử dụng và hỗ trợ nhiều thư viện chuyên dụng. Python cung cấp các thư viện như Pandas, NumPy, Scikit-learn và TensorFlow để hỗ trợ phân tích dữ liệu, xử lý số liệu và xây dựng mô hình Machine Learning.</p>
+
+
+
+<h4>R</h4>
+
+
+
+<p>R là một ngôn ngữ lập trình chuyên dụng cho phân tích thống kê và đồ họa. R hỗ trợ nhiều công cụ và thư viện dành riêng cho Quantitative Trading như quantmod, PerformanceAnalytics và TTR. Tuy nhiên, R thường ít phổ biến hơn Python trong ngành tiền mã hóa.</p>
+
+
+
+<h4>JavaScript</h4>
+
+
+
+<p>JavaScript, đặc biệt là Node.js, cũng được sử dụng trong Quantitative Trading do tính linh hoạt và khả năng xử lý dữ liệu thời gian thực. JavaScript phù hợp cho việc phát triển các ứng dụng giao dịch có yêu cầu về tốc độ và tính tương tác cao.</p>
+
+
+
+<h3>Công cụ hỗ trợ</h3>
+
+
+
+<h4>Jupyter Notebook</h4>
+
+
+
+<p>Jupyter Notebook là một công cụ phổ biến cho việc phát triển và chia sẻ mã nguồn Python và R. Nó cho phép kết hợp mã lập trình, đồ họa và tài liệu trong một tập tin, giúp giải thích quá trình phân tích dữ liệu và xây dựng mô hình.</p>
+
+
+
+<h4>TradingView</h4>
+
+
+
+<p>TradingView là một nền tảng phân tích kỹ thuật và giao dịch trực tuyến. Nó cung cấp công cụ vẽ biểu đồ, chỉ số kỹ thuật và ngôn ngữ lập trình Pine Script để phát triển các chiến lược giao dịch tự động.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="440" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-1024x440.png" alt="TradingView" class="wp-image-1147" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-1024x440.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-300x129.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-768x330.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-1536x661.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-750x323.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView-1140x490.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121642/TradingView.png 1872w" sizes="(max-width: 1024px) 100vw, 1024px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 4"><figcaption class="wp-element-caption">TradingView</figcaption></figure>
+
+
+
+<h4>APIs của các sàn giao dịch</h4>
+
+
+
+<p>Hầu hết các sàn giao dịch tiền mã hóa như Binance, Coinbase và BitMEX đều cung cấp API (Application Programming Interface) để cho phép trader truy cập dữ liệu thị trường, quản lý danh mục đầu tư và thực hiện giao dịch tự động.</p>
+
+
+
+<p>Khi chọn lựa công cụ và ngôn ngữ lập trình, trader nên cân nhắc yếu tố như kinh nghiệm lập trình, yêu cầu về tốc độ và hiệu năng, cũng như sự hỗ trợ từ cộng đồng. Việc lựa chọn phù hợp sẽ giúp trader dễ dàng hơn trong việc xây dựng, kiểm tra và triển khai mô hình Quantitative Trading.</p>
+
+
+
+<p>Trong quá trình xây dựng mô hình, trader cần chú ý đến việc tối ưu hóa hiệu năng, giảm độ trễ và quản lý rủi ro. Hãy kết hợp các công cụ và ngôn ngữ lập trình phù hợp để tạo ra một hệ thống giao dịch định lượng hiệu quả và phù hợp với mục tiêu đầu tư cũng như thị trường tiền mã hóa.</p>
+
+
+
+<h2>Thiết lập và quản lý rủi ro</h2>
+
+
+
+<p>Trong Quantitative Trading, việc quản lý rủi ro là yếu tố quan trọng để đảm bảo an toàn vốn và duy trì lợi nhuận. Dưới đây là một số phương pháp thiết lập và quản lý rủi ro phổ biến:</p>
+
+
+
+<h3>Xác định mức dừng lỗ (Stop-loss)</h3>
+
+
+
+<p>Mức dừng lỗ là giá mà trader sẵn sàng chấp nhận thua lỗ và rút khỏi giao dịch. Việc xác định mức dừng lỗ giúp hạn chế rủi ro và bảo vệ vốn đầu tư. Trader có thể sử dụng các công cụ phân tích kỹ thuật, như đường trung bình di động (MA) và chỉ số ATR (Average True Range), để xác định mức dừng lỗ phù hợp.</p>
+
+
+
+<h3>Xác định mức chốt lời (Take-profit)</h3>
+
+
+
+<p>Mức chốt lời là giá mà trader dự định thu được lợi nhuận và rút khỏi giao dịch. Việc xác định mức chốt lời giúp trader nắm bắt cơ hội và đảm bảo lợi nhuận. Các công cụ phân tích kỹ thuật, như các mức hỗ trợ và kháng cự, cũng có thể được sử dụng để xác định mức chốt lời hợp lý.</p>
+
+
+
+<h3>Kích thước giao dịch (Position sizing)</h3>
+
+
+
+<p>Kích thước giao dịch là số lượng tiền mã hóa mà trader đầu tư vào mỗi giao dịch. Việc điều chỉnh kích thước giao dịch phù hợp giúp hạn chế rủi ro và tối ưu hóa lợi nhuận. Trader có thể sử dụng phương pháp quản lý vốn như phương pháp Kelly Criterion hoặc phần trăm cố định (Fixed Percentage) để xác định kích thước giao dịch.</p>
+
+
+
+<h3>Đa dạng hóa danh mục đầu tư (Portfolio diversification)</h3>
+
+
+
+<p>Đa dạng hóa danh mục đầu tư là việc đầu tư vào nhiều loại tiền mã hóa khác nhau để giảm rủi ro và ổn định lợi nhuận. Trader có thể sử dụng phương pháp đầu tư đa dạng hóa như Modern Portfolio Theory (MPT) hoặc Equal Weighted Portfolio để phân bổ vốn một cách hợp lý.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="1000" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT.jpg" alt="Modern Portfolio Theory (MPT)" class="wp-image-1146" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-300x300.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-150x150.jpg 150w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-768x768.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-75x75.jpg 75w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26121333/Modern-Portfolio-Theory-MPT-750x750.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Quantitative Trading: Công cụ và chiến lược thuật toán 5"><figcaption class="wp-element-caption">Modern Portfolio Theory (MPT)</figcaption></figure>
+
+
+
+<h3>Theo dõi và đánh giá hiệu quả</h3>
+
+
+
+<p>Trader cần theo dõi hiệu quả của mô hình Quantitative Trading và đánh giá các chỉ số hiệu suất như tỷ lệ Sharpe, tỷ lệ Sortino và tỷ lệ thông tin. Việc đánh giá hiệu quả giúp trader nhận biết những điểm mạnh và yếu của mô hình, đồng thời điều chỉnh chiến lược để cải thiện hiệu suất và giảm rủi ro.</p>
+
+
+
+<h3>Tối ưu hóa và điều chỉnh chiến lược</h3>
+
+
+
+<p>Sau khi đánh giá hiệu quả, trader cần tiến hành tối ưu hóa và điều chỉnh chiến lược giao dịch dựa trên kết quả đánh giá. Các kỹ thuật tối ưu hóa như tìm kiếm lưới (Grid Search), tìm kiếm ngẫu nhiên (Random Search) và thuật toán di truyền (Genetic Algorithm) có thể được sử dụng để tìm ra các tham số tối ưu cho mô hình.</p>
+
+
+
+<p>Việc thiết lập và quản lý rủi ro là một phần không thể thiếu trong Quantitative Trading. Trader cần chú ý đến việc bảo vệ vốn, tối ưu hóa lợi nhuận và đánh giá hiệu quả mô hình, nhằm đảm bảo sự ổn định và bền vững trong giao dịch tiền mã hóa.</p>
+
+
+
+<h2>Ví dụ và case study</h2>
+
+
+
+<p>Dưới đây là một số ví dụ và case study về Quantitative Trading trong thị trường tiền mã hóa, giúp bạn hiểu rõ hơn về cách thức hoạt động và ứng dụng của các chiến lược giao dịch định lượng.</p>
+
+
+
+<h3>Ví dụ 1: Arbitrage giữa hai sàn giao dịch</h3>
+
+
+
+<p>Giả sử trader phát hiện ra chênh lệch giá của Bitcoin (BTC) giữa hai sàn giao dịch A và B. Sàn A có giá mua BTC là $30,000, trong khi sàn B có giá bán BTC là $30,500. Trader có thể mua BTC trên sàn A rồi bán ngay lập tức trên sàn B, kiếm lời từ chênh lệch giá $500.</p>
+
+
+
+<h3>Ví dụ 2: Momentum Trading với đường trung bình di động (MA)</h3>
+
+
+
+<p>Giả sử một trader áp dụng chiến lược Momentum Trading dựa trên đường trung bình di động (MA) 50 ngày và 200 ngày cho đồng tiền mã hóa X. Trader quyết định mua vào khi đường MA 50 ngày cắt lên đường MA 200 ngày (Golden Cross) và bán ra khi đường MA 50 ngày cắt xuống đường MA 200 ngày (Death Cross).</p>
+
+
+
+<p>Kết hợp với các công cụ phân tích kỹ thuật khác, trader có thể nắm bắt các xu hướng tăng và giảm giá của đồng tiền mã hóa X, kiếm lời từ sự biến động của thị trường.</p>
+
+
+
+<h3>Case study: Quantitative Trading với Machine Learning</h3>
+
+
+
+<p>Một trader quyết định xây dựng một mô hình giao dịch định lượng dựa trên Machine Learning để dự đoán giá Ethereum (ETH) trong ngắn hạn. Trader sử dụng mạng nơ-ron nhân tạo (Artificial Neural Network) để phân tích dữ liệu lịch sử về giá, khối lượng giao dịch và các chỉ số kỹ thuật.</p>
+
+
+
+<p>Sau khi huấn luyện và kiểm tra mô hình, trader triển khai mô hình vào thị trường thực tế. Mô hình tự động đưa ra các quyết định mua và bán dựa trên dự đoán của mạng nơ-ron, giúp trader kiếm lời từ các cơ hội giao dịch ngắn hạn mà không cần theo dõi thị trường liên tục.</p>
+
+
+
+<p>Các ví dụ và case study trên chỉ là một số minh họa về cách thức hoạt động của Quantitative Trading trong thị trường tiền mã hóa. Mỗi trader có thể xây dựng và điều chỉnh các chiến lược giao dịch định lượng dựa trên kinh nghiệm, kiến thức và kỹ năng của bản thân. Đồng thời, việc kết hợp nhiều phương pháp và công cụ phân tích khác nhau cũng giúp trader nâng cao hiệu quả giao dịch và giảm rủi ro trong thị trường tiền mã hóa đầy biến động.</p>
+
+
+
+<p>Trong quá trình xây dựng và áp dụng các chiến lược Quantitative Trading, trader cần luôn chú ý đến việc quản lý rủi ro, theo dõi hiệu quả của mô hình và điều chỉnh chiến lược kịp thời dựa trên thị trường và kết quả đánh giá. Đồng thời, việc học hỏi và cập nhật kiến thức mới về tiền mã hóa, phân tích kỹ thuật và phát triển công nghệ cũng rất quan trọng để trader nắm bắt cơ hội và thành công trong lĩnh vực Quantitative Trading.</p>
+
+
+
+<h2>Kết luận</h2>
+
+
+
+<p>Quantitative Trading là một phương pháp giao dịch tiền mã hóa hiệu quả, dựa trên các mô hình toán học và phân tích kỹ thuật. Bằng cách áp dụng các chiến lược định lượng như Arbitrage, Mean Reversion, Momentum Trading và sử dụng công nghệ Machine Learning, trader có thể tận dụng các cơ hội giao dịch và kiếm lời từ sự biến động của thị trường tiền mã hóa.</p>
+
+
+
+<p>Tuy nhiên, thành công trong Quantitative Trading đòi hỏi trader phải có kiến thức sâu rộng về tiền mã hóa, phân tích kỹ thuật và lập trình, cũng như kỹ năng quản lý rủi ro và đánh giá hiệu quả của mô hình giao dịch. Hãy không ngừng học hỏi, nâng cao kỹ năng và trau dồi kiến thức để đạt được kết quả tốt nhất trong lĩnh vực Quantitative Trading.</p>
+
+
+
+<p>Hy vọng qua bài viết này, bạn đã hiểu rõ hơn về Quantitative Trading trong thị trường tiền mã hóa và có đủ thông tin để bắt đầu xây dựng chiến lược giao dịch định lượng cho riêng mình. Chúc bạn thành công và kiếm được nhiều lợi nhuận từ thị trường tiền mã hóa!</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p>Tài liệu tham khảo:</p>
+
+
+
+<ol>
+<li><a href="https://academy.binance.com/vi" target="_blank" rel="noreferrer noopener">Binance Academy</a></li>
+
+
+
+<li><a href="https://cointelegraph.com/explained" target="_blank" rel="noreferrer noopener">Cointelegraph Explained</a></li>
+
+
+
+<li><a href="https://www.investopedia.com/terms/a/algorithmictrading.asp" target="_blank" rel="noreferrer noopener">Investopedia &#8211; Algorithmic Trading</a></li>
+
+
+
+<li><a href="https://github.com/quantopian" target="_blank" data-type="URL" data-id="https://github.com/quantopian" rel="noreferrer noopener">Quantopian</a></li>
+
+
+
+<li><a href="https://www.quantstart.com/" target="_blank" rel="noreferrer noopener">QuantStart</a></li>
+
+
+
+<li><a href="https://www.tradingview.com/" target="_blank" rel="noreferrer noopener">TradingView</a></li>
+</ol>
+
+
+
+<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nam3t.com/quantitative-trading/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>Chiến lược giao dịch tiền điện tử căn bản</title>
 		<link>https://nam3t.com/chien-luoc-giao-dich-tien-dien-tu-can-ban/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=chien-luoc-giao-dich-tien-dien-tu-can-ban</link>
 					<comments>https://nam3t.com/chien-luoc-giao-dich-tien-dien-tu-can-ban/#respond</comments>
@@ -50,7 +505,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="750" src="https://nam3t.com/wp-content/uploads/2023/03/Phan-tich-ky-thuat.jpg" alt="Phân tích kỹ thuật" class="wp-image-822" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-300x225.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-768x576.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-750x563.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 1"><figcaption class="wp-element-caption">Phân tích kỹ thuật</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="750" src="https://nam3t.com/wp-content/uploads/2023/03/Phan-tich-ky-thuat.jpg" alt="Phân tích kỹ thuật" class="wp-image-822" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-300x225.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-768x576.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150154/Phan-tich-ky-thuat-750x563.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 6"><figcaption class="wp-element-caption">Phân tích kỹ thuật</figcaption></figure>
 
 
 
@@ -140,7 +595,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="429" src="https://nam3t.com/wp-content/uploads/2023/03/Phan-tich-co-ban.jpg" alt="Phân tích cơ bản" class="wp-image-823" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-300x129.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-768x329.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-750x322.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 2"><figcaption class="wp-element-caption">Phân tích cơ bản</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="429" src="https://nam3t.com/wp-content/uploads/2023/03/Phan-tich-co-ban.jpg" alt="Phân tích cơ bản" class="wp-image-823" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-300x129.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-768x329.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150338/Phan-tich-co-ban-750x322.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 7"><figcaption class="wp-element-caption">Phân tích cơ bản</figcaption></figure>
 
 
 
@@ -290,7 +745,7 @@
 
 
 
-<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Chien-luoc-giao-dich.jpg" alt="Chiến lược giao dịch" class="wp-image-824" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 3"><figcaption class="wp-element-caption">Chiến lược giao dịch</figcaption></figure>
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="562" src="https://nam3t.com/wp-content/uploads/2023/03/Chien-luoc-giao-dich.jpg" alt="Chiến lược giao dịch" class="wp-image-824" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/15150521/Chien-luoc-giao-dich-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Chiến lược giao dịch tiền điện tử căn bản 8"><figcaption class="wp-element-caption">Chiến lược giao dịch</figcaption></figure>
 
 
 
@@ -302,7 +757,7 @@
 
 
 
-<p><strong>Swing trading</strong> là chiến lược giao dịch ngắn hạn, với mục tiêu nắm giữ vị thế trong vài ngày hoặc vài tuần. Chiến lược này phù hợp với những người muốn tận dụng sự dao động ngắn hạn của giá để tìm kiếm lợi nhuận. Ví dụ, một nhà giao dịch có thể mua một đồng coin với giá thấp và bán nó với giá cao hơn sau vài ngày hoặc vài tuần khi giá tăng lên. Điều quan trọng là lựa chọn đúng thời điểm để mua và bán.</p>
+<p><strong>Swing <a class="wpil_keyword_link" href="https://nam3t.com/quantitative-trading/" title="trading" data-wpil-keyword-link="linked" target="_blank" rel="noopener">trading</a></strong> là chiến lược giao dịch ngắn hạn, với mục tiêu nắm giữ vị thế trong vài ngày hoặc vài tuần. Chiến lược này phù hợp với những người muốn tận dụng sự dao động ngắn hạn của giá để tìm kiếm lợi nhuận. Ví dụ, một nhà giao dịch có thể mua một đồng coin với giá thấp và bán nó với giá cao hơn sau vài ngày hoặc vài tuần khi giá tăng lên. Điều quan trọng là lựa chọn đúng thời điểm để mua và bán.</p>
 
 
 
@@ -458,7 +913,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="329" src="https://nam3t.com/wp-content/uploads/2023/03/Chon-san-giao-dich-1024x329.png" alt="Chọn sàn giao dịch" class="wp-image-646" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-1024x329.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-300x96.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-768x247.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-750x241.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-1140x366.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich.png 1161w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giao dịch tiền điện tử căn bản 4"><figcaption class="wp-element-caption">Chọn sàn giao dịch</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="329" src="https://nam3t.com/wp-content/uploads/2023/03/Chon-san-giao-dich-1024x329.png" alt="Chọn sàn giao dịch" class="wp-image-646" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-1024x329.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-300x96.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-768x247.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-750x241.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich-1140x366.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12000217/Chon-san-giao-dich.png 1161w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giao dịch tiền điện tử căn bản 9"><figcaption class="wp-element-caption">Chọn sàn giao dịch</figcaption></figure>
 
 
 
@@ -548,7 +1003,7 @@
 
 
 
-<p>Ngoài phí giao dịch và phí rút tiền, các sàn giao dịch cũng có thể tính thêm các khoản phí khác như <strong>phí giao dịch gấp đôi (spreads)</strong>, <strong>phí giao dịch tối thiểu (minimum trading fees)</strong>, <strong>phí bảo trì (maintenance fees)</strong> hoặc phí đặc biệt khác. Những khoản phí này có thể ảnh hưởng đến lợi nhuận của bạn khi giao dịch tiền điện tử, nên cần tìm hiểu kỹ về các phí này để đưa ra quyết định giao dịch chính xác.</p>
+<p>Ngoài phí giao dịch và phí rút tiền, các sàn giao dịch cũng có thể tính thêm các khoản phí khác như <strong>phí giao dịch gấp đôi (spreads)</strong>, <strong>phí giao dịch tối thiểu (minimum <a class="wpil_keyword_link" href="https://nam3t.com/quantitative-trading/" title="trading" data-wpil-keyword-link="linked" target="_blank" rel="noopener">trading</a> fees)</strong>, <strong>phí bảo trì (maintenance fees)</strong> hoặc phí đặc biệt khác. Những khoản phí này có thể ảnh hưởng đến lợi nhuận của bạn khi giao dịch tiền điện tử, nên cần tìm hiểu kỹ về các phí này để đưa ra quyết định giao dịch chính xác.</p>
 
 
 
@@ -596,7 +1051,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/5jiLQrSzF2eHk0xxvWuNN_22W0o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_final_Relative_Strength_Index_RSI_Jul_2020-01-98fcd0c032cb4f0da005c31c44440c90.jpg" alt="Chỉ số sức mạnh tương đối" title="Giao dịch tiền điện tử căn bản 5"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/r/rsi.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/r/rsi.asp" rel="noreferrer noopener">Chỉ số sức mạnh tương đối</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/5jiLQrSzF2eHk0xxvWuNN_22W0o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_final_Relative_Strength_Index_RSI_Jul_2020-01-98fcd0c032cb4f0da005c31c44440c90.jpg" alt="Chỉ số sức mạnh tương đối" title="Giao dịch tiền điện tử căn bản 10"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/r/rsi.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/r/rsi.asp" rel="noreferrer noopener">Chỉ số sức mạnh tương đối</a></figcaption></figure>
 
 
 
@@ -612,7 +1067,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/OsZtPqhYt4nOMbXsbhmx5nejkW0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UnderstandingTriangle2-0651c3c900b3422cadc70d83555a5072.png" alt="Mô hình tam giác" title="Giao dịch tiền điện tử căn bản 6"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/t/triangle.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/t/triangle.asp" rel="noreferrer noopener">Mô hình tam giác</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/OsZtPqhYt4nOMbXsbhmx5nejkW0=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/UnderstandingTriangle2-0651c3c900b3422cadc70d83555a5072.png" alt="Mô hình tam giác" title="Giao dịch tiền điện tử căn bản 11"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/t/triangle.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/t/triangle.asp" rel="noreferrer noopener">Mô hình tam giác</a></figcaption></figure>
 
 
 
@@ -620,7 +1075,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/_oJRmqdMcX8u_enRn4zq50NY2bY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Head_And_Shoulders_Pattern_Sep_2020-01-4c225a762427464699e42461088c1e86.jpg" alt="Mô hình vai đầu vai" title="Giao dịch tiền điện tử căn bản 7"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/h/head-shoulders.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/h/head-shoulders.asp" rel="noreferrer noopener">Mô hình vai đầu vai</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/_oJRmqdMcX8u_enRn4zq50NY2bY=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Head_And_Shoulders_Pattern_Sep_2020-01-4c225a762427464699e42461088c1e86.jpg" alt="Mô hình vai đầu vai" title="Giao dịch tiền điện tử căn bản 12"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/h/head-shoulders.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/h/head-shoulders.asp" rel="noreferrer noopener">Mô hình vai đầu vai</a></figcaption></figure>
 
 
 
@@ -628,7 +1083,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/_PaSqiE317nGWz3zx81hl15OfUc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_INV_final_Ascending_Channel_Jan_2021-01-e24ac9e9f9d143b4845a9e7c827e555a.jpg" alt="Kênh tăng giá" title="Giao dịch tiền điện tử căn bản 8"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/a/ascendingchannel.asp" data-type="URL" data-id="https://www.investopedia.com/terms/a/ascendingchannel.asp" target="_blank" rel="noreferrer noopener">Kênh tăng giá</a> </figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/_PaSqiE317nGWz3zx81hl15OfUc=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_INV_final_Ascending_Channel_Jan_2021-01-e24ac9e9f9d143b4845a9e7c827e555a.jpg" alt="Kênh tăng giá" title="Giao dịch tiền điện tử căn bản 13"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/a/ascendingchannel.asp" data-type="URL" data-id="https://www.investopedia.com/terms/a/ascendingchannel.asp" target="_blank" rel="noreferrer noopener">Kênh tăng giá</a> </figcaption></figure>
 
 
 
@@ -636,11 +1091,11 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/xYqd2KZPY_K1fHBow_Xa8U3zV84=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Flag_May_2020-01-337783b3928c40c99752093e6cb03f6d.jpg" alt="Cờ xu hướng tăng giá" title="Giao dịch tiền điện tử căn bản 9"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/f/flag.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/f/flag.asp" rel="noreferrer noopener">Cờ xu hướng tăng giá</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/xYqd2KZPY_K1fHBow_Xa8U3zV84=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Flag_May_2020-01-337783b3928c40c99752093e6cb03f6d.jpg" alt="Cờ xu hướng tăng giá" title="Giao dịch tiền điện tử căn bản 14"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/f/flag.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/f/flag.asp" rel="noreferrer noopener">Cờ xu hướng tăng giá</a></figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/6okwptUeHsck3BXsDMKJ6MUAp6o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Flag_May_2020-02-96764f03994240479b895d234806e307.jpg" alt="Cờ xu hướng giảm giá" title="Giao dịch tiền điện tử căn bản 10"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/f/flag.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/f/flag.asp" rel="noreferrer noopener">Cờ xu hướng giảm giá</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/6okwptUeHsck3BXsDMKJ6MUAp6o=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Flag_May_2020-02-96764f03994240479b895d234806e307.jpg" alt="Cờ xu hướng giảm giá" title="Giao dịch tiền điện tử căn bản 15"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/f/flag.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/f/flag.asp" rel="noreferrer noopener">Cờ xu hướng giảm giá</a></figcaption></figure>
 
 
 
@@ -648,11 +1103,11 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/XdB1tOTgRy5mKs0wIvoKBjY7cMo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Wedge_May_2020-01-3fc3337b20824354b64193a8e1a949c5.jpg" alt="Góc nghiêng tăng giá" title="Giao dịch tiền điện tử căn bản 11"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/w/wedge.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/w/wedge.asp" rel="noreferrer noopener">Góc nghiêng tăng giá</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/XdB1tOTgRy5mKs0wIvoKBjY7cMo=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Wedge_May_2020-01-3fc3337b20824354b64193a8e1a949c5.jpg" alt="Góc nghiêng tăng giá" title="Giao dịch tiền điện tử căn bản 16"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/w/wedge.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/w/wedge.asp" rel="noreferrer noopener">Góc nghiêng tăng giá</a></figcaption></figure>
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/3vyAB3I8qk6jxWRnnDVgC8xA2Qs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Wedge_May_2020-02-67d7156b6b40435584b05b73f969181c.jpg" alt="Góc nghiêng giảm giá" title="Giao dịch tiền điện tử căn bản 12"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/w/wedge.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/w/wedge.asp" rel="noreferrer noopener">Góc nghiêng giảm giá</a></figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" src="https://www.investopedia.com/thmb/3vyAB3I8qk6jxWRnnDVgC8xA2Qs=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/dotdash_Final_Wedge_May_2020-02-67d7156b6b40435584b05b73f969181c.jpg" alt="Góc nghiêng giảm giá" title="Giao dịch tiền điện tử căn bản 17"><figcaption class="wp-element-caption"><a href="https://www.investopedia.com/terms/w/wedge.asp" target="_blank" data-type="URL" data-id="https://www.investopedia.com/terms/w/wedge.asp" rel="noreferrer noopener">Góc nghiêng giảm giá</a></figcaption></figure>
 
 
 
@@ -696,7 +1151,7 @@
 
 
 
-<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/03/Tao-mot-chien-luoc-giao-dich-1024x683.jpg" alt="Tạo một chiến lược giao dịch" class="wp-image-651" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-1024x683.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-1536x1024.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-2048x1365.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-750x500.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-1140x760.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giao dịch tiền điện tử căn bản 13"><figcaption class="wp-element-caption">Tạo một chiến lược giao dịch</figcaption></figure>
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="683" src="https://nam3t.com/wp-content/uploads/2023/03/Tao-mot-chien-luoc-giao-dich-1024x683.jpg" alt="Tạo một chiến lược giao dịch" class="wp-image-651" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-1024x683.jpg 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-1536x1024.jpg 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-2048x1365.jpg 2048w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-750x500.jpg 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-1140x760.jpg 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/12031649/Tao-mot-chien-luoc-giao-dich-scaled.jpg 1600w" sizes="(max-width: 1024px) 100vw, 1024px" title="Giao dịch tiền điện tử căn bản 18"><figcaption class="wp-element-caption">Tạo một chiến lược giao dịch</figcaption></figure>
 
 
 
