@@ -12,7 +12,7 @@
 	<atom:link href="https://nam3t.com/tag/trading/feed/" rel="self" type="application/rss+xml" />
 	<link>https://nam3t.com/</link>
 	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
-	<lastBuildDate>Mon, 27 Mar 2023 06:50:28 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Mar 2023 19:33:06 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,8 +40,12 @@
 		<category><![CDATA[Trading Strategy]]></category>
 		<guid isPermaLink="false">https://nam3t.com/?p=1142</guid>
 
-					<description><![CDATA[Quantitative Trading, hay còn gọi là Giao dịch định lượng, là một phương pháp giao dịch dựa trên việc phân tích kỹ thuật và thống kê để đưa ra các quyết định đầu tư. Nó được xây dựng dựa trên các mô hình toán học và thuật toán để giúp nhà đầu tư tìm kiếm [&#8230;]]]></description>
+					<description><![CDATA[Quantitive Trading là gì? Quantitative Trading, hay còn gọi là Giao dịch định lượng, là một phương pháp giao dịch dựa trên việc phân tích kỹ thuật và thống kê để đưa ra các quyết định đầu tư. Nó được xây dựng dựa trên các mô hình toán học và thuật toán để giúp nhà [&#8230;]]]></description>
 										<content:encoded><![CDATA[
+<h2>Quantitive Trading là gì?</h2>
+
+
+
 <p>Quantitative Trading, hay còn gọi là Giao dịch định lượng, là một phương pháp giao dịch dựa trên việc phân tích kỹ thuật và thống kê để đưa ra các quyết định đầu tư. Nó được xây dựng dựa trên các mô hình toán học và thuật toán để giúp nhà đầu tư tìm kiếm lợi nhuận trên thị trường.</p>
 
 
@@ -434,7 +438,7 @@
 
 
 
-<hr class="wp-block-separator has-alpha-channel-opacity" />
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
 

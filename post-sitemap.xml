@@ -4,6 +4,13 @@
 		<loc>https://nam3t.com/</loc>
 	</url>
 	<url>
+		<loc>https://nam3t.com/quantitative-trading/</loc>
+		<lastmod>2023-03-28T02:33:06+07:00</lastmod>
+		<image:image>
+			<image:loc>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26115240/Quantitative-Trading.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://nam3t.com/bao-mat-tien-dien-tu/</loc>
 		<lastmod>2023-03-27T13:51:03+07:00</lastmod>
 		<image:image>
@@ -109,13 +116,6 @@
 		<lastmod>2023-03-26T12:28:46+07:00</lastmod>
 		<image:image>
 			<image:loc>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/21132224/Flash-Loans.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://nam3t.com/quantitative-trading/</loc>
-		<lastmod>2023-03-27T19:37:00+07:00</lastmod>
-		<image:image>
-			<image:loc>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26115240/Quantitative-Trading.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
