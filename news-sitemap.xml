@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//34.126.125.106/news-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-news/0.9 http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://nam3t.com/cbdcs-tien-ky-thuat-so-cua-ngan-hang-trung-uong/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>nam3t</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2023-03-29T07:11:00+07:00</news:publication_date>
+			<news:title><![CDATA[CBDCs: Tiền kỹ thuật số của ngân hàng trung ương]]></news:title>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://nam3t.com/yield-farming-nang-cao/</loc>
 		<news:news>
 			<news:publication>
@@ -31,17 +42,6 @@
 			</news:publication>
 			<news:publication_date>2023-03-27T19:37:00+07:00</news:publication_date>
 			<news:title><![CDATA[Quantitative Trading: Công cụ và chiến lược thuật toán]]></news:title>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://nam3t.com/cross-chain-swaps/</loc>
-		<news:news>
-			<news:publication>
-				<news:name>nam3t</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2023-03-27T07:11:00+07:00</news:publication_date>
-			<news:title><![CDATA[Cross-Chain Swaps: Mở khóa  tiềm năng của Blockchain Interoperability]]></news:title>
 		</news:news>
 	</url>
 </urlset>
