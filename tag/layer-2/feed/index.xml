@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -42,7 +42,7 @@
 
 					<description><![CDATA[Giới thiệu Trong thế giới tiền mã hóa, khả năng mở rộng và hiệu suất của các nền tảng blockchain đóng vai trò quan trọng trong việc đáp ứng nhu cầu ngày càng tăng của người dùng. Giải pháp Layer 2 được xem là một bước đột phá trong việc giải quyết vấn đề này. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -50,11 +50,11 @@
 
 
 
-<h2>Giới thiệu về Giải pháp Layer 2</h2>
+<h2 class="wp-block-heading">Giới thiệu về Giải pháp Layer 2</h2>
 
 
 
-<h3>Vấn đề khả năng mở rộng của Blockchain</h3>
+<h3 class="wp-block-heading">Vấn đề khả năng mở rộng của Blockchain</h3>
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-<h3>Tầm quan trọng của khả năng mở rộng trong các mạng blockchain </h3>
+<h3 class="wp-block-heading">Tầm quan trọng của khả năng mở rộng trong các mạng blockchain </h3>
 
 
 
@@ -70,7 +70,7 @@
 
 
 
-<h3>Tổng quan về giải pháp Layer 1 và Layer 2 </h3>
+<h3 class="wp-block-heading">Tổng quan về giải pháp Layer 1 và Layer 2 </h3>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<h3>Giải pháp Layer 2 là gì?</h3>
+<h3 class="wp-block-heading">Giải pháp Layer 2 là gì?</h3>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-<h3>Sự phổ biến của các giao thức Layer 2 </h3>
+<h3 class="wp-block-heading">Sự phổ biến của các giao thức Layer 2 </h3>
 
 
 
@@ -98,7 +98,7 @@
 
 
 
-<h3>Lợi ích chính của các giải pháp Layer 2</h3>
+<h3 class="wp-block-heading">Lợi ích chính của các giải pháp Layer 2</h3>
 
 
 
@@ -116,7 +116,7 @@
 
 
 
-<h3>Các kỹ thuật mở rộng Layer 2 phổ biến</h3>
+<h3 class="wp-block-heading">Các kỹ thuật mở rộng Layer 2 phổ biến</h3>
 
 
 
@@ -134,7 +134,7 @@
 
 
 
-<h2>Các loại giải pháp Layer 2 phổ biến</h2>
+<h2 class="wp-block-heading">Các loại giải pháp Layer 2 phổ biến</h2>
 
 
 
@@ -142,11 +142,11 @@
 
 
 
-<h3>Lightning Network cho Bitcoin </h3>
+<h3 class="wp-block-heading">Lightning Network cho Bitcoin </h3>
 
 
 
-<h4>Cách hoạt động của Lightning Network </h4>
+<h4 class="wp-block-heading">Cách hoạt động của Lightning Network </h4>
 
 
 
@@ -154,11 +154,11 @@
 
 
 
-<h4>Ưu điểm và thách thức </h4>
+<h4 class="wp-block-heading">Ưu điểm và thách thức </h4>
 
 
 
-<h5>Ưu điểm:</h5>
+<h5 class="wp-block-heading">Ưu điểm:</h5>
 
 
 
@@ -172,7 +172,7 @@
 
 
 
-<h5>Thách thức:</h5>
+<h5 class="wp-block-heading">Thách thức:</h5>
 
 
 
@@ -186,11 +186,11 @@
 
 
 
-<h3>Optimistic Rollups và zk-Rollups cho Ethereum </h3>
+<h3 class="wp-block-heading">Optimistic Rollups và zk-Rollups cho Ethereum </h3>
 
 
 
-<h4>So sánh Optimistic và zk-Rollups </h4>
+<h4 class="wp-block-heading">So sánh Optimistic và zk-Rollups </h4>
 
 
 
@@ -208,7 +208,7 @@
 
 
 
-<h4>Ứng dụng và dự án</h4>
+<h4 class="wp-block-heading">Ứng dụng và dự án</h4>
 
 
 
@@ -226,11 +226,11 @@
 
 
 
-<h3>Polygon (trước đây là Matic Network) </h3>
+<h3 class="wp-block-heading">Polygon (trước đây là Matic Network) </h3>
 
 
 
-<h4>Kiến trúc của Polygon</h4>
+<h4 class="wp-block-heading">Kiến trúc của Polygon</h4>
 
 
 
@@ -238,7 +238,7 @@
 
 
 
-<h4>Các dự án nổi bật trên Polygon </h4>
+<h4 class="wp-block-heading">Các dự án nổi bật trên Polygon </h4>
 
 
 
@@ -246,11 +246,11 @@
 
 
 
-<h3>Plasma </h3>
+<h3 class="wp-block-heading">Plasma </h3>
 
 
 
-<h4>Khái niệm Plasma </h4>
+<h4 class="wp-block-heading">Khái niệm Plasma </h4>
 
 
 
@@ -258,7 +258,7 @@
 
 
 
-<h4>OmiseGO và các dự án dựa trên Plasma khác </h4>
+<h4 class="wp-block-heading">OmiseGO và các dự án dựa trên Plasma khác </h4>
 
 
 
@@ -266,11 +266,11 @@
 
 
 
-<h3>Raiden Network cho Ethereum </h3>
+<h3 class="wp-block-heading">Raiden Network cho Ethereum </h3>
 
 
 
-<h4>Tổng quan về Raiden Network </h4>
+<h4 class="wp-block-heading">Tổng quan về Raiden Network </h4>
 
 
 
@@ -278,7 +278,7 @@
 
 
 
-<h4>Tính năng và ứng dụng chính</h4>
+<h4 class="wp-block-heading">Tính năng và ứng dụng chính</h4>
 
 
 
@@ -296,11 +296,11 @@
 
 
 
-<h2>Tương tác giữa các giao thức Layer 2 và các giải pháp liên chuỗi (cross-chain)</h2>
+<h2 class="wp-block-heading">Tương tác giữa các giao thức Layer 2 và các giải pháp liên chuỗi (cross-chain)</h2>
 
 
 
-<h3>Nhu cầu về tương tác giữa các giao thức Layer 2 </h3>
+<h3 class="wp-block-heading">Nhu cầu về tương tác giữa các giao thức Layer 2 </h3>
 
 
 
@@ -308,7 +308,7 @@
 
 
 
-<h3>Các dự án và công nghệ liên chuỗi hứa hẹn </h3>
+<h3 class="wp-block-heading">Các dự án và công nghệ liên chuỗi hứa hẹn </h3>
 
 
 
@@ -316,11 +316,11 @@
 
 
 
-<h2>Tương lai của các giải pháp mở rộng Layer 2 </h2>
+<h2 class="wp-block-heading">Tương lai của các giải pháp mở rộng Layer 2 </h2>
 
 
 
-<h3>Nghiên cứu và phát triển </h3>
+<h3 class="wp-block-heading">Nghiên cứu và phát triển </h3>
 
 
 
@@ -328,7 +328,7 @@
 
 
 
-<h3>Tác động tiềm năng lên hệ sinh thái blockchain rộng lớn </h3>
+<h3 class="wp-block-heading">Tác động tiềm năng lên hệ sinh thái blockchain rộng lớn </h3>
 
 
 
@@ -336,7 +336,7 @@
 
 
 
-<h3>Vai trò của các giải pháp mở rộng tầng 2 trong việc đưa blockchain vào đại chúng </h3>
+<h3 class="wp-block-heading">Vai trò của các giải pháp mở rộng tầng 2 trong việc đưa blockchain vào đại chúng </h3>
 
 
 
@@ -344,7 +344,7 @@
 
 
 
-<h3>Liên kết giữa các nền tảng blockchain</h3>
+<h3 class="wp-block-heading">Liên kết giữa các nền tảng blockchain</h3>
 
 
 
@@ -352,7 +352,7 @@
 
 
 
-<h3>Hỗ trợ sự phát triển của công nghệ blockchain</h3>
+<h3 class="wp-block-heading">Hỗ trợ sự phát triển của công nghệ blockchain</h3>
 
 
 
@@ -360,7 +360,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -422,7 +422,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

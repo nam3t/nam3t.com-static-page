@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -42,7 +42,7 @@
 
 					<description><![CDATA[Giới thiệu Phi tập trung là một khái niệm quan trọng trong thế giới tiền điện tử và công nghệ blockchain. Nhưng nó có nghĩa là gì và tại sao nó lại quan trọng như vậy? Trong bài &#8220;Phi tập trung là gì và Tầm quan trọng&#8221; này, chúng ta sẽ khám phá những kiến [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -50,11 +50,11 @@
 
 
 
-<h2>Tập trung và Phi tập trung</h2>
+<h2 class="wp-block-heading">Tập trung và Phi tập trung</h2>
 
 
 
-<h3>Định nghĩa</h3>
+<h3 class="wp-block-heading">Định nghĩa</h3>
 
 
 
@@ -66,7 +66,7 @@
 
 
 
-<h3>Sự khác biệt giữa tập trung và phi tập trung</h3>
+<h3 class="wp-block-heading">Sự khác biệt giữa tập trung và phi tập trung</h3>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-<h3>Ví dụ về các hệ thống tập trung</h3>
+<h3 class="wp-block-heading">Ví dụ về các hệ thống tập trung</h3>
 
 
 
@@ -106,11 +106,11 @@
 
 
 
-<h2>Lợi ích của hệ thống phi tập trung</h2>
+<h2 class="wp-block-heading">Lợi ích của hệ thống phi tập trung</h2>
 
 
 
-<h3>Tăng độ bảo mật và độ tin cậy</h3>
+<h3 class="wp-block-heading">Tăng độ bảo mật và độ tin cậy</h3>
 
 
 
@@ -126,7 +126,7 @@
 
 
 
-<h3>Chống lại sự kiểm duyệt và can thiệp từ cơ quan có thẩm quyền</h3>
+<h3 class="wp-block-heading">Chống lại sự kiểm duyệt và can thiệp từ cơ quan có thẩm quyền</h3>
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-<h3>Trao quyền lực cho các cá nhân và cộng đồng</h3>
+<h3 class="wp-block-heading">Trao quyền lực cho các cá nhân và cộng đồng</h3>
 
 
 
@@ -162,11 +162,11 @@
 
 
 
-<h2>Phi tập trung trong Tiền điện tử và Công nghệ Blockchain</h2>
+<h2 class="wp-block-heading">Phi tập trung trong Tiền điện tử và Công nghệ Blockchain</h2>
 
 
 
-<h3>Nguyên lý căn bản</h3>
+<h3 class="wp-block-heading">Nguyên lý căn bản</h3>
 
 
 
@@ -178,7 +178,7 @@
 
 
 
-<h3>Cơ chế đồng thuận (Consensus Mechanism)</h3>
+<h3 class="wp-block-heading">Cơ chế đồng thuận (Consensus Mechanism)</h3>
 
 
 
@@ -190,7 +190,7 @@
 
 
 
-<h3>Ví dụ về các loại tiền điện tử phi tập trung</h3>
+<h3 class="wp-block-heading">Ví dụ về các loại tiền điện tử phi tập trung</h3>
 
 
 
@@ -210,7 +210,7 @@
 
 
 
-<h3>Ví dụ về các dự án phi tập trung</h3>
+<h3 class="wp-block-heading">Ví dụ về các dự án phi tập trung</h3>
 
 
 
@@ -238,7 +238,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -246,7 +246,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

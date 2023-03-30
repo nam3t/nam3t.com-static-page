@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -40,11 +40,11 @@
 
 					<description><![CDATA[Giới thiệu về Tokenization Tokenization là gì? Tokenization là quá trình chuyển đổi một tài sản thực hoặc quyền sở hữu thành một đơn vị mã hóa số gọi là token. Các token này thường được tạo và quản lý trên một nền tảng blockchain, giúp đảm bảo tính an toàn, minh bạch và không [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu về Tokenization</h2>
+<h2 class="wp-block-heading">Giới thiệu về Tokenization</h2>
 
 
 
-<h3>Tokenization là gì?</h3>
+<h3 class="wp-block-heading">Tokenization là gì?</h3>
 
 
 
@@ -56,7 +56,7 @@
 
 
 
-<h3>Cách Tokenization hoạt động</h3>
+<h3 class="wp-block-heading">Cách Tokenization hoạt động</h3>
 
 
 
@@ -84,7 +84,7 @@
 
 
 
-<h2><strong>Lợi ích của Tokenization trong tài sản thực</strong></h2>
+<h2 class="wp-block-heading"><strong>Lợi ích của Tokenization trong tài sản thực</strong></h2>
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-<h2><strong>Các loại tài sản thực có thể được Tokenized</strong></h2>
+<h2 class="wp-block-heading"><strong>Các loại tài sản thực có thể được Tokenized</strong></h2>
 
 
 
@@ -160,7 +160,7 @@
 
 
 
-<h2>Các ví dụ về Tokenization trong thực tế</h2>
+<h2 class="wp-block-heading">Các ví dụ về Tokenization trong thực tế</h2>
 
 
 
@@ -194,7 +194,7 @@
 
 
 
-<h2>Các rủi ro và thách thức trong Tokenization</h2>
+<h2 class="wp-block-heading">Các rủi ro và thách thức trong Tokenization</h2>
 
 
 
@@ -244,7 +244,7 @@
 
 
 
-<h2>Tương lai của Tokenization và tài sản thực</h2>
+<h2 class="wp-block-heading">Tương lai của Tokenization và tài sản thực</h2>
 
 
 
@@ -308,7 +308,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

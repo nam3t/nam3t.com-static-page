@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Giới thiệu Smart Contracts là hợp đồng kỹ thuật số tự thực thi với các điều khoản của thỏa thuận giữa người mua và người bán, được viết trực tiếp thành các dòng mã. Chúng cho phép các giao dịch an toàn và tự động mà không cần qua trung gian. Trong bài &#8220;Smart Contract [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -49,11 +49,11 @@
 
 
 
-<h2>Smart Contracts là gì?</h2>
+<h2 class="wp-block-heading">Smart Contracts là gì?</h2>
 
 
 
-<h3>Định nghĩa</h3>
+<h3 class="wp-block-heading">Định nghĩa</h3>
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-<h3>Lợi ích của Smart Contracts so với hợp đồng truyền thống</h3>
+<h3 class="wp-block-heading">Lợi ích của Smart Contracts so với hợp đồng truyền thống</h3>
 
 
 
@@ -81,7 +81,7 @@
 
 
 
-<h3>Sơ lược về lịch sử của Smart Contracts</h3>
+<h3 class="wp-block-heading">Sơ lược về lịch sử của Smart Contracts</h3>
 
 
 
@@ -93,11 +93,11 @@
 
 
 
-<h2>Cách Smart Contracts hoạt động</h2>
+<h2 class="wp-block-heading">Cách Smart Contracts hoạt động</h2>
 
 
 
-<h3>Vai trò của công nghệ Blockchain</h3>
+<h3 class="wp-block-heading">Vai trò của công nghệ Blockchain</h3>
 
 
 
@@ -117,7 +117,7 @@
 
 
 
-<h3>Ngôn ngữ lập trình trong Smart Contracts</h3>
+<h3 class="wp-block-heading">Ngôn ngữ lập trình trong Smart Contracts</h3>
 
 
 
@@ -137,7 +137,7 @@
 
 
 
-<h3>Smart Contracts được thực thi như thế nào?</h3>
+<h3 class="wp-block-heading">Smart Contracts được thực thi như thế nào?</h3>
 
 
 
@@ -149,11 +149,11 @@
 
 
 
-<h2>Lợi thế và Giới hạn của Smart Contracts</h2>
+<h2 class="wp-block-heading">Lợi thế và Giới hạn của Smart Contracts</h2>
 
 
 
-<h3>Lợi thế</h3>
+<h3 class="wp-block-heading">Lợi thế</h3>
 
 
 
@@ -177,7 +177,7 @@
 
 
 
-<h3>Giới hạn</h3>
+<h3 class="wp-block-heading">Giới hạn</h3>
 
 
 
@@ -213,11 +213,11 @@
 
 
 
-<h2>Các ứng dụng thực tế của Smart Contracts</h2>
+<h2 class="wp-block-heading">Các ứng dụng thực tế của Smart Contracts</h2>
 
 
 
-<h3>Quản lý chuỗi cung ứng</h3>
+<h3 class="wp-block-heading">Quản lý chuỗi cung ứng</h3>
 
 
 
@@ -241,7 +241,7 @@
 
 
 
-<h3>Bất động sản</h3>
+<h3 class="wp-block-heading">Bất động sản</h3>
 
 
 
@@ -257,7 +257,7 @@
 
 
 
-<h3>Bảo hiểm</h3>
+<h3 class="wp-block-heading">Bảo hiểm</h3>
 
 
 
@@ -273,7 +273,7 @@
 
 
 
-<h3>Pháp lý</h3>
+<h3 class="wp-block-heading">Pháp lý</h3>
 
 
 
@@ -293,7 +293,7 @@
 
 
 
-<h3>Y tế</h3>
+<h3 class="wp-block-heading">Y tế</h3>
 
 
 
@@ -313,11 +313,11 @@
 
 
 
-<h2>Tương lai của Smart Contracts</h2>
+<h2 class="wp-block-heading">Tương lai của Smart Contracts</h2>
 
 
 
-<h3>Tác động lên các ngành công nghiệp</h3>
+<h3 class="wp-block-heading">Tác động lên các ngành công nghiệp</h3>
 
 
 
@@ -325,7 +325,7 @@
 
 
 
-<h3>Sự phát triển của công nghệ Smart Contracts trong tương lai</h3>
+<h3 class="wp-block-heading">Sự phát triển của công nghệ Smart Contracts trong tương lai</h3>
 
 
 
@@ -337,7 +337,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -345,7 +345,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -382,7 +382,7 @@
 
 					<description><![CDATA[Giới thiệu Tiền điện tử đã trở thành một từ &#8220;hot&#8221; trong những năm gần đây, nhưng nó chính xác là gì? Nội dung bài viết &#8220;Giới thiệu về tiền điện tử&#8221; này nhằm cung cấp một giới thiệu toàn diện về đồng tiền điện tử, bao gồm định nghĩa, lịch sử và cách hoạt [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -390,11 +390,11 @@
 
 
 
-<h2>Tiền điện tử là gì?</h2>
+<h2 class="wp-block-heading">Tiền điện tử là gì?</h2>
 
 
 
-<h3>Giải thích về tiền điện tử</h3>
+<h3 class="wp-block-heading">Giải thích về tiền điện tử</h3>
 
 
 
@@ -402,7 +402,7 @@
 
 
 
-<h3>Khác biệt giữa tiền điện tử và tiền truyền thống</h3>
+<h3 class="wp-block-heading">Khác biệt giữa tiền điện tử và tiền truyền thống</h3>
 
 
 
@@ -410,7 +410,7 @@
 
 
 
-<h3>Ưu điểm và nhược điểm của tiền điện tử</h3>
+<h3 class="wp-block-heading">Ưu điểm và nhược điểm của tiền điện tử</h3>
 
 
 
@@ -430,11 +430,11 @@
 
 
 
-<h2>Lịch sử của tiền điện tử</h2>
+<h2 class="wp-block-heading">Lịch sử của tiền điện tử</h2>
 
 
 
-<h3>Tiền điện tử đầu tiên: Bitcoin</h3>
+<h3 class="wp-block-heading">Tiền điện tử đầu tiên: Bitcoin</h3>
 
 
 
@@ -442,7 +442,7 @@
 
 
 
-<h3>Sự trỗi dậy của các loại tiền điện tử khác</h3>
+<h3 class="wp-block-heading">Sự trỗi dậy của các loại tiền điện tử khác</h3>
 
 
 
@@ -450,7 +450,7 @@
 
 
 
-<h3>Các cột mốc quan trọng trong lịch sử của tiền điện tử</h3>
+<h3 class="wp-block-heading">Các cột mốc quan trọng trong lịch sử của tiền điện tử</h3>
 
 
 
@@ -458,7 +458,7 @@
 
 
 
-<h3>Những thách thức của tiền điện tử</h3>
+<h3 class="wp-block-heading">Những thách thức của tiền điện tử</h3>
 
 
 
@@ -470,11 +470,11 @@
 
 
 
-<h2>Tiền điện tử hoạt động như thế nào?</h2>
+<h2 class="wp-block-heading">Tiền điện tử hoạt động như thế nào?</h2>
 
 
 
-<h3>Công nghệ Blockchain</h3>
+<h3 class="wp-block-heading">Công nghệ Blockchain</h3>
 
 
 
@@ -486,7 +486,7 @@
 
 
 
-<h3>Quá trình mining và giao dịch</h3>
+<h3 class="wp-block-heading">Quá trình mining và giao dịch</h3>
 
 
 
@@ -498,7 +498,7 @@
 
 
 
-<h3>Khóa công khai và khóa bí mật</h3>
+<h3 class="wp-block-heading">Khóa công khai và khóa bí mật</h3>
 
 
 
@@ -510,7 +510,7 @@
 
 
 
-<h3>Sự mở rộng và tiêu thụ năng lượng của Blockchain</h3>
+<h3 class="wp-block-heading">Sự mở rộng và tiêu thụ năng lượng của Blockchain</h3>
 
 
 
@@ -530,7 +530,7 @@
 
 
 
-<h3>Các loại tiền điện tử</h3>
+<h3 class="wp-block-heading">Các loại tiền điện tử</h3>
 
 
 
@@ -538,7 +538,7 @@
 
 
 
-<h4><a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer noopener">Bitcoin</a></h4>
+<h4 class="wp-block-heading"><a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer noopener">Bitcoin</a></h4>
 
 
 
@@ -546,7 +546,7 @@
 
 
 
-<h4><a href="https://ethereum.org/vi/" target="_blank" rel="noreferrer noopener">Ethereum</a></h4>
+<h4 class="wp-block-heading"><a href="https://ethereum.org/vi/" target="_blank" rel="noreferrer noopener">Ethereum</a></h4>
 
 
 
@@ -554,7 +554,7 @@
 
 
 
-<h4>Ripple</h4>
+<h4 class="wp-block-heading">Ripple</h4>
 
 
 
@@ -562,7 +562,7 @@
 
 
 
-<h4>Các loại tiền điện tử phổ biến khác</h4>
+<h4 class="wp-block-heading">Các loại tiền điện tử phổ biến khác</h4>
 
 
 
@@ -578,11 +578,11 @@
 
 
 
-<h2>Ứng dụng của tiền điện tử</h2>
+<h2 class="wp-block-heading">Ứng dụng của tiền điện tử</h2>
 
 
 
-<h3>Đầu tư</h3>
+<h3 class="wp-block-heading">Đầu tư</h3>
 
 
 
@@ -590,7 +590,7 @@
 
 
 
-<h3>Thanh toán hàng hóa và dịch vụ</h3>
+<h3 class="wp-block-heading">Thanh toán hàng hóa và dịch vụ</h3>
 
 
 
@@ -598,7 +598,7 @@
 
 
 
-<h3>Chuyển tiền quốc tế</h3>
+<h3 class="wp-block-heading">Chuyển tiền quốc tế</h3>
 
 
 
@@ -606,7 +606,7 @@
 
 
 
-<h3>Điểm đến cho tài chính hợp lý</h3>
+<h3 class="wp-block-heading">Điểm đến cho tài chính hợp lý</h3>
 
 
 
@@ -614,7 +614,7 @@
 
 
 
-<h3>Những thách thức về việc sử dụng tiền điện tử</h3>
+<h3 class="wp-block-heading">Những thách thức về việc sử dụng tiền điện tử</h3>
 
 
 
@@ -630,11 +630,11 @@
 
 
 
-<h2>Tương lai của tiền điện tử</h2>
+<h2 class="wp-block-heading">Tương lai của tiền điện tử</h2>
 
 
 
-<h3>Tiềm năng của tiền điện tử</h3>
+<h3 class="wp-block-heading">Tiềm năng của tiền điện tử</h3>
 
 
 
@@ -646,7 +646,7 @@
 
 
 
-<h3>Quy định và tính hợp pháp</h3>
+<h3 class="wp-block-heading">Quy định và tính hợp pháp</h3>
 
 
 
@@ -658,7 +658,7 @@
 
 
 
-<h3>Tiềm năng tác động đến hệ thống tài chính truyền thống</h3>
+<h3 class="wp-block-heading">Tiềm năng tác động đến hệ thống tài chính truyền thống</h3>
 
 
 
@@ -666,7 +666,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -674,7 +674,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

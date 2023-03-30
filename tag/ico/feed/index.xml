@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -40,7 +40,7 @@
 
 					<description><![CDATA[Giới thiệu ICO (Initial Coin Offerings) đã trở thành một cách phổ biến để các công ty khởi nghiệp gây quỹ. Nhưng chính xác ICO là gì, chúng hoạt động như thế nào, những rủi ro và lợi ích là gì? Trong bài &#8220;ICO là gì? Những điều bạn cần biết&#8221; này, chúng tôi sẽ [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -48,11 +48,11 @@
 
 
 
-<h2>ICO là gì?</h2>
+<h2 class="wp-block-heading">ICO là gì?</h2>
 
 
 
-<h3>Định nghĩa</h3>
+<h3 class="wp-block-heading">Định nghĩa</h3>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<h3>ICO và IPO</h3>
+<h3 class="wp-block-heading">ICO và IPO</h3>
 
 
 
@@ -88,11 +88,11 @@
 
 
 
-<h2>ICO hoạt động như thế nào?</h2>
+<h2 class="wp-block-heading">ICO hoạt động như thế nào?</h2>
 
 
 
-<h3>Whitepapers và Proposals</h3>
+<h3 class="wp-block-heading">Whitepapers và Proposals</h3>
 
 
 
@@ -112,7 +112,7 @@
 
 
 
-<h3>Bán và phân phối Token</h3>
+<h3 class="wp-block-heading">Bán và phân phối Token</h3>
 
 
 
@@ -132,11 +132,11 @@
 
 
 
-<h2>Lợi ích và rủi ro của ICO</h2>
+<h2 class="wp-block-heading">Lợi ích và rủi ro của ICO</h2>
 
 
 
-<h3>Lợi ích</h3>
+<h3 class="wp-block-heading">Lợi ích</h3>
 
 
 
@@ -156,7 +156,7 @@
 
 
 
-<h3>Rủi ro</h3>
+<h3 class="wp-block-heading">Rủi ro</h3>
 
 
 
@@ -168,7 +168,7 @@
 
 
 
-<h2>Ví dụ các dự án ICO thành công</h2>
+<h2 class="wp-block-heading">Ví dụ các dự án ICO thành công</h2>
 
 
 
@@ -176,7 +176,7 @@
 
 
 
-<h3>Ethereum</h3>
+<h3 class="wp-block-heading">Ethereum</h3>
 
 
 
@@ -200,7 +200,7 @@
 
 
 
-<h3>Filecoin</h3>
+<h3 class="wp-block-heading">Filecoin</h3>
 
 
 
@@ -224,7 +224,7 @@
 
 
 
-<h3>Tezos</h3>
+<h3 class="wp-block-heading">Tezos</h3>
 
 
 
@@ -248,11 +248,11 @@
 
 
 
-<h2>Tham gia ICO như thế nào?</h2>
+<h2 class="wp-block-heading">Tham gia ICO như thế nào?</h2>
 
 
 
-<h3>Tìm hiểu và phân tích</h3>
+<h3 class="wp-block-heading">Tìm hiểu và phân tích</h3>
 
 
 
@@ -272,7 +272,7 @@
 
 
 
-<h3>Tham gia</h3>
+<h3 class="wp-block-heading">Tham gia</h3>
 
 
 
@@ -296,7 +296,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -304,7 +304,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

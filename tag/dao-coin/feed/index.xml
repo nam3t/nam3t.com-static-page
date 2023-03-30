@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Giới thiệu Khai thác tiền điện tử (Crypto Mining) là quá trình tạo ra tiền mới bằng cách giải các bài toán phức tạp. Trong bài &#8220;Cách Đào Tiền điện tử&#8221; này, chúng ta sẽ khám phá những kiến ​​thức cơ bản về khai thác tiền điện tử, các phương pháp khai thác khác nhau [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -49,11 +49,11 @@
 
 
 
-<h2>Đào tiền điện tử là gì?</h2>
+<h2 class="wp-block-heading">Đào tiền điện tử là gì?</h2>
 
 
 
-<h3>Định nghĩa</h3>
+<h3 class="wp-block-heading">Định nghĩa</h3>
 
 
 
@@ -65,7 +65,7 @@
 
 
 
-<h3>Mục đích của việc đào coin</h3>
+<h3 class="wp-block-heading">Mục đích của việc đào coin</h3>
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-<h3>Thợ đào và hoạt động xác nhận giao dịch</h3>
+<h3 class="wp-block-heading">Thợ đào và hoạt động xác nhận giao dịch</h3>
 
 
 
@@ -97,11 +97,11 @@
 
 
 
-<h2>Các cách đào coin</h2>
+<h2 class="wp-block-heading">Các cách đào coin</h2>
 
 
 
-<h3>Phương thức Proof of Work (PoW)</h3>
+<h3 class="wp-block-heading">Phương thức Proof of Work (PoW)</h3>
 
 
 
@@ -121,7 +121,7 @@
 
 
 
-<h3>Phương thức Proof of Stake (PoS)</h3>
+<h3 class="wp-block-heading">Phương thức Proof of Stake (PoS)</h3>
 
 
 
@@ -133,7 +133,7 @@
 
 
 
-<h3>Các phương thức khác</h3>
+<h3 class="wp-block-heading">Các phương thức khác</h3>
 
 
 
@@ -149,7 +149,7 @@
 
 
 
-<h2>Chuẩn bị Phần cứng và phần mềm</h2>
+<h2 class="wp-block-heading">Chuẩn bị Phần cứng và phần mềm</h2>
 
 
 
@@ -157,7 +157,7 @@
 
 
 
-<h3>Mining Rigs</h3>
+<h3 class="wp-block-heading">Mining Rigs</h3>
 
 
 
@@ -173,7 +173,7 @@
 
 
 
-<h3>GPU</h3>
+<h3 class="wp-block-heading">GPU</h3>
 
 
 
@@ -189,7 +189,7 @@
 
 
 
-<h3>Phần mềm Mining</h3>
+<h3 class="wp-block-heading">Phần mềm Mining</h3>
 
 
 
@@ -217,7 +217,7 @@
 
 
 
-<h3>Nhóm đào (Mining Pool)</h3>
+<h3 class="wp-block-heading">Nhóm đào (Mining Pool)</h3>
 
 
 
@@ -245,7 +245,7 @@
 
 
 
-<h3>Điện và thiết bị làm mát</h3>
+<h3 class="wp-block-heading">Điện và thiết bị làm mát</h3>
 
 
 
@@ -261,11 +261,11 @@
 
 
 
-<h2>Bắt đầu đào</h2>
+<h2 class="wp-block-heading">Bắt đầu đào</h2>
 
 
 
-<h3>Chọn đồng tiền</h3>
+<h3 class="wp-block-heading">Chọn đồng tiền</h3>
 
 
 
@@ -285,7 +285,7 @@
 
 
 
-<h3>Cài đặt Mining Rig</h3>
+<h3 class="wp-block-heading">Cài đặt Mining Rig</h3>
 
 
 
@@ -301,7 +301,7 @@
 
 
 
-<h3>Tham gia vào Pool</h3>
+<h3 class="wp-block-heading">Tham gia vào Pool</h3>
 
 
 
@@ -321,7 +321,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -329,7 +329,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

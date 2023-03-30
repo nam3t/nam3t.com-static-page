@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -45,7 +45,7 @@
 
 
 
-<h2>Lợi ích của NFTs trong nghệ thuật kỹ thuật số</h2>
+<h2 class="wp-block-heading">Lợi ích của NFTs trong nghệ thuật kỹ thuật số</h2>
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-<h2>NFT nổi bật trong nghệ thuật kỹ thuật số</h2>
+<h2 class="wp-block-heading">NFT nổi bật trong nghệ thuật kỹ thuật số</h2>
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-<h3>Beeple và tác phẩm &#8220;Everydays: The First 5000 Days&#8221;</h3>
+<h3 class="wp-block-heading">Beeple và tác phẩm &#8220;Everydays: The First 5000 Days&#8221;</h3>
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-<h3>CryptoPunks</h3>
+<h3 class="wp-block-heading">CryptoPunks</h3>
 
 
 
@@ -103,7 +103,7 @@
 
 
 
-<h3>Axie Infinity</h3>
+<h3 class="wp-block-heading">Axie Infinity</h3>
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-<h3>Art Blocks</h3>
+<h3 class="wp-block-heading">Art Blocks</h3>
 
 
 
@@ -123,7 +123,7 @@
 
 
 
-<h3>World of Women</h3>
+<h3 class="wp-block-heading">World of Women</h3>
 
 
 
@@ -139,7 +139,7 @@
 
 
 
-<h3>Bored Ape Yacht Club</h3>
+<h3 class="wp-block-heading">Bored Ape Yacht Club</h3>
 
 
 
@@ -151,7 +151,7 @@
 
 
 
-<h3>Rarible</h3>
+<h3 class="wp-block-heading">Rarible</h3>
 
 
 
@@ -159,7 +159,7 @@
 
 
 
-<h3>NBA Top Shot</h3>
+<h3 class="wp-block-heading">NBA Top Shot</h3>
 
 
 
@@ -167,7 +167,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -193,7 +193,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

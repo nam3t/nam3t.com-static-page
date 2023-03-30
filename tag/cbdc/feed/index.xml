@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -40,7 +40,7 @@
 
 					<description><![CDATA[Giới thiệu về CDBCs Central Bank Digital Currencies (CBDCs) là một dạng tiền kỹ thuật số được phát hành và kiểm soát bởi ngân hàng trung ương của một quốc gia. CBDCs đại diện cho giá trị của tiền tệ quốc gia và được ủy quyền chính thức như một phương tiện thanh toán, chấp [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu về CDBCs</h2>
+<h2 class="wp-block-heading">Giới thiệu về CDBCs</h2>
 
 
 
@@ -52,7 +52,7 @@
 
 
 
-<h3>Định nghĩa CBDCs</h3>
+<h3 class="wp-block-heading">Định nghĩa CBDCs</h3>
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-<h3>Mục đích và lợi ích của CBDCs</h3>
+<h3 class="wp-block-heading">Mục đích và lợi ích của CBDCs</h3>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-<h3>Sự khác biệt giữa CBDCs và tiền mã hóa thông thường</h3>
+<h3 class="wp-block-heading">Sự khác biệt giữa CBDCs và tiền mã hóa thông thường</h3>
 
 
 
@@ -120,7 +120,7 @@
 
 
 
-<h2>Cách thức hoạt động của CBDCs</h2>
+<h2 class="wp-block-heading">Cách thức hoạt động của CBDCs</h2>
 
 
 
@@ -128,7 +128,7 @@
 
 
 
-<h3>Hệ thống phân cấp và không phân cấp</h3>
+<h3 class="wp-block-heading">Hệ thống phân cấp và không phân cấp</h3>
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-<h3>Cơ chế xử lý giao dịch</h3>
+<h3 class="wp-block-heading">Cơ chế xử lý giao dịch</h3>
 
 
 
@@ -150,7 +150,7 @@
 
 
 
-<h3>Quyền riêng tư và an toàn thông tin</h3>
+<h3 class="wp-block-heading">Quyền riêng tư và an toàn thông tin</h3>
 
 
 
@@ -162,7 +162,7 @@
 
 
 
-<h2>Các ví dụ và nghiên cứu điển hình về CBDCs</h2>
+<h2 class="wp-block-heading">Các ví dụ và nghiên cứu điển hình về CBDCs</h2>
 
 
 
@@ -170,7 +170,7 @@
 
 
 
-<h3>Trung Quốc: DCEP (Digital Currency Electronic Payment)</h3>
+<h3 class="wp-block-heading">Trung Quốc: DCEP (Digital Currency Electronic Payment)</h3>
 
 
 
@@ -178,7 +178,7 @@
 
 
 
-<h3>Thụy Điển: e-Krona</h3>
+<h3 class="wp-block-heading">Thụy Điển: e-Krona</h3>
 
 
 
@@ -186,7 +186,7 @@
 
 
 
-<h3>Bahamas: Sand Dollar</h3>
+<h3 class="wp-block-heading">Bahamas: Sand Dollar</h3>
 
 
 
@@ -198,7 +198,7 @@
 
 
 
-<h3>Châu Âu: Digital Euro</h3>
+<h3 class="wp-block-heading">Châu Âu: Digital Euro</h3>
 
 
 
@@ -206,7 +206,7 @@
 
 
 
-<h3>Mỹ: Digital Dollar</h3>
+<h3 class="wp-block-heading">Mỹ: Digital Dollar</h3>
 
 
 
@@ -214,7 +214,7 @@
 
 
 
-<h2>Ưu điểm và nhược điểm của CBDCs</h2>
+<h2 class="wp-block-heading">Ưu điểm và nhược điểm của CBDCs</h2>
 
 
 
@@ -222,7 +222,7 @@
 
 
 
-<h3>Ưu điểm</h3>
+<h3 class="wp-block-heading">Ưu điểm</h3>
 
 
 
@@ -252,7 +252,7 @@
 
 
 
-<h3>Nhược điểm</h3>
+<h3 class="wp-block-heading">Nhược điểm</h3>
 
 
 
@@ -286,7 +286,7 @@
 
 
 
-<h2>Tác động của CBDCs đối với tiền mã hóa và thị trường tiền điện tử</h2>
+<h2 class="wp-block-heading">Tác động của CBDCs đối với tiền mã hóa và thị trường tiền điện tử</h2>
 
 
 
@@ -294,7 +294,7 @@
 
 
 
-<h3>Tác động tích cực</h3>
+<h3 class="wp-block-heading">Tác động tích cực</h3>
 
 
 
@@ -312,7 +312,7 @@
 
 
 
-<h3>Tác động tiêu cực</h3>
+<h3 class="wp-block-heading">Tác động tiêu cực</h3>
 
 
 
@@ -334,7 +334,7 @@
 
 
 
-<h2>Kết luận và tương lai của CBDCs</h2>
+<h2 class="wp-block-heading">Kết luận và tương lai của CBDCs</h2>
 
 
 
@@ -402,7 +402,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

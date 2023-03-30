@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Crypto Arbitrage là gì? Crypto Arbitrage là một chiến lược đầu tư trong lĩnh vực tiền điện tử, dựa trên việc tận dụng sự chênh lệch giá của một loại tiền điện tử giữa các sàn giao dịch khác nhau. Mục đích của Crypto Arbitrage là mua giá thấp ở một sàn và bán giá [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Crypto Arbitrage là gì?</h2>
+<h2 class="wp-block-heading">Crypto Arbitrage là gì?</h2>
 
 
 
@@ -61,7 +61,7 @@
 
 
 
-<h2>Các loại Crypto Arbitrage</h2>
+<h2 class="wp-block-heading">Các loại Crypto Arbitrage</h2>
 
 
 
@@ -83,7 +83,7 @@
 
 
 
-<h3>Spatial Arbitrage</h3>
+<h3 class="wp-block-heading">Spatial Arbitrage</h3>
 
 
 
@@ -91,7 +91,7 @@
 
 
 
-<h4>Ví dụ thực tế</h4>
+<h4 class="wp-block-heading">Ví dụ thực tế</h4>
 
 
 
@@ -99,7 +99,7 @@
 
 
 
-<h4>Ưu điểm và nhược điểm</h4>
+<h4 class="wp-block-heading">Ưu điểm và nhược điểm</h4>
 
 
 
@@ -107,7 +107,7 @@
 
 
 
-<h3>Triangular Arbitrage</h3>
+<h3 class="wp-block-heading">Triangular Arbitrage</h3>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<h4>Ví dụ thực tế</h4>
+<h4 class="wp-block-heading">Ví dụ thực tế</h4>
 
 
 
@@ -123,7 +123,7 @@
 
 
 
-<h4>Ưu điểm và nhược điểm</h4>
+<h4 class="wp-block-heading">Ưu điểm và nhược điểm</h4>
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-<h3>Statistical Arbitrage</h3>
+<h3 class="wp-block-heading">Statistical Arbitrage</h3>
 
 
 
@@ -139,7 +139,7 @@
 
 
 
-<h4>Ví dụ thực tế</h4>
+<h4 class="wp-block-heading">Ví dụ thực tế</h4>
 
 
 
@@ -147,7 +147,7 @@
 
 
 
-<h3>Ưu điểm và nhược điểm</h3>
+<h3 class="wp-block-heading">Ưu điểm và nhược điểm</h3>
 
 
 
@@ -159,7 +159,7 @@
 
 
 
-<h2>Công cụ và dịch vụ hỗ trợ Crypto Arbitrage</h2>
+<h2 class="wp-block-heading">Công cụ và dịch vụ hỗ trợ Crypto Arbitrage</h2>
 
 
 
@@ -167,7 +167,7 @@
 
 
 
-<h3>Công cụ theo dõi giá và phân tích dữ liệu</h3>
+<h3 class="wp-block-heading">Công cụ theo dõi giá và phân tích dữ liệu</h3>
 
 
 
@@ -185,7 +185,7 @@
 
 
 
-<h3>Phần mềm và dịch vụ Crypto Arbitrage</h3>
+<h3 class="wp-block-heading">Phần mềm và dịch vụ Crypto Arbitrage</h3>
 
 
 
@@ -207,7 +207,7 @@
 
 
 
-<h3>Dịch vụ hỗ trợ giao dịch và chuyển đồng tiền điện tử</h3>
+<h3 class="wp-block-heading">Dịch vụ hỗ trợ giao dịch và chuyển đồng tiền điện tử</h3>
 
 
 
@@ -233,7 +233,7 @@
 
 
 
-<h2>Rủi ro và khuyến cáo khi thực hiện Crypto Arbitrage</h2>
+<h2 class="wp-block-heading">Rủi ro và khuyến cáo khi thực hiện Crypto Arbitrage</h2>
 
 
 
@@ -241,7 +241,7 @@
 
 
 
-<h3>Rủi ro</h3>
+<h3 class="wp-block-heading">Rủi ro</h3>
 
 
 
@@ -267,7 +267,7 @@
 
 
 
-<h3>Khuyến cáo</h3>
+<h3 class="wp-block-heading">Khuyến cáo</h3>
 
 
 
@@ -305,7 +305,7 @@
 
 
 
-<h2>Hướng dẫn bắt đầu với Crypto Arbitrage</h2>
+<h2 class="wp-block-heading">Hướng dẫn bắt đầu với Crypto Arbitrage</h2>
 
 
 
@@ -313,7 +313,7 @@
 
 
 
-<h3>Bước 1: Đăng ký tài khoản trên các sàn giao dịch</h3>
+<h3 class="wp-block-heading">Bước 1: Đăng ký tài khoản trên các sàn giao dịch</h3>
 
 
 
@@ -321,7 +321,7 @@
 
 
 
-<h3>Bước 2: Nạp vốn vào các sàn giao dịch</h3>
+<h3 class="wp-block-heading">Bước 2: Nạp vốn vào các sàn giao dịch</h3>
 
 
 
@@ -329,7 +329,7 @@
 
 
 
-<h3>Bước 3: Tìm hiểu về các công cụ và dịch vụ hỗ trợ Crypto Arbitrage</h3>
+<h3 class="wp-block-heading">Bước 3: Tìm hiểu về các công cụ và dịch vụ hỗ trợ Crypto Arbitrage</h3>
 
 
 
@@ -337,7 +337,7 @@
 
 
 
-<h3>Bước 4: Theo dõi giá và tìm cơ hội Arbitrage</h3>
+<h3 class="wp-block-heading">Bước 4: Theo dõi giá và tìm cơ hội Arbitrage</h3>
 
 
 
@@ -345,7 +345,7 @@
 
 
 
-<h3>Bước 5: Tính toán lợi nhuận và phí giao dịch</h3>
+<h3 class="wp-block-heading">Bước 5: Tính toán lợi nhuận và phí giao dịch</h3>
 
 
 
@@ -353,7 +353,7 @@
 
 
 
-<h3>Bước 6: Thực hiện giao dịch Arbitrage</h3>
+<h3 class="wp-block-heading">Bước 6: Thực hiện giao dịch Arbitrage</h3>
 
 
 
@@ -361,7 +361,7 @@
 
 
 
-<h3>Bước 7: Theo dõi và đánh giá hiệu quả</h3>
+<h3 class="wp-block-heading">Bước 7: Theo dõi và đánh giá hiệu quả</h3>
 
 
 
@@ -369,7 +369,7 @@
 
 
 
-<h3>Bước 8: Quản lý rủi ro và điều chỉnh chiến lược</h3>
+<h3 class="wp-block-heading">Bước 8: Quản lý rủi ro và điều chỉnh chiến lược</h3>
 
 
 
@@ -377,7 +377,7 @@
 
 
 
-<h3>Bước 9: Cập nhật kiến thức và thông tin thị trường</h3>
+<h3 class="wp-block-heading">Bước 9: Cập nhật kiến thức và thông tin thị trường</h3>
 
 
 
@@ -389,7 +389,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -459,7 +459,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

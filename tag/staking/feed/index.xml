@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -52,7 +52,7 @@
 
 
 
-<h2 id="basics-of-staking">Staking cơ bản</h2>
+<h2 class="wp-block-heading" id="basics-of-staking">Staking cơ bản</h2>
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-<h3>Staking là gì?</h3>
+<h3 class="wp-block-heading">Staking là gì?</h3>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<h3>Lợi ích của Staking</h3>
+<h3 class="wp-block-heading">Lợi ích của Staking</h3>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-<h3>Rủi ro và nhược điểm của Staking</h3>
+<h3 class="wp-block-heading">Rủi ro và nhược điểm của Staking</h3>
 
 
 
@@ -116,7 +116,7 @@
 
 
 
-<h2 id="advanced-staking-strategies-1">Chiến lược Staking nâng cao</h2>
+<h2 class="wp-block-heading" id="advanced-staking-strategies-1">Chiến lược Staking nâng cao</h2>
 
 
 
@@ -124,11 +124,11 @@
 
 
 
-<h3 id="strategy-1-staking-derivatives">Chiến lược 1: Staking Derivatives</h3>
+<h3 class="wp-block-heading" id="strategy-1-staking-derivatives">Chiến lược 1: Staking Derivatives</h3>
 
 
 
-<h4>Định nghĩa và giải thích về Staking Derivatives</h4>
+<h4 class="wp-block-heading">Định nghĩa và giải thích về Staking Derivatives</h4>
 
 
 
@@ -146,7 +146,7 @@
 
 
 
-<h4>Lợi ích và rủi ro liên quan đến Staking Derivatives</h4>
+<h4 class="wp-block-heading">Lợi ích và rủi ro liên quan đến Staking Derivatives</h4>
 
 
 
@@ -182,7 +182,7 @@
 
 
 
-<h4>Ví dụ về Staking Derivatives trên các nền tảng phổ biến</h4>
+<h4 class="wp-block-heading">Ví dụ về Staking Derivatives trên các nền tảng phổ biến</h4>
 
 
 
@@ -192,11 +192,11 @@
 
 
 
-<h3>Chiến Lược 2: Staking Pools</h3>
+<h3 class="wp-block-heading">Chiến Lược 2: Staking Pools</h3>
 
 
 
-<h4>Định nghĩa và giải thích về Staking Pools</h4>
+<h4 class="wp-block-heading">Định nghĩa và giải thích về Staking Pools</h4>
 
 
 
@@ -210,7 +210,7 @@
 
 
 
-<h4>Lợi ích và rủi ro liên quan đến Staking Pools</h4>
+<h4 class="wp-block-heading">Lợi ích và rủi ro liên quan đến Staking Pools</h4>
 
 
 
@@ -246,7 +246,7 @@
 
 
 
-<h4>Ví dụ về Staking Pools trên các nền tảng phổ biến</h4>
+<h4 class="wp-block-heading">Ví dụ về Staking Pools trên các nền tảng phổ biến</h4>
 
 
 
@@ -256,11 +256,11 @@
 
 
 
-<h3>Chiến Lược 3: Multi-Asset Staking</h3>
+<h3 class="wp-block-heading">Chiến Lược 3: Multi-Asset Staking</h3>
 
 
 
-<h4>Định nghĩa và giải thích về Multi-Asset Staking</h4>
+<h4 class="wp-block-heading">Định nghĩa và giải thích về Multi-Asset Staking</h4>
 
 
 
@@ -274,7 +274,7 @@
 
 
 
-<h4>Lợi ích và rủi ro liên quan đến Multi-Asset Staking</h4>
+<h4 class="wp-block-heading">Lợi ích và rủi ro liên quan đến Multi-Asset Staking</h4>
 
 
 
@@ -306,7 +306,7 @@
 
 
 
-<h4>Ví dụ về Multi-Asset Staking trên các nền tảng phổ biến</h4>
+<h4 class="wp-block-heading">Ví dụ về Multi-Asset Staking trên các nền tảng phổ biến</h4>
 
 
 
@@ -328,7 +328,7 @@
 
 
 
-<h2>So Sánh Các Chiến Lược Staking Nâng Cao</h2>
+<h2 class="wp-block-heading">So Sánh Các Chiến Lược Staking Nâng Cao</h2>
 
 
 
@@ -352,7 +352,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -402,7 +402,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

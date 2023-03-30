@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Giới thiệu Vốn hóa thị trường tiền điện tử (Cryptocurrency Market Capitalization) là một thước đo quan trọng đối với các nhà đầu tư, thương nhân và những người đam mê. Nhưng vốn hóa thị trường chính xác là gì, nó được tính như thế nào và tại sao nó lại quan trọng? Trong hướng [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -53,7 +53,7 @@
 
 
 
-<h2>Tại sao Vốn hóa thị trường quan trọng?</h2>
+<h2 class="wp-block-heading">Tại sao Vốn hóa thị trường quan trọng?</h2>
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-<h2>Khác biệt giữa Vốn hóa và Giá của một đồng tiền tiện tử</h2>
+<h2 class="wp-block-heading">Khác biệt giữa Vốn hóa và Giá của một đồng tiền tiện tử</h2>
 
 
 
@@ -113,11 +113,11 @@
 
 
 
-<h2>Top Tiền điện tử theo vốn hóa</h2>
+<h2 class="wp-block-heading">Top Tiền điện tử theo vốn hóa</h2>
 
 
 
-<h3>Tổng quan</h3>
+<h3 class="wp-block-heading">Tổng quan</h3>
 
 
 
@@ -133,7 +133,7 @@
 
 
 
-<h3>Xu hướng và phân tích sự thay đổi vốn hóa theo thời gian</h3>
+<h3 class="wp-block-heading">Xu hướng và phân tích sự thay đổi vốn hóa theo thời gian</h3>
 
 
 
@@ -153,11 +153,11 @@
 
 
 
-<h2>Rủi ro và giới hạn của Vốn hóa thị trường</h2>
+<h2 class="wp-block-heading">Rủi ro và giới hạn của Vốn hóa thị trường</h2>
 
 
 
-<h3>Những yếu tố ảnh hưởng đến sự chuẩn xác của vốn hóa</h3>
+<h3 class="wp-block-heading">Những yếu tố ảnh hưởng đến sự chuẩn xác của vốn hóa</h3>
 
 
 
@@ -169,7 +169,7 @@
 
 
 
-<h3>Giới hạn khi sử dụng vốn hóa làm thước đo đầu tư</h3>
+<h3 class="wp-block-heading">Giới hạn khi sử dụng vốn hóa làm thước đo đầu tư</h3>
 
 
 
@@ -201,7 +201,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -209,7 +209,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

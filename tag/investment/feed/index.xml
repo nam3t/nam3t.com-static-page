@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -42,7 +42,7 @@
 
 					<description><![CDATA[Giới thiệu Đầu tư vào tiền điện tử có thể là một hoạt động kinh doanh có lãi, nhưng việc chọn loại tiền điện tử phù hợp để đầu tư có thể là một nhiệm vụ khó khăn. Với rất nhiều loại tiền điện tử có sẵn trên thị trường, việc xác định loại tiền [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -50,11 +50,11 @@
 
 
 
-<h2>Xác định mục tiêu</h2>
+<h2 class="wp-block-heading">Xác định mục tiêu</h2>
 
 
 
-<h3>Xác định mục tiêu và thời gian đầu tư</h3>
+<h3 class="wp-block-heading">Xác định mục tiêu và thời gian đầu tư</h3>
 
 
 
@@ -106,7 +106,7 @@
 
 
 
-<h3>Xác định mức độ rủi ro</h3>
+<h3 class="wp-block-heading">Xác định mức độ rủi ro</h3>
 
 
 
@@ -126,11 +126,11 @@
 
 
 
-<h2>Nghiên cứu về thị trường</h2>
+<h2 class="wp-block-heading">Nghiên cứu về thị trường</h2>
 
 
 
-<h3>Khả năng thanh khoản</h3>
+<h3 class="wp-block-heading">Khả năng thanh khoản</h3>
 
 
 
@@ -150,7 +150,7 @@
 
 
 
-<h3>Mức độ dao động giá</h3>
+<h3 class="wp-block-heading">Mức độ dao động giá</h3>
 
 
 
@@ -174,7 +174,7 @@
 
 
 
-<h3>Quan sát tâm lý thị trường và cập nhật tin tức</h3>
+<h3 class="wp-block-heading">Quan sát tâm lý thị trường và cập nhật tin tức</h3>
 
 
 
@@ -194,11 +194,11 @@
 
 
 
-<h2>Đánh giá công nghệ</h2>
+<h2 class="wp-block-heading">Đánh giá công nghệ</h2>
 
 
 
-<h3>Công nghệ Blockchain</h3>
+<h3 class="wp-block-heading">Công nghệ Blockchain</h3>
 
 
 
@@ -230,7 +230,7 @@
 
 
 
-<h3>Tiềm năng đổi mới công nghệ và sự tiếp nhận</h3>
+<h3 class="wp-block-heading">Tiềm năng đổi mới công nghệ và sự tiếp nhận</h3>
 
 
 
@@ -250,7 +250,7 @@
 
 
 
-<h3>Tính ứng dụng</h3>
+<h3 class="wp-block-heading">Tính ứng dụng</h3>
 
 
 
@@ -266,11 +266,11 @@
 
 
 
-<h2>Phân tích Đội ngũ phát triển và Cộng đồng</h2>
+<h2 class="wp-block-heading">Phân tích Đội ngũ phát triển và Cộng đồng</h2>
 
 
 
-<h3>Đội ngũ phát triển</h3>
+<h3 class="wp-block-heading">Đội ngũ phát triển</h3>
 
 
 
@@ -290,7 +290,7 @@
 
 
 
-<h3>Sự hỗ trợ từ cộng đồng</h3>
+<h3 class="wp-block-heading">Sự hỗ trợ từ cộng đồng</h3>
 
 
 
@@ -314,7 +314,7 @@
 
 
 
-<h3>Theo dõi &amp; cập nhật tin tức từ cộng đồng mạng xã hội</h3>
+<h3 class="wp-block-heading">Theo dõi &amp; cập nhật tin tức từ cộng đồng mạng xã hội</h3>
 
 
 
@@ -338,11 +338,11 @@
 
 
 
-<h2>Chọn đúng sàn giao dịch</h2>
+<h2 class="wp-block-heading">Chọn đúng sàn giao dịch</h2>
 
 
 
-<h3>Uy tín và an toàn</h3>
+<h3 class="wp-block-heading">Uy tín và an toàn</h3>
 
 
 
@@ -358,7 +358,7 @@
 
 
 
-<h3>Phí giao dịch và hoa hồng</h3>
+<h3 class="wp-block-heading">Phí giao dịch và hoa hồng</h3>
 
 
 
@@ -378,7 +378,7 @@
 
 
 
-<h3>Thanh khoản</h3>
+<h3 class="wp-block-heading">Thanh khoản</h3>
 
 
 
@@ -398,7 +398,7 @@
 
 
 
-<h3>Các cặp giao dịch sẵn có</h3>
+<h3 class="wp-block-heading">Các cặp giao dịch sẵn có</h3>
 
 
 
@@ -414,7 +414,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -422,7 +422,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

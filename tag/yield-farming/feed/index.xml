@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -40,7 +40,7 @@
 
 					<description><![CDATA[Giới thiệu Yield farming (hay còn gọi là &#8220;cày tiền ảo&#8221;) là một phương pháp kiếm lãi từ việc đầu tư vào các giao thức tài chính phi tập trung (DeFi) như Uniswap, Compound, và Aave. Các nhà đầu tư đặt tiền điện tử vào các khoản vay hoặc hồ bơi thanh khoản để kiếm [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -60,7 +60,7 @@
 
 
 
-<h2>Chiến lược tối ưu hóa tỷ lệ đòn bẩy</h2>
+<h2 class="wp-block-heading">Chiến lược tối ưu hóa tỷ lệ đòn bẩy</h2>
 
 
 
@@ -68,7 +68,7 @@
 
 
 
-<h3>Định nghĩa và giải thích Leveraged Yield Farming</h3>
+<h3 class="wp-block-heading">Định nghĩa và giải thích Leveraged Yield Farming</h3>
 
 
 
@@ -76,7 +76,7 @@
 
 
 
-<h3>Rủi ro và lợi ích của đòn bẩy tăng cao</h3>
+<h3 class="wp-block-heading">Rủi ro và lợi ích của đòn bẩy tăng cao</h3>
 
 
 
@@ -88,7 +88,7 @@
 
 
 
-<h3>Các nền tảng hỗ trợ Leveraged Yield Farming</h3>
+<h3 class="wp-block-heading">Các nền tảng hỗ trợ Leveraged Yield Farming</h3>
 
 
 
@@ -114,7 +114,7 @@
 
 
 
-<h2>Sử dụng các giao thức tài chính phi tập trung (DeFi) kết hợp</h2>
+<h2 class="wp-block-heading">Sử dụng các giao thức tài chính phi tập trung (DeFi) kết hợp</h2>
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-<h3>Giải thích về chiến lược Composable DeFi</h3>
+<h3 class="wp-block-heading">Giải thích về chiến lược Composable DeFi</h3>
 
 
 
@@ -130,7 +130,7 @@
 
 
 
-<h3>Ví dụ về việc kết hợp nhiều giao thức DeFi để tối ưu hóa lợi nhuận</h3>
+<h3 class="wp-block-heading">Ví dụ về việc kết hợp nhiều giao thức DeFi để tối ưu hóa lợi nhuận</h3>
 
 
 
@@ -152,7 +152,7 @@
 
 
 
-<h3>Lưu ý khi áp dụng chiến lược Composable DeFi</h3>
+<h3 class="wp-block-heading">Lưu ý khi áp dụng chiến lược Composable DeFi</h3>
 
 
 
@@ -186,7 +186,7 @@
 
 
 
-<h2>Đưa ra quyết định thông minh thông qua phân tích dữ liệu</h2>
+<h2 class="wp-block-heading">Đưa ra quyết định thông minh thông qua phân tích dữ liệu</h2>
 
 
 
@@ -194,7 +194,7 @@
 
 
 
-<h3>Tầm quan trọng của phân tích dữ liệu</h3>
+<h3 class="wp-block-heading">Tầm quan trọng của phân tích dữ liệu</h3>
 
 
 
@@ -202,7 +202,7 @@
 
 
 
-<h3>Các nguồn dữ liệu hữu ích trong DeFi</h3>
+<h3 class="wp-block-heading">Các nguồn dữ liệu hữu ích trong DeFi</h3>
 
 
 
@@ -228,7 +228,7 @@
 
 
 
-<h3>Cách áp dụng phân tích dữ liệu vào quyết định đầu tư</h3>
+<h3 class="wp-block-heading">Cách áp dụng phân tích dữ liệu vào quyết định đầu tư</h3>
 
 
 
@@ -262,7 +262,7 @@
 
 
 
-<h2>Ứng dụng công nghệ hợp đồng thông minh </h2>
+<h2 class="wp-block-heading">Ứng dụng công nghệ hợp đồng thông minh </h2>
 
 
 
@@ -270,7 +270,7 @@
 
 
 
-<h3>Lợi ích của việc ứng dụng hợp đồng thông minh</h3>
+<h3 class="wp-block-heading">Lợi ích của việc ứng dụng hợp đồng thông minh</h3>
 
 
 
@@ -292,7 +292,7 @@
 
 
 
-<h3>Cách ứng dụng hợp đồng thông minh trong yield farming</h3>
+<h3 class="wp-block-heading">Cách ứng dụng hợp đồng thông minh trong yield farming</h3>
 
 
 
@@ -318,7 +318,7 @@
 
 
 
-<h2>Thực hành quản trị rủi ro hiệu quả</h2>
+<h2 class="wp-block-heading">Thực hành quản trị rủi ro hiệu quả</h2>
 
 
 
@@ -326,7 +326,7 @@
 
 
 
-<h3>Các yếu tố rủi ro cần quan tâm</h3>
+<h3 class="wp-block-heading">Các yếu tố rủi ro cần quan tâm</h3>
 
 
 
@@ -352,7 +352,7 @@
 
 
 
-<h3>Cách thực hành quản trị rủi ro hiệu quả</h3>
+<h3 class="wp-block-heading">Cách thực hành quản trị rủi ro hiệu quả</h3>
 
 
 
@@ -432,7 +432,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

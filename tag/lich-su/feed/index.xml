@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -47,7 +47,7 @@
 
 					<description><![CDATA[Giới thiệu Tiền điện tử đã có một chặng đường dài kể từ khi bắt đầu của Bitcoin vào năm 2009. Ở bài viết &#8220;Lịch sử của tiền điện tử&#8221; này, bọn mình sẽ khám phá lịch sử hấp dẫn của tiền điện tử, từ việc tạo ra Bitcoin đến sự gia tăng của các [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -55,11 +55,11 @@
 
 
 
-<h2>Sự ra đời của Bitcoin</h2>
+<h2 class="wp-block-heading">Sự ra đời của Bitcoin</h2>
 
 
 
-<h3>Ai tạo ra Bitcoin</h3>
+<h3 class="wp-block-heading">Ai tạo ra Bitcoin</h3>
 
 
 
@@ -67,7 +67,7 @@
 
 
 
-<h3>Bitcoin hoạt động như thế nào</h3>
+<h3 class="wp-block-heading">Bitcoin hoạt động như thế nào</h3>
 
 
 
@@ -75,7 +75,7 @@
 
 
 
-<h3>Giao dịch Bitcoin đầu tiên</h3>
+<h3 class="wp-block-heading">Giao dịch Bitcoin đầu tiên</h3>
 
 
 
@@ -95,11 +95,11 @@
 
 
 
-<h2>Những năm đầu của Bitcoin</h2>
+<h2 class="wp-block-heading">Những năm đầu của Bitcoin</h2>
 
 
 
-<h3>Những người đầu tiên sử dụng Bitcoin</h3>
+<h3 class="wp-block-heading">Những người đầu tiên sử dụng Bitcoin</h3>
 
 
 
@@ -107,7 +107,7 @@
 
 
 
-<h3>Sự bùng nổ giá trị Bitcoin vào năm 2013</h3>
+<h3 class="wp-block-heading">Sự bùng nổ giá trị Bitcoin vào năm 2013</h3>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<h3>Sự ra đời của sàn giao dịch Bitcoin đầu tiên</h3>
+<h3 class="wp-block-heading">Sự ra đời của sàn giao dịch Bitcoin đầu tiên</h3>
 
 
 
@@ -135,11 +135,11 @@
 
 
 
-<h2>Sự xuất hiện của Altcoins</h2>
+<h2 class="wp-block-heading">Sự xuất hiện của Altcoins</h2>
 
 
 
-<h3>Altcoins là gì?</h3>
+<h3 class="wp-block-heading">Altcoins là gì?</h3>
 
 
 
@@ -147,7 +147,7 @@
 
 
 
-<h3>Các loại Altcoins</h3>
+<h3 class="wp-block-heading">Các loại Altcoins</h3>
 
 
 
@@ -155,7 +155,7 @@
 
 
 
-<h3>Một số Altcoins phổ biến</h3>
+<h3 class="wp-block-heading">Một số Altcoins phổ biến</h3>
 
 
 
@@ -167,11 +167,11 @@
 
 
 
-<h2>Sự trỗi dậy mạnh mẽ của tiền điện tử</h2>
+<h2 class="wp-block-heading">Sự trỗi dậy mạnh mẽ của tiền điện tử</h2>
 
 
 
-<h3>Sự tăng giá của Bitcoin</h3>
+<h3 class="wp-block-heading">Sự tăng giá của Bitcoin</h3>
 
 
 
@@ -179,7 +179,7 @@
 
 
 
-<h3>Sự đón nhận chính thống</h3>
+<h3 class="wp-block-heading">Sự đón nhận chính thống</h3>
 
 
 
@@ -187,7 +187,7 @@
 
 
 
-<h3>Sự đầu tư của các công ty lớn</h3>
+<h3 class="wp-block-heading">Sự đầu tư của các công ty lớn</h3>
 
 
 
@@ -199,11 +199,11 @@
 
 
 
-<h2>Tiền điện tử ngày nay</h2>
+<h2 class="wp-block-heading">Tiền điện tử ngày nay</h2>
 
 
 
-<h3>Vốn hóa thị trường của tiền điện tử</h3>
+<h3 class="wp-block-heading">Vốn hóa thị trường của tiền điện tử</h3>
 
 
 
@@ -211,7 +211,7 @@
 
 
 
-<h3>Sử dụng tiền điện tử trong cuộc sống hằng ngày</h3>
+<h3 class="wp-block-heading">Sử dụng tiền điện tử trong cuộc sống hằng ngày</h3>
 
 
 
@@ -219,7 +219,7 @@
 
 
 
-<h3>Những phát triển tương lai của tiền điện tử</h3>
+<h3 class="wp-block-heading">Những phát triển tương lai của tiền điện tử</h3>
 
 
 
@@ -227,7 +227,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -235,7 +235,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

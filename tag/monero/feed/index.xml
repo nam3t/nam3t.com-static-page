@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -47,7 +47,7 @@
 
 
 
-<h2>Monero (XMR)</h2>
+<h2 class="wp-block-heading">Monero (XMR)</h2>
 
 
 
@@ -55,7 +55,7 @@
 
 
 
-<h3>Ring Signatures</h3>
+<h3 class="wp-block-heading">Ring Signatures</h3>
 
 
 
@@ -63,7 +63,7 @@
 
 
 
-<h3>Stealth Addresses</h3>
+<h3 class="wp-block-heading">Stealth Addresses</h3>
 
 
 
@@ -71,7 +71,7 @@
 
 
 
-<h3>Ring Confidential Transactions (RingCT)</h3>
+<h3 class="wp-block-heading">Ring Confidential Transactions (RingCT)</h3>
 
 
 
@@ -79,7 +79,7 @@
 
 
 
-<h3>Động viên sự tham gia của cộng đồng</h3>
+<h3 class="wp-block-heading">Động viên sự tham gia của cộng đồng</h3>
 
 
 
@@ -87,7 +87,7 @@
 
 
 
-<h3>Khai thác đơn giản và bảo vệ môi trường</h3>
+<h3 class="wp-block-heading">Khai thác đơn giản và bảo vệ môi trường</h3>
 
 
 
@@ -95,7 +95,7 @@
 
 
 
-<h3>Tính mở rộng đáng kể</h3>
+<h3 class="wp-block-heading">Tính mở rộng đáng kể</h3>
 
 
 
@@ -103,7 +103,7 @@
 
 
 
-<h3>Phí giao dịch thấp</h3>
+<h3 class="wp-block-heading">Phí giao dịch thấp</h3>
 
 
 
@@ -111,7 +111,7 @@
 
 
 
-<h3>Tương thích với đa nền tảng và ví tiền điện tử</h3>
+<h3 class="wp-block-heading">Tương thích với đa nền tảng và ví tiền điện tử</h3>
 
 
 
@@ -119,7 +119,7 @@
 
 
 
-<h3>Nhược điểm của Monero</h3>
+<h3 class="wp-block-heading">Nhược điểm của Monero</h3>
 
 
 
@@ -161,7 +161,7 @@
 
 
 
-<h2>Zcash (ZEC)</h2>
+<h2 class="wp-block-heading">Zcash (ZEC)</h2>
 
 
 
@@ -169,7 +169,7 @@
 
 
 
-<h3>Tính linh hoạt trong giao dịch</h3>
+<h3 class="wp-block-heading">Tính linh hoạt trong giao dịch</h3>
 
 
 
@@ -177,7 +177,7 @@
 
 
 
-<h3>Công nghệ zk-SNARKs</h3>
+<h3 class="wp-block-heading">Công nghệ zk-SNARKs</h3>
 
 
 
@@ -185,7 +185,7 @@
 
 
 
-<h3>Kế thừa các ưu điểm của Bitcoin</h3>
+<h3 class="wp-block-heading">Kế thừa các ưu điểm của Bitcoin</h3>
 
 
 
@@ -193,7 +193,7 @@
 
 
 
-<h3>Sự hỗ trợ từ cộng đồng và các tổ chức</h3>
+<h3 class="wp-block-heading">Sự hỗ trợ từ cộng đồng và các tổ chức</h3>
 
 
 
@@ -201,7 +201,7 @@
 
 
 
-<h3>Nhược điểm của Zcash</h3>
+<h3 class="wp-block-heading">Nhược điểm của Zcash</h3>
 
 
 
@@ -239,7 +239,7 @@
 
 
 
-<h2>Grin (GRIN)</h2>
+<h2 class="wp-block-heading">Grin (GRIN)</h2>
 
 
 
@@ -247,7 +247,7 @@
 
 
 
-<h3>Mimblewimble</h3>
+<h3 class="wp-block-heading">Mimblewimble</h3>
 
 
 
@@ -255,7 +255,7 @@
 
 
 
-<h3>Cấu trúc giao dịch riêng tư</h3>
+<h3 class="wp-block-heading">Cấu trúc giao dịch riêng tư</h3>
 
 
 
@@ -263,7 +263,7 @@
 
 
 
-<h3>Khai thác dựa trên Cuckoo Cycle</h3>
+<h3 class="wp-block-heading">Khai thác dựa trên Cuckoo Cycle</h3>
 
 
 
@@ -279,7 +279,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -353,7 +353,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

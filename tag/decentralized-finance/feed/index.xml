@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -41,7 +41,7 @@
 
 					<description><![CDATA[Giới thiệu về DeFi Tiền điện tử và công nghệ Blockchain đã mở ra một kỷ nguyên mới trong lĩnh vực tài chính. Một trong những ứng dụng đột phá nhất của công nghệ này là DeFi, hay Tài chính phi tập trung (Decentralized Finance). DeFi hứa hẹn mang lại sự tự do, minh bạch [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu về DeFi</h2>
+<h2 class="wp-block-heading">Giới thiệu về DeFi</h2>
 
 
 
@@ -49,7 +49,7 @@
 
 
 
-<h2>DeFi là gì?</h2>
+<h2 class="wp-block-heading">DeFi là gì?</h2>
 
 
 
@@ -61,11 +61,11 @@
 
 
 
-<h2>Các thành phần chính của DeFi</h2>
+<h2 class="wp-block-heading">Các thành phần chính của DeFi</h2>
 
 
 
-<h3>Hợp đồng thông minh (Smart Contracts)</h3>
+<h3 class="wp-block-heading">Hợp đồng thông minh (Smart Contracts)</h3>
 
 
 
@@ -73,7 +73,7 @@
 
 
 
-<h3>Stablecoins</h3>
+<h3 class="wp-block-heading">Stablecoins</h3>
 
 
 
@@ -81,7 +81,7 @@
 
 
 
-<h3>Sàn giao dịch phi tập trung (DEX)</h3>
+<h3 class="wp-block-heading">Sàn giao dịch phi tập trung (DEX)</h3>
 
 
 
@@ -89,7 +89,7 @@
 
 
 
-<h3>Vay và cho vay phi tập trung</h3>
+<h3 class="wp-block-heading">Vay và cho vay phi tập trung</h3>
 
 
 
@@ -97,7 +97,7 @@
 
 
 
-<h3>Các nền tảng DeFi khác</h3>
+<h3 class="wp-block-heading">Các nền tảng DeFi khác</h3>
 
 
 
@@ -105,11 +105,11 @@
 
 
 
-<h2>Ưu điểm và nhược điểm của DeFi</h2>
+<h2 class="wp-block-heading">Ưu điểm và nhược điểm của DeFi</h2>
 
 
 
-<h3>Ưu điểm</h3>
+<h3 class="wp-block-heading">Ưu điểm</h3>
 
 
 
@@ -135,7 +135,7 @@
 
 
 
-<h3>Nhược điểm</h3>
+<h3 class="wp-block-heading">Nhược điểm</h3>
 
 
 
@@ -157,7 +157,7 @@
 
 
 
-<h2>Các ứng dụng DeFi phổ biến</h2>
+<h2 class="wp-block-heading">Các ứng dụng DeFi phổ biến</h2>
 
 
 
@@ -169,7 +169,7 @@
 
 
 
-<h3>Aave</h3>
+<h3 class="wp-block-heading">Aave</h3>
 
 
 
@@ -185,7 +185,7 @@
 
 
 
-<h3>Compound</h3>
+<h3 class="wp-block-heading">Compound</h3>
 
 
 
@@ -201,7 +201,7 @@
 
 
 
-<h3>MakerDAO</h3>
+<h3 class="wp-block-heading">MakerDAO</h3>
 
 
 
@@ -217,7 +217,7 @@
 
 
 
-<h3>Uniswap</h3>
+<h3 class="wp-block-heading">Uniswap</h3>
 
 
 
@@ -233,7 +233,7 @@
 
 
 
-<h3>SushiSwap</h3>
+<h3 class="wp-block-heading">SushiSwap</h3>
 
 
 
@@ -249,7 +249,7 @@
 
 
 
-<h3>dYdX</h3>
+<h3 class="wp-block-heading">dYdX</h3>
 
 
 
@@ -265,7 +265,7 @@
 
 
 
-<h3>Synthetix</h3>
+<h3 class="wp-block-heading">Synthetix</h3>
 
 
 
@@ -281,7 +281,7 @@
 
 
 
-<h3>Nexus Mutual</h3>
+<h3 class="wp-block-heading">Nexus Mutual</h3>
 
 
 
@@ -297,7 +297,7 @@
 
 
 
-<h3>Yearn Finance</h3>
+<h3 class="wp-block-heading">Yearn Finance</h3>
 
 
 
@@ -313,7 +313,7 @@
 
 
 
-<h3>Curve Finance</h3>
+<h3 class="wp-block-heading">Curve Finance</h3>
 
 
 
@@ -329,7 +329,7 @@
 
 
 
-<h3>Balancer</h3>
+<h3 class="wp-block-heading">Balancer</h3>
 
 
 
@@ -345,7 +345,7 @@
 
 
 
-<h2>Tổng kết</h2>
+<h2 class="wp-block-heading">Tổng kết</h2>
 
 
 
@@ -375,7 +375,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

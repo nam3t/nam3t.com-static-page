@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -50,7 +50,7 @@
 
 
 
-<h2>Cross-Chain Swaps là gì?</h2>
+<h2 class="wp-block-heading">Cross-Chain Swaps là gì?</h2>
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-<h3>Atomic Swaps</h3>
+<h3 class="wp-block-heading">Atomic Swaps</h3>
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-<h3>Token Bridges</h3>
+<h3 class="wp-block-heading">Token Bridges</h3>
 
 
 
@@ -90,7 +90,7 @@
 
 
 
-<h2>Cách hoạt động của Cross-Chain Swaps</h2>
+<h2 class="wp-block-heading">Cách hoạt động của Cross-Chain Swaps</h2>
 
 
 
@@ -98,7 +98,7 @@
 
 
 
-<h3>Hashed Time-Locked Contracts (HTLCs)</h3>
+<h3 class="wp-block-heading">Hashed Time-Locked Contracts (HTLCs)</h3>
 
 
 
@@ -128,7 +128,7 @@
 
 
 
-<h3>Smart Contracts cho Token Bridges</h3>
+<h3 class="wp-block-heading">Smart Contracts cho Token Bridges</h3>
 
 
 
@@ -158,7 +158,7 @@
 
 
 
-<h2>Ứng dụng và Ví dụ Thực tế của Cross-Chain Swaps</h2>
+<h2 class="wp-block-heading">Ứng dụng và Ví dụ Thực tế của Cross-Chain Swaps</h2>
 
 
 
@@ -166,7 +166,7 @@
 
 
 
-<h3>Sàn giao dịch phi tập trung (DEXs)</h3>
+<h3 class="wp-block-heading">Sàn giao dịch phi tập trung (DEXs)</h3>
 
 
 
@@ -174,7 +174,7 @@
 
 
 
-<h3>Nền tảng tài chính phi tập trung đa chuỗi (DeFi)</h3>
+<h3 class="wp-block-heading">Nền tảng tài chính phi tập trung đa chuỗi (DeFi)</h3>
 
 
 
@@ -182,7 +182,7 @@
 
 
 
-<h3>Token phi tập trung đa chuỗi (NFTs)</h3>
+<h3 class="wp-block-heading">Token phi tập trung đa chuỗi (NFTs)</h3>
 
 
 
@@ -190,7 +190,7 @@
 
 
 
-<h3>Chuyển đổi giữa các ứng dụng (dApps)</h3>
+<h3 class="wp-block-heading">Chuyển đổi giữa các ứng dụng (dApps)</h3>
 
 
 
@@ -202,7 +202,7 @@
 
 
 
-<h2>Ưu điểm và Nhược điểm của Cross-Chain Swaps</h2>
+<h2 class="wp-block-heading">Ưu điểm và Nhược điểm của Cross-Chain Swaps</h2>
 
 
 
@@ -210,7 +210,7 @@
 
 
 
-<h3>Ưu điểm</h3>
+<h3 class="wp-block-heading">Ưu điểm</h3>
 
 
 
@@ -232,7 +232,7 @@
 
 
 
-<h3>Nhược điểm</h3>
+<h3 class="wp-block-heading">Nhược điểm</h3>
 
 
 
@@ -258,7 +258,7 @@
 
 
 
-<h2>Dự án Cross-Chain Swaps Nổi Bật</h2>
+<h2 class="wp-block-heading">Dự án Cross-Chain Swaps Nổi Bật</h2>
 
 
 
@@ -270,7 +270,7 @@
 
 
 
-<h3>THORChain</h3>
+<h3 class="wp-block-heading">THORChain</h3>
 
 
 
@@ -282,7 +282,7 @@
 
 
 
-<h3>ChainSwap</h3>
+<h3 class="wp-block-heading">ChainSwap</h3>
 
 
 
@@ -294,7 +294,7 @@
 
 
 
-<h3>Multichain</h3>
+<h3 class="wp-block-heading">Multichain</h3>
 
 
 
@@ -306,7 +306,7 @@
 
 
 
-<h3>Ren Protocol</h3>
+<h3 class="wp-block-heading">Ren Protocol</h3>
 
 
 
@@ -318,7 +318,7 @@
 
 
 
-<h3>Cosmos</h3>
+<h3 class="wp-block-heading">Cosmos</h3>
 
 
 
@@ -330,7 +330,7 @@
 
 
 
-<h3>Polkadot </h3>
+<h3 class="wp-block-heading">Polkadot </h3>
 
 
 
@@ -342,7 +342,7 @@
 
 
 
-<h3>Kyber Network </h3>
+<h3 class="wp-block-heading">Kyber Network </h3>
 
 
 
@@ -354,7 +354,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -408,7 +408,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

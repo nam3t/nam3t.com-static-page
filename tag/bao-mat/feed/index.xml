@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -43,7 +43,7 @@
 
 					<description><![CDATA[Giới thiệu Khi giá trị của tiền điện tử tiếp tục tăng, nguy cơ bị hack và trộm cắp cũng tăng lên. Trong bài &#8220;Bảo mật Tiền điện tử&#8221; này, chúng ta sẽ khám phá các phương pháp hay nhất để bảo mật tiền điện tử và bảo vệ các khoản đầu tư của bạn. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -51,7 +51,7 @@
 
 
 
-<h3>Tầm quan trọng của bảo mật tiền điện tử</h3>
+<h3 class="wp-block-heading">Tầm quan trọng của bảo mật tiền điện tử</h3>
 
 
 
@@ -75,11 +75,11 @@
 
 
 
-<h2>Các biện pháp khuyên dùng để bảo mật tiền điện tử</h2>
+<h2 class="wp-block-heading">Các biện pháp khuyên dùng để bảo mật tiền điện tử</h2>
 
 
 
-<h3>Đặt mật khẩu mạnh và Xác thực 2 Yếu tố</h3>
+<h3 class="wp-block-heading">Đặt mật khẩu mạnh và Xác thực 2 Yếu tố</h3>
 
 
 
@@ -95,7 +95,7 @@
 
 
 
-<h3>Lưu trữ &#8220;lạnh&#8221; và sử dụng ví cứng</h3>
+<h3 class="wp-block-heading">Lưu trữ &#8220;lạnh&#8221; và sử dụng ví cứng</h3>
 
 
 
@@ -115,7 +115,7 @@
 
 
 
-<h3>Thường xuyên cập nhật phần mềm</h3>
+<h3 class="wp-block-heading">Thường xuyên cập nhật phần mềm</h3>
 
 
 
@@ -131,7 +131,7 @@
 
 
 
-<h3>Sử dụng các dịch vụ và sàn giao dịch uy tín</h3>
+<h3 class="wp-block-heading">Sử dụng các dịch vụ và sàn giao dịch uy tín</h3>
 
 
 
@@ -151,7 +151,7 @@
 
 
 
-<h3>Tránh các hoạt động Phishing và Scam</h3>
+<h3 class="wp-block-heading">Tránh các hoạt động Phishing và Scam</h3>
 
 
 
@@ -167,11 +167,11 @@
 
 
 
-<h2>Làm gì khi tài sản bị mất hoặc đánh cắp?</h2>
+<h2 class="wp-block-heading">Làm gì khi tài sản bị mất hoặc đánh cắp?</h2>
 
 
 
-<h3>Báo cáo vụ việc</h3>
+<h3 class="wp-block-heading">Báo cáo vụ việc</h3>
 
 
 
@@ -179,7 +179,7 @@
 
 
 
-<h3>Truy tìm tài sản</h3>
+<h3 class="wp-block-heading">Truy tìm tài sản</h3>
 
 
 
@@ -191,7 +191,7 @@
 
 
 
-<h3>Dịch vụ bảo hiểm và phục hồi</h3>
+<h3 class="wp-block-heading">Dịch vụ bảo hiểm và phục hồi</h3>
 
 
 
@@ -207,11 +207,11 @@
 
 
 
-<h2>Các dịch vụ nâng cao cho những nhà đầu tư lớn</h2>
+<h2 class="wp-block-heading">Các dịch vụ nâng cao cho những nhà đầu tư lớn</h2>
 
 
 
-<h3>Ví đa chữ ký (Multi-Signature)</h3>
+<h3 class="wp-block-heading">Ví đa chữ ký (Multi-Signature)</h3>
 
 
 
@@ -231,7 +231,7 @@
 
 
 
-<h3>Dịch vụ lưu giữ tiền điện tử</h3>
+<h3 class="wp-block-heading">Dịch vụ lưu giữ tiền điện tử</h3>
 
 
 
@@ -251,7 +251,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -259,7 +259,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
