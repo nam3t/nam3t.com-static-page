@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -50,7 +50,7 @@
 
 
 
-<h2>Cross-Chain Swaps là gì?</h2>
+<h2 class="wp-block-heading">Cross-Chain Swaps là gì?</h2>
 
 
 
@@ -62,7 +62,7 @@
 
 
 
-<h3>Atomic Swaps</h3>
+<h3 class="wp-block-heading">Atomic Swaps</h3>
 
 
 
@@ -74,7 +74,7 @@
 
 
 
-<h3>Token Bridges</h3>
+<h3 class="wp-block-heading">Token Bridges</h3>
 
 
 
@@ -90,7 +90,7 @@
 
 
 
-<h2>Cách hoạt động của Cross-Chain Swaps</h2>
+<h2 class="wp-block-heading">Cách hoạt động của Cross-Chain Swaps</h2>
 
 
 
@@ -98,7 +98,7 @@
 
 
 
-<h3>Hashed Time-Locked Contracts (HTLCs)</h3>
+<h3 class="wp-block-heading">Hashed Time-Locked Contracts (HTLCs)</h3>
 
 
 
@@ -128,7 +128,7 @@
 
 
 
-<h3>Smart Contracts cho Token Bridges</h3>
+<h3 class="wp-block-heading">Smart Contracts cho Token Bridges</h3>
 
 
 
@@ -158,7 +158,7 @@
 
 
 
-<h2>Ứng dụng và Ví dụ Thực tế của Cross-Chain Swaps</h2>
+<h2 class="wp-block-heading">Ứng dụng và Ví dụ Thực tế của Cross-Chain Swaps</h2>
 
 
 
@@ -166,7 +166,7 @@
 
 
 
-<h3>Sàn giao dịch phi tập trung (DEXs)</h3>
+<h3 class="wp-block-heading">Sàn giao dịch phi tập trung (DEXs)</h3>
 
 
 
@@ -174,7 +174,7 @@
 
 
 
-<h3>Nền tảng tài chính phi tập trung đa chuỗi (DeFi)</h3>
+<h3 class="wp-block-heading">Nền tảng tài chính phi tập trung đa chuỗi (DeFi)</h3>
 
 
 
@@ -182,7 +182,7 @@
 
 
 
-<h3>Token phi tập trung đa chuỗi (NFTs)</h3>
+<h3 class="wp-block-heading">Token phi tập trung đa chuỗi (NFTs)</h3>
 
 
 
@@ -190,7 +190,7 @@
 
 
 
-<h3>Chuyển đổi giữa các ứng dụng (dApps)</h3>
+<h3 class="wp-block-heading">Chuyển đổi giữa các ứng dụng (dApps)</h3>
 
 
 
@@ -202,7 +202,7 @@
 
 
 
-<h2>Ưu điểm và Nhược điểm của Cross-Chain Swaps</h2>
+<h2 class="wp-block-heading">Ưu điểm và Nhược điểm của Cross-Chain Swaps</h2>
 
 
 
@@ -210,7 +210,7 @@
 
 
 
-<h3>Ưu điểm</h3>
+<h3 class="wp-block-heading">Ưu điểm</h3>
 
 
 
@@ -232,7 +232,7 @@
 
 
 
-<h3>Nhược điểm</h3>
+<h3 class="wp-block-heading">Nhược điểm</h3>
 
 
 
@@ -258,7 +258,7 @@
 
 
 
-<h2>Dự án Cross-Chain Swaps Nổi Bật</h2>
+<h2 class="wp-block-heading">Dự án Cross-Chain Swaps Nổi Bật</h2>
 
 
 
@@ -270,7 +270,7 @@
 
 
 
-<h3>THORChain</h3>
+<h3 class="wp-block-heading">THORChain</h3>
 
 
 
@@ -282,7 +282,7 @@
 
 
 
-<h3>ChainSwap</h3>
+<h3 class="wp-block-heading">ChainSwap</h3>
 
 
 
@@ -294,7 +294,7 @@
 
 
 
-<h3>Multichain</h3>
+<h3 class="wp-block-heading">Multichain</h3>
 
 
 
@@ -306,7 +306,7 @@
 
 
 
-<h3>Ren Protocol</h3>
+<h3 class="wp-block-heading">Ren Protocol</h3>
 
 
 
@@ -318,7 +318,7 @@
 
 
 
-<h3>Cosmos</h3>
+<h3 class="wp-block-heading">Cosmos</h3>
 
 
 
@@ -330,7 +330,7 @@
 
 
 
-<h3>Polkadot </h3>
+<h3 class="wp-block-heading">Polkadot </h3>
 
 
 
@@ -342,7 +342,7 @@
 
 
 
-<h3>Kyber Network </h3>
+<h3 class="wp-block-heading">Kyber Network </h3>
 
 
 
@@ -354,7 +354,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -408,7 +408,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -436,7 +436,7 @@
 
 					<description><![CDATA[Giới thiệu về Blockchain Interoperability Blockchain interoperability là khả năng cho phép các nền tảng blockchain khác nhau, như Bitcoin, Ethereum kết nối và giao tiếp với nhau. Điều này cho phép chuyển tiền mã hóa và thông tin một cách an toàn và minh bạch giữa các mạng lưới blockchain. Trong bài viết này, [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu về Blockchain Interoperability</h2>
+<h2 class="wp-block-heading">Giới thiệu về Blockchain Interoperability</h2>
 
 
 
@@ -444,7 +444,7 @@
 
 
 
-<h2>Các vấn đề hiện tại</h2>
+<h2 class="wp-block-heading">Các vấn đề hiện tại</h2>
 
 
 
@@ -452,7 +452,7 @@
 
 
 
-<h3>Sự phân mảnh của thị trường</h3>
+<h3 class="wp-block-heading">Sự phân mảnh của thị trường</h3>
 
 
 
@@ -460,7 +460,7 @@
 
 
 
-<h3>Khó khăn trong việc tích hợp các ứng dụng</h3>
+<h3 class="wp-block-heading">Khó khăn trong việc tích hợp các ứng dụng</h3>
 
 
 
@@ -468,7 +468,7 @@
 
 
 
-<h3>Giao dịch giữa các nền tảng blockchain</h3>
+<h3 class="wp-block-heading">Giao dịch giữa các nền tảng blockchain</h3>
 
 
 
@@ -476,7 +476,7 @@
 
 
 
-<h3>Tính riêng tư và an toàn</h3>
+<h3 class="wp-block-heading">Tính riêng tư và an toàn</h3>
 
 
 
@@ -484,7 +484,7 @@
 
 
 
-<h3>Hiệu năng và khả năng mở rộng</h3>
+<h3 class="wp-block-heading">Hiệu năng và khả năng mở rộng</h3>
 
 
 
@@ -492,7 +492,7 @@
 
 
 
-<h3>2.6. Hạn chế về chuẩn mực và ngôn ngữ lập trình</h3>
+<h3 class="wp-block-heading">2.6. Hạn chế về chuẩn mực và ngôn ngữ lập trình</h3>
 
 
 
@@ -504,7 +504,7 @@
 
 
 
-<h2>Phương pháp liên kết Blockchain</h2>
+<h2 class="wp-block-heading">Phương pháp liên kết Blockchain</h2>
 
 
 
@@ -512,7 +512,7 @@
 
 
 
-<h3>Sidechains và Pegged Sidechains (Hệ thống phụ)</h3>
+<h3 class="wp-block-heading">Sidechains và Pegged Sidechains (Hệ thống phụ)</h3>
 
 
 
@@ -524,7 +524,7 @@
 
 
 
-<h3>Atomic Swaps (Giao dịch nguyên tử)</h3>
+<h3 class="wp-block-heading">Atomic Swaps (Giao dịch nguyên tử)</h3>
 
 
 
@@ -532,7 +532,7 @@
 
 
 
-<h3>Đại sứ Blockchain (Blockchain Ambassadors)</h3>
+<h3 class="wp-block-heading">Đại sứ Blockchain (Blockchain Ambassadors)</h3>
 
 
 
@@ -540,7 +540,7 @@
 
 
 
-<h3>Các giao thức liên kết (Interoperability Protocols)</h3>
+<h3 class="wp-block-heading">Các giao thức liên kết (Interoperability Protocols)</h3>
 
 
 
@@ -566,7 +566,7 @@
 
 
 
-<h3>Các dịch vụ cầu nối (Bridge Services)</h3>
+<h3 class="wp-block-heading">Các dịch vụ cầu nối (Bridge Services)</h3>
 
 
 
@@ -588,7 +588,7 @@
 
 
 
-<h3>Hợp đồng thông minh liên chuỗi (Cross-Chain Smart Contracts)</h3>
+<h3 class="wp-block-heading">Hợp đồng thông minh liên chuỗi (Cross-Chain Smart Contracts)</h3>
 
 
 
@@ -596,7 +596,7 @@
 
 
 
-<h3>Tập trung dữ liệu và xử lý (Data and Computation Sharding)</h3>
+<h3 class="wp-block-heading">Tập trung dữ liệu và xử lý (Data and Computation Sharding)</h3>
 
 
 
@@ -608,7 +608,7 @@
 
 
 
-<h2>Vai trò của Blockchain Interoperability trong tương lai</h2>
+<h2 class="wp-block-heading">Vai trò của Blockchain Interoperability trong tương lai</h2>
 
 
 
@@ -638,7 +638,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -688,7 +688,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -717,7 +717,7 @@
 
 					<description><![CDATA[Giới thiệu Trong thế giới tiền mã hóa, khả năng mở rộng và hiệu suất của các nền tảng blockchain đóng vai trò quan trọng trong việc đáp ứng nhu cầu ngày càng tăng của người dùng. Giải pháp Layer 2 được xem là một bước đột phá trong việc giải quyết vấn đề này. [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -725,11 +725,11 @@
 
 
 
-<h2>Giới thiệu về Giải pháp Layer 2</h2>
+<h2 class="wp-block-heading">Giới thiệu về Giải pháp Layer 2</h2>
 
 
 
-<h3>Vấn đề khả năng mở rộng của Blockchain</h3>
+<h3 class="wp-block-heading">Vấn đề khả năng mở rộng của Blockchain</h3>
 
 
 
@@ -737,7 +737,7 @@
 
 
 
-<h3>Tầm quan trọng của khả năng mở rộng trong các mạng blockchain </h3>
+<h3 class="wp-block-heading">Tầm quan trọng của khả năng mở rộng trong các mạng blockchain </h3>
 
 
 
@@ -745,7 +745,7 @@
 
 
 
-<h3>Tổng quan về giải pháp Layer 1 và Layer 2 </h3>
+<h3 class="wp-block-heading">Tổng quan về giải pháp Layer 1 và Layer 2 </h3>
 
 
 
@@ -753,7 +753,7 @@
 
 
 
-<h3>Giải pháp Layer 2 là gì?</h3>
+<h3 class="wp-block-heading">Giải pháp Layer 2 là gì?</h3>
 
 
 
@@ -761,7 +761,7 @@
 
 
 
-<h3>Sự phổ biến của các giao thức Layer 2 </h3>
+<h3 class="wp-block-heading">Sự phổ biến của các giao thức Layer 2 </h3>
 
 
 
@@ -773,7 +773,7 @@
 
 
 
-<h3>Lợi ích chính của các giải pháp Layer 2</h3>
+<h3 class="wp-block-heading">Lợi ích chính của các giải pháp Layer 2</h3>
 
 
 
@@ -791,7 +791,7 @@
 
 
 
-<h3>Các kỹ thuật mở rộng Layer 2 phổ biến</h3>
+<h3 class="wp-block-heading">Các kỹ thuật mở rộng Layer 2 phổ biến</h3>
 
 
 
@@ -809,7 +809,7 @@
 
 
 
-<h2>Các loại giải pháp Layer 2 phổ biến</h2>
+<h2 class="wp-block-heading">Các loại giải pháp Layer 2 phổ biến</h2>
 
 
 
@@ -817,11 +817,11 @@
 
 
 
-<h3>Lightning Network cho Bitcoin </h3>
+<h3 class="wp-block-heading">Lightning Network cho Bitcoin </h3>
 
 
 
-<h4>Cách hoạt động của Lightning Network </h4>
+<h4 class="wp-block-heading">Cách hoạt động của Lightning Network </h4>
 
 
 
@@ -829,11 +829,11 @@
 
 
 
-<h4>Ưu điểm và thách thức </h4>
+<h4 class="wp-block-heading">Ưu điểm và thách thức </h4>
 
 
 
-<h5>Ưu điểm:</h5>
+<h5 class="wp-block-heading">Ưu điểm:</h5>
 
 
 
@@ -847,7 +847,7 @@
 
 
 
-<h5>Thách thức:</h5>
+<h5 class="wp-block-heading">Thách thức:</h5>
 
 
 
@@ -861,11 +861,11 @@
 
 
 
-<h3>Optimistic Rollups và zk-Rollups cho Ethereum </h3>
+<h3 class="wp-block-heading">Optimistic Rollups và zk-Rollups cho Ethereum </h3>
 
 
 
-<h4>So sánh Optimistic và zk-Rollups </h4>
+<h4 class="wp-block-heading">So sánh Optimistic và zk-Rollups </h4>
 
 
 
@@ -883,7 +883,7 @@
 
 
 
-<h4>Ứng dụng và dự án</h4>
+<h4 class="wp-block-heading">Ứng dụng và dự án</h4>
 
 
 
@@ -901,11 +901,11 @@
 
 
 
-<h3>Polygon (trước đây là Matic Network) </h3>
+<h3 class="wp-block-heading">Polygon (trước đây là Matic Network) </h3>
 
 
 
-<h4>Kiến trúc của Polygon</h4>
+<h4 class="wp-block-heading">Kiến trúc của Polygon</h4>
 
 
 
@@ -913,7 +913,7 @@
 
 
 
-<h4>Các dự án nổi bật trên Polygon </h4>
+<h4 class="wp-block-heading">Các dự án nổi bật trên Polygon </h4>
 
 
 
@@ -921,11 +921,11 @@
 
 
 
-<h3>Plasma </h3>
+<h3 class="wp-block-heading">Plasma </h3>
 
 
 
-<h4>Khái niệm Plasma </h4>
+<h4 class="wp-block-heading">Khái niệm Plasma </h4>
 
 
 
@@ -933,7 +933,7 @@
 
 
 
-<h4>OmiseGO và các dự án dựa trên Plasma khác </h4>
+<h4 class="wp-block-heading">OmiseGO và các dự án dựa trên Plasma khác </h4>
 
 
 
@@ -941,11 +941,11 @@
 
 
 
-<h3>Raiden Network cho Ethereum </h3>
+<h3 class="wp-block-heading">Raiden Network cho Ethereum </h3>
 
 
 
-<h4>Tổng quan về Raiden Network </h4>
+<h4 class="wp-block-heading">Tổng quan về Raiden Network </h4>
 
 
 
@@ -953,7 +953,7 @@
 
 
 
-<h4>Tính năng và ứng dụng chính</h4>
+<h4 class="wp-block-heading">Tính năng và ứng dụng chính</h4>
 
 
 
@@ -971,11 +971,11 @@
 
 
 
-<h2>Tương tác giữa các giao thức Layer 2 và các giải pháp liên chuỗi (cross-chain)</h2>
+<h2 class="wp-block-heading">Tương tác giữa các giao thức Layer 2 và các giải pháp liên chuỗi (cross-chain)</h2>
 
 
 
-<h3>Nhu cầu về tương tác giữa các giao thức Layer 2 </h3>
+<h3 class="wp-block-heading">Nhu cầu về tương tác giữa các giao thức Layer 2 </h3>
 
 
 
@@ -983,7 +983,7 @@
 
 
 
-<h3>Các dự án và công nghệ liên chuỗi hứa hẹn </h3>
+<h3 class="wp-block-heading">Các dự án và công nghệ liên chuỗi hứa hẹn </h3>
 
 
 
@@ -991,11 +991,11 @@
 
 
 
-<h2>Tương lai của các giải pháp mở rộng Layer 2 </h2>
+<h2 class="wp-block-heading">Tương lai của các giải pháp mở rộng Layer 2 </h2>
 
 
 
-<h3>Nghiên cứu và phát triển </h3>
+<h3 class="wp-block-heading">Nghiên cứu và phát triển </h3>
 
 
 
@@ -1003,7 +1003,7 @@
 
 
 
-<h3>Tác động tiềm năng lên hệ sinh thái blockchain rộng lớn </h3>
+<h3 class="wp-block-heading">Tác động tiềm năng lên hệ sinh thái blockchain rộng lớn </h3>
 
 
 
@@ -1011,7 +1011,7 @@
 
 
 
-<h3>Vai trò của các giải pháp mở rộng tầng 2 trong việc đưa blockchain vào đại chúng </h3>
+<h3 class="wp-block-heading">Vai trò của các giải pháp mở rộng tầng 2 trong việc đưa blockchain vào đại chúng </h3>
 
 
 
@@ -1019,7 +1019,7 @@
 
 
 
-<h3>Liên kết giữa các nền tảng blockchain</h3>
+<h3 class="wp-block-heading">Liên kết giữa các nền tảng blockchain</h3>
 
 
 
@@ -1027,7 +1027,7 @@
 
 
 
-<h3>Hỗ trợ sự phát triển của công nghệ blockchain</h3>
+<h3 class="wp-block-heading">Hỗ trợ sự phát triển của công nghệ blockchain</h3>
 
 
 
@@ -1035,7 +1035,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -1097,7 +1097,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -1124,7 +1124,7 @@
 
 					<description><![CDATA[Giới thiệu Công nghệ blockchain là một sự đổi mới mang tính cách mạng có tiềm năng biến đổi các ngành công nghiệp khác nhau. Trong bài &#8220;Giới thiệu về Công nghệ Blockchain&#8221; này, bọn mình sẽ giới thiệu cho bạn những kiến ​​thức cơ bản về công nghệ blockchain, cách thức hoạt động và [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -1132,11 +1132,11 @@
 
 
 
-<h2>Công nghệ Blockchain là gì?</h2>
+<h2 class="wp-block-heading">Công nghệ Blockchain là gì?</h2>
 
 
 
-<h3>Định nghĩa</h3>
+<h3 class="wp-block-heading">Định nghĩa</h3>
 
 
 
@@ -1152,7 +1152,7 @@
 
 
 
-<h3>Tóm tắt lịch sử</h3>
+<h3 class="wp-block-heading">Tóm tắt lịch sử</h3>
 
 
 
@@ -1164,7 +1164,7 @@
 
 
 
-<h3>Cách công nghệ blockchain hoạt động</h3>
+<h3 class="wp-block-heading">Cách công nghệ blockchain hoạt động</h3>
 
 
 
@@ -1212,11 +1212,11 @@
 
 
 
-<h2>Các tính chất chính của công nghệ Blockchain</h2>
+<h2 class="wp-block-heading">Các tính chất chính của công nghệ Blockchain</h2>
 
 
 
-<h3>Tính phi tập trung (Decentralization)</h3>
+<h3 class="wp-block-heading">Tính phi tập trung (Decentralization)</h3>
 
 
 
@@ -1232,7 +1232,7 @@
 
 
 
-<h3>Tính không thể thay đổi (Immutability)</h3>
+<h3 class="wp-block-heading">Tính không thể thay đổi (Immutability)</h3>
 
 
 
@@ -1248,7 +1248,7 @@
 
 
 
-<h3>Cơ chế đồng thuận (Consensus mechanism)</h3>
+<h3 class="wp-block-heading">Cơ chế đồng thuận (Consensus mechanism)</h3>
 
 
 
@@ -1268,7 +1268,7 @@
 
 
 
-<h3>Thuật toán mật mã (Cryptography)</h3>
+<h3 class="wp-block-heading">Thuật toán mật mã (Cryptography)</h3>
 
 
 
@@ -1288,11 +1288,11 @@
 
 
 
-<h2>Các loại Blockchain</h2>
+<h2 class="wp-block-heading">Các loại Blockchain</h2>
 
 
 
-<h3>Blockchain công khai (Public blockchain)</h3>
+<h3 class="wp-block-heading">Blockchain công khai (Public blockchain)</h3>
 
 
 
@@ -1316,7 +1316,7 @@
 
 
 
-<h3>Blockchain riêng tư (Private blockchain)</h3>
+<h3 class="wp-block-heading">Blockchain riêng tư (Private blockchain)</h3>
 
 
 
@@ -1336,7 +1336,7 @@
 
 
 
-<h3>Blockchain lai (Hybrid blockchain)</h3>
+<h3 class="wp-block-heading">Blockchain lai (Hybrid blockchain)</h3>
 
 
 
@@ -1360,11 +1360,11 @@
 
 
 
-<h2>Ứng dụng của công nghệ Blockchain</h2>
+<h2 class="wp-block-heading">Ứng dụng của công nghệ Blockchain</h2>
 
 
 
-<h3>Tiền điện tử (Cryptocurrency)</h3>
+<h3 class="wp-block-heading">Tiền điện tử (Cryptocurrency)</h3>
 
 
 
@@ -1384,7 +1384,7 @@
 
 
 
-<h3>Quản lý chuỗi cung ứng (Supply chain management)</h3>
+<h3 class="wp-block-heading">Quản lý chuỗi cung ứng (Supply chain management)</h3>
 
 
 
@@ -1404,7 +1404,7 @@
 
 
 
-<h3>Danh tính số (Digital identity)</h3>
+<h3 class="wp-block-heading">Danh tính số (Digital identity)</h3>
 
 
 
@@ -1424,7 +1424,7 @@
 
 
 
-<h3>Hệ thống bỏ phiếu (Voting system)</h3>
+<h3 class="wp-block-heading">Hệ thống bỏ phiếu (Voting system)</h3>
 
 
 
@@ -1444,7 +1444,7 @@
 
 
 
-<h3>Các ngành công nghiệp khác</h3>
+<h3 class="wp-block-heading">Các ngành công nghiệp khác</h3>
 
 
 
@@ -1464,11 +1464,11 @@
 
 
 
-<h2>Thế mạnh và thách thức của công nghệ Blockchain</h2>
+<h2 class="wp-block-heading">Thế mạnh và thách thức của công nghệ Blockchain</h2>
 
 
 
-<h3>Thế mạnh</h3>
+<h3 class="wp-block-heading">Thế mạnh</h3>
 
 
 
@@ -1484,7 +1484,7 @@
 
 
 
-<h3>Thách thức</h3>
+<h3 class="wp-block-heading">Thách thức</h3>
 
 
 
@@ -1500,7 +1500,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -1508,7 +1508,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -1537,7 +1537,7 @@
 
 					<description><![CDATA[Giới thiệu Tiền điện tử đã gây bão trên toàn thế giới trong những năm gần đây, nhưng nhiều người vẫn không hiểu cách thức hoạt động của nó. Bài viết &#8220;Tiền điện tử hoạt động như thế nào?&#8221; này sẽ cung cấp cho bạn sự hiểu biết toàn diện về cách thức hoạt động [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -1545,11 +1545,11 @@
 
 
 
-<h2>Tiền điện tử hoạt động như thế nào?</h2>
+<h2 class="wp-block-heading">Tiền điện tử hoạt động như thế nào?</h2>
 
 
 
-<h3>Các nguyên tắc mã hóa</h3>
+<h3 class="wp-block-heading">Các nguyên tắc mã hóa</h3>
 
 
 
@@ -1557,7 +1557,7 @@
 
 
 
-<h3>Công nghệ Blockchain</h3>
+<h3 class="wp-block-heading">Công nghệ Blockchain</h3>
 
 
 
@@ -1565,7 +1565,7 @@
 
 
 
-<h3>Công nghệ sổ cái phân tán</h3>
+<h3 class="wp-block-heading">Công nghệ sổ cái phân tán</h3>
 
 
 
@@ -1577,11 +1577,11 @@
 
 
 
-<h2>Các loại tiền điện tử</h2>
+<h2 class="wp-block-heading">Các loại tiền điện tử</h2>
 
 
 
-<h3>Bitcoin</h3>
+<h3 class="wp-block-heading">Bitcoin</h3>
 
 
 
@@ -1589,7 +1589,7 @@
 
 
 
-<h3>Ethereum</h3>
+<h3 class="wp-block-heading">Ethereum</h3>
 
 
 
@@ -1597,7 +1597,7 @@
 
 
 
-<h3>Ripple</h3>
+<h3 class="wp-block-heading">Ripple</h3>
 
 
 
@@ -1605,7 +1605,7 @@
 
 
 
-<h3>Litecoin</h3>
+<h3 class="wp-block-heading">Litecoin</h3>
 
 
 
@@ -1613,7 +1613,7 @@
 
 
 
-<h3>Các loại tiền điện tử phổ biến khác</h3>
+<h3 class="wp-block-heading">Các loại tiền điện tử phổ biến khác</h3>
 
 
 
@@ -1625,11 +1625,11 @@
 
 
 
-<h2>Lợi ích của tiền điện tử</h2>
+<h2 class="wp-block-heading">Lợi ích của tiền điện tử</h2>
 
 
 
-<h3>Phi tập trung</h3>
+<h3 class="wp-block-heading">Phi tập trung</h3>
 
 
 
@@ -1637,7 +1637,7 @@
 
 
 
-<h3>An toàn</h3>
+<h3 class="wp-block-heading">An toàn</h3>
 
 
 
@@ -1645,7 +1645,7 @@
 
 
 
-<h3>Khả năng tiếp cận</h3>
+<h3 class="wp-block-heading">Khả năng tiếp cận</h3>
 
 
 
@@ -1657,11 +1657,11 @@
 
 
 
-<h2>Rủi ro của tiền điện tử</h2>
+<h2 class="wp-block-heading">Rủi ro của tiền điện tử</h2>
 
 
 
-<h3>Sự bất ổn của giá</h3>
+<h3 class="wp-block-heading">Sự bất ổn của giá</h3>
 
 
 
@@ -1669,7 +1669,7 @@
 
 
 
-<h3>Sự thiếu quy định</h3>
+<h3 class="wp-block-heading">Sự thiếu quy định</h3>
 
 
 
@@ -1677,7 +1677,7 @@
 
 
 
-<h3>Rủi ro an ninh mạng</h3>
+<h3 class="wp-block-heading">Rủi ro an ninh mạng</h3>
 
 
 
@@ -1689,11 +1689,11 @@
 
 
 
-<h2>Cách sử dụng tiền điện tử</h2>
+<h2 class="wp-block-heading">Cách sử dụng tiền điện tử</h2>
 
 
 
-<h3>Thiết lập ví tiền điện tử</h3>
+<h3 class="wp-block-heading">Thiết lập ví tiền điện tử</h3>
 
 
 
@@ -1709,7 +1709,7 @@
 
 
 
-<h3>Mua bán tiền điện tử</h3>
+<h3 class="wp-block-heading">Mua bán tiền điện tử</h3>
 
 
 
@@ -1721,7 +1721,7 @@
 
 
 
-<h3>Gửi và nhận tiền điện tử</h3>
+<h3 class="wp-block-heading">Gửi và nhận tiền điện tử</h3>
 
 
 
@@ -1737,7 +1737,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -1745,7 +1745,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -1779,7 +1779,7 @@
 
 					<description><![CDATA[Giới thiệu Tiền điện tử đã có một chặng đường dài kể từ khi bắt đầu của Bitcoin vào năm 2009. Ở bài viết &#8220;Lịch sử của tiền điện tử&#8221; này, bọn mình sẽ khám phá lịch sử hấp dẫn của tiền điện tử, từ việc tạo ra Bitcoin đến sự gia tăng của các [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -1787,11 +1787,11 @@
 
 
 
-<h2>Sự ra đời của Bitcoin</h2>
+<h2 class="wp-block-heading">Sự ra đời của Bitcoin</h2>
 
 
 
-<h3>Ai tạo ra Bitcoin</h3>
+<h3 class="wp-block-heading">Ai tạo ra Bitcoin</h3>
 
 
 
@@ -1799,7 +1799,7 @@
 
 
 
-<h3>Bitcoin hoạt động như thế nào</h3>
+<h3 class="wp-block-heading">Bitcoin hoạt động như thế nào</h3>
 
 
 
@@ -1807,7 +1807,7 @@
 
 
 
-<h3>Giao dịch Bitcoin đầu tiên</h3>
+<h3 class="wp-block-heading">Giao dịch Bitcoin đầu tiên</h3>
 
 
 
@@ -1827,11 +1827,11 @@
 
 
 
-<h2>Những năm đầu của Bitcoin</h2>
+<h2 class="wp-block-heading">Những năm đầu của Bitcoin</h2>
 
 
 
-<h3>Những người đầu tiên sử dụng Bitcoin</h3>
+<h3 class="wp-block-heading">Những người đầu tiên sử dụng Bitcoin</h3>
 
 
 
@@ -1839,7 +1839,7 @@
 
 
 
-<h3>Sự bùng nổ giá trị Bitcoin vào năm 2013</h3>
+<h3 class="wp-block-heading">Sự bùng nổ giá trị Bitcoin vào năm 2013</h3>
 
 
 
@@ -1847,7 +1847,7 @@
 
 
 
-<h3>Sự ra đời của sàn giao dịch Bitcoin đầu tiên</h3>
+<h3 class="wp-block-heading">Sự ra đời của sàn giao dịch Bitcoin đầu tiên</h3>
 
 
 
@@ -1867,11 +1867,11 @@
 
 
 
-<h2>Sự xuất hiện của Altcoins</h2>
+<h2 class="wp-block-heading">Sự xuất hiện của Altcoins</h2>
 
 
 
-<h3>Altcoins là gì?</h3>
+<h3 class="wp-block-heading">Altcoins là gì?</h3>
 
 
 
@@ -1879,7 +1879,7 @@
 
 
 
-<h3>Các loại Altcoins</h3>
+<h3 class="wp-block-heading">Các loại Altcoins</h3>
 
 
 
@@ -1887,7 +1887,7 @@
 
 
 
-<h3>Một số Altcoins phổ biến</h3>
+<h3 class="wp-block-heading">Một số Altcoins phổ biến</h3>
 
 
 
@@ -1899,11 +1899,11 @@
 
 
 
-<h2>Sự trỗi dậy mạnh mẽ của tiền điện tử</h2>
+<h2 class="wp-block-heading">Sự trỗi dậy mạnh mẽ của tiền điện tử</h2>
 
 
 
-<h3>Sự tăng giá của Bitcoin</h3>
+<h3 class="wp-block-heading">Sự tăng giá của Bitcoin</h3>
 
 
 
@@ -1911,7 +1911,7 @@
 
 
 
-<h3>Sự đón nhận chính thống</h3>
+<h3 class="wp-block-heading">Sự đón nhận chính thống</h3>
 
 
 
@@ -1919,7 +1919,7 @@
 
 
 
-<h3>Sự đầu tư của các công ty lớn</h3>
+<h3 class="wp-block-heading">Sự đầu tư của các công ty lớn</h3>
 
 
 
@@ -1931,11 +1931,11 @@
 
 
 
-<h2>Tiền điện tử ngày nay</h2>
+<h2 class="wp-block-heading">Tiền điện tử ngày nay</h2>
 
 
 
-<h3>Vốn hóa thị trường của tiền điện tử</h3>
+<h3 class="wp-block-heading">Vốn hóa thị trường của tiền điện tử</h3>
 
 
 
@@ -1943,7 +1943,7 @@
 
 
 
-<h3>Sử dụng tiền điện tử trong cuộc sống hằng ngày</h3>
+<h3 class="wp-block-heading">Sử dụng tiền điện tử trong cuộc sống hằng ngày</h3>
 
 
 
@@ -1951,7 +1951,7 @@
 
 
 
-<h3>Những phát triển tương lai của tiền điện tử</h3>
+<h3 class="wp-block-heading">Những phát triển tương lai của tiền điện tử</h3>
 
 
 
@@ -1959,7 +1959,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -1967,7 +1967,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -2004,7 +2004,7 @@
 
 					<description><![CDATA[Giới thiệu Tiền điện tử đã trở thành một từ &#8220;hot&#8221; trong những năm gần đây, nhưng nó chính xác là gì? Nội dung bài viết &#8220;Giới thiệu về tiền điện tử&#8221; này nhằm cung cấp một giới thiệu toàn diện về đồng tiền điện tử, bao gồm định nghĩa, lịch sử và cách hoạt [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -2012,11 +2012,11 @@
 
 
 
-<h2>Tiền điện tử là gì?</h2>
+<h2 class="wp-block-heading">Tiền điện tử là gì?</h2>
 
 
 
-<h3>Giải thích về tiền điện tử</h3>
+<h3 class="wp-block-heading">Giải thích về tiền điện tử</h3>
 
 
 
@@ -2024,7 +2024,7 @@
 
 
 
-<h3>Khác biệt giữa tiền điện tử và tiền truyền thống</h3>
+<h3 class="wp-block-heading">Khác biệt giữa tiền điện tử và tiền truyền thống</h3>
 
 
 
@@ -2032,7 +2032,7 @@
 
 
 
-<h3>Ưu điểm và nhược điểm của tiền điện tử</h3>
+<h3 class="wp-block-heading">Ưu điểm và nhược điểm của tiền điện tử</h3>
 
 
 
@@ -2052,11 +2052,11 @@
 
 
 
-<h2>Lịch sử của tiền điện tử</h2>
+<h2 class="wp-block-heading">Lịch sử của tiền điện tử</h2>
 
 
 
-<h3>Tiền điện tử đầu tiên: Bitcoin</h3>
+<h3 class="wp-block-heading">Tiền điện tử đầu tiên: Bitcoin</h3>
 
 
 
@@ -2064,7 +2064,7 @@
 
 
 
-<h3>Sự trỗi dậy của các loại tiền điện tử khác</h3>
+<h3 class="wp-block-heading">Sự trỗi dậy của các loại tiền điện tử khác</h3>
 
 
 
@@ -2072,7 +2072,7 @@
 
 
 
-<h3>Các cột mốc quan trọng trong lịch sử của tiền điện tử</h3>
+<h3 class="wp-block-heading">Các cột mốc quan trọng trong lịch sử của tiền điện tử</h3>
 
 
 
@@ -2080,7 +2080,7 @@
 
 
 
-<h3>Những thách thức của tiền điện tử</h3>
+<h3 class="wp-block-heading">Những thách thức của tiền điện tử</h3>
 
 
 
@@ -2092,11 +2092,11 @@
 
 
 
-<h2>Tiền điện tử hoạt động như thế nào?</h2>
+<h2 class="wp-block-heading">Tiền điện tử hoạt động như thế nào?</h2>
 
 
 
-<h3>Công nghệ Blockchain</h3>
+<h3 class="wp-block-heading">Công nghệ Blockchain</h3>
 
 
 
@@ -2108,7 +2108,7 @@
 
 
 
-<h3>Quá trình mining và giao dịch</h3>
+<h3 class="wp-block-heading">Quá trình mining và giao dịch</h3>
 
 
 
@@ -2120,7 +2120,7 @@
 
 
 
-<h3>Khóa công khai và khóa bí mật</h3>
+<h3 class="wp-block-heading">Khóa công khai và khóa bí mật</h3>
 
 
 
@@ -2132,7 +2132,7 @@
 
 
 
-<h3>Sự mở rộng và tiêu thụ năng lượng của Blockchain</h3>
+<h3 class="wp-block-heading">Sự mở rộng và tiêu thụ năng lượng của Blockchain</h3>
 
 
 
@@ -2152,7 +2152,7 @@
 
 
 
-<h3>Các loại tiền điện tử</h3>
+<h3 class="wp-block-heading">Các loại tiền điện tử</h3>
 
 
 
@@ -2160,7 +2160,7 @@
 
 
 
-<h4><a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer noopener">Bitcoin</a></h4>
+<h4 class="wp-block-heading"><a href="https://bitcoin.org/en/" target="_blank" rel="noreferrer noopener">Bitcoin</a></h4>
 
 
 
@@ -2168,7 +2168,7 @@
 
 
 
-<h4><a href="https://ethereum.org/vi/" target="_blank" rel="noreferrer noopener">Ethereum</a></h4>
+<h4 class="wp-block-heading"><a href="https://ethereum.org/vi/" target="_blank" rel="noreferrer noopener">Ethereum</a></h4>
 
 
 
@@ -2176,7 +2176,7 @@
 
 
 
-<h4>Ripple</h4>
+<h4 class="wp-block-heading">Ripple</h4>
 
 
 
@@ -2184,7 +2184,7 @@
 
 
 
-<h4>Các loại tiền điện tử phổ biến khác</h4>
+<h4 class="wp-block-heading">Các loại tiền điện tử phổ biến khác</h4>
 
 
 
@@ -2200,11 +2200,11 @@
 
 
 
-<h2>Ứng dụng của tiền điện tử</h2>
+<h2 class="wp-block-heading">Ứng dụng của tiền điện tử</h2>
 
 
 
-<h3>Đầu tư</h3>
+<h3 class="wp-block-heading">Đầu tư</h3>
 
 
 
@@ -2212,7 +2212,7 @@
 
 
 
-<h3>Thanh toán hàng hóa và dịch vụ</h3>
+<h3 class="wp-block-heading">Thanh toán hàng hóa và dịch vụ</h3>
 
 
 
@@ -2220,7 +2220,7 @@
 
 
 
-<h3>Chuyển tiền quốc tế</h3>
+<h3 class="wp-block-heading">Chuyển tiền quốc tế</h3>
 
 
 
@@ -2228,7 +2228,7 @@
 
 
 
-<h3>Điểm đến cho tài chính hợp lý</h3>
+<h3 class="wp-block-heading">Điểm đến cho tài chính hợp lý</h3>
 
 
 
@@ -2236,7 +2236,7 @@
 
 
 
-<h3>Những thách thức về việc sử dụng tiền điện tử</h3>
+<h3 class="wp-block-heading">Những thách thức về việc sử dụng tiền điện tử</h3>
 
 
 
@@ -2252,11 +2252,11 @@
 
 
 
-<h2>Tương lai của tiền điện tử</h2>
+<h2 class="wp-block-heading">Tương lai của tiền điện tử</h2>
 
 
 
-<h3>Tiềm năng của tiền điện tử</h3>
+<h3 class="wp-block-heading">Tiềm năng của tiền điện tử</h3>
 
 
 
@@ -2268,7 +2268,7 @@
 
 
 
-<h3>Quy định và tính hợp pháp</h3>
+<h3 class="wp-block-heading">Quy định và tính hợp pháp</h3>
 
 
 
@@ -2280,7 +2280,7 @@
 
 
 
-<h3>Tiềm năng tác động đến hệ thống tài chính truyền thống</h3>
+<h3 class="wp-block-heading">Tiềm năng tác động đến hệ thống tài chính truyền thống</h3>
 
 
 
@@ -2288,7 +2288,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -2296,7 +2296,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -42,7 +42,7 @@
 
 					<description><![CDATA[Quantitive Trading là gì? Quantitative Trading, hay còn gọi là Giao dịch định lượng, là một phương pháp giao dịch dựa trên việc phân tích kỹ thuật và thống kê để đưa ra các quyết định đầu tư. Nó được xây dựng dựa trên các mô hình toán học và thuật toán để giúp nhà [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Quantitive Trading là gì?</h2>
+<h2 class="wp-block-heading">Quantitive Trading là gì?</h2>
 
 
 
@@ -54,7 +54,7 @@
 
 
 
-<h3>Ưu điểm của Quantitative Trading:</h3>
+<h3 class="wp-block-heading">Ưu điểm của Quantitative Trading:</h3>
 
 
 
@@ -76,7 +76,7 @@
 
 
 
-<h3>Nhược điểm của Quantitative Trading:</h3>
+<h3 class="wp-block-heading">Nhược điểm của Quantitative Trading:</h3>
 
 
 
@@ -102,7 +102,7 @@
 
 
 
-<h2>Các phương pháp phổ biến trong Quantitative Trading</h2>
+<h2 class="wp-block-heading">Các phương pháp phổ biến trong Quantitative Trading</h2>
 
 
 
@@ -114,7 +114,7 @@
 
 
 
-<h3>Arbitrage (Tận dụng chênh lệch giá)</h3>
+<h3 class="wp-block-heading">Arbitrage (Tận dụng chênh lệch giá)</h3>
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-<h3>Mean Reversion (Hồi quy về trung bình)</h3>
+<h3 class="wp-block-heading">Mean Reversion (Hồi quy về trung bình)</h3>
 
 
 
@@ -130,7 +130,7 @@
 
 
 
-<h3>Momentum Trading (Giao dịch theo xu hướng)</h3>
+<h3 class="wp-block-heading">Momentum Trading (Giao dịch theo xu hướng)</h3>
 
 
 
@@ -142,7 +142,7 @@
 
 
 
-<h3>Machine Learning và AI</h3>
+<h3 class="wp-block-heading">Machine Learning và AI</h3>
 
 
 
@@ -162,7 +162,7 @@
 
 
 
-<h2>Yếu tố quan trọng trong việc xây dựng mô hình Quantitative Trading</h2>
+<h2 class="wp-block-heading">Yếu tố quan trọng trong việc xây dựng mô hình Quantitative Trading</h2>
 
 
 
@@ -170,7 +170,7 @@
 
 
 
-<h3>Thu thập và xử lý dữ liệu</h3>
+<h3 class="wp-block-heading">Thu thập và xử lý dữ liệu</h3>
 
 
 
@@ -184,7 +184,7 @@
 
 
 
-<h3>Xác định chiến lược giao dịch</h3>
+<h3 class="wp-block-heading">Xác định chiến lược giao dịch</h3>
 
 
 
@@ -198,7 +198,7 @@
 
 
 
-<h3>Xây dựng và kiểm tra mô hình</h3>
+<h3 class="wp-block-heading">Xây dựng và kiểm tra mô hình</h3>
 
 
 
@@ -212,7 +212,7 @@
 
 
 
-<h3>Tối ưu hóa và điều chỉnh mô hình</h3>
+<h3 class="wp-block-heading">Tối ưu hóa và điều chỉnh mô hình</h3>
 
 
 
@@ -230,7 +230,7 @@
 
 
 
-<h2>Công cụ và ngôn ngữ lập trình phổ biến</h2>
+<h2 class="wp-block-heading">Công cụ và ngôn ngữ lập trình phổ biến</h2>
 
 
 
@@ -242,11 +242,11 @@
 
 
 
-<h3>Ngôn ngữ lập trình</h3>
+<h3 class="wp-block-heading">Ngôn ngữ lập trình</h3>
 
 
 
-<h4>Python</h4>
+<h4 class="wp-block-heading">Python</h4>
 
 
 
@@ -254,7 +254,7 @@
 
 
 
-<h4>R</h4>
+<h4 class="wp-block-heading">R</h4>
 
 
 
@@ -262,7 +262,7 @@
 
 
 
-<h4>JavaScript</h4>
+<h4 class="wp-block-heading">JavaScript</h4>
 
 
 
@@ -270,11 +270,11 @@
 
 
 
-<h3>Công cụ hỗ trợ</h3>
+<h3 class="wp-block-heading">Công cụ hỗ trợ</h3>
 
 
 
-<h4>Jupyter Notebook</h4>
+<h4 class="wp-block-heading">Jupyter Notebook</h4>
 
 
 
@@ -282,7 +282,7 @@
 
 
 
-<h4>TradingView</h4>
+<h4 class="wp-block-heading">TradingView</h4>
 
 
 
@@ -294,7 +294,7 @@
 
 
 
-<h4>APIs của các sàn giao dịch</h4>
+<h4 class="wp-block-heading">APIs của các sàn giao dịch</h4>
 
 
 
@@ -310,7 +310,7 @@
 
 
 
-<h2>Thiết lập và quản lý rủi ro</h2>
+<h2 class="wp-block-heading">Thiết lập và quản lý rủi ro</h2>
 
 
 
@@ -318,7 +318,7 @@
 
 
 
-<h3>Xác định mức dừng lỗ (Stop-loss)</h3>
+<h3 class="wp-block-heading">Xác định mức dừng lỗ (Stop-loss)</h3>
 
 
 
@@ -326,7 +326,7 @@
 
 
 
-<h3>Xác định mức chốt lời (Take-profit)</h3>
+<h3 class="wp-block-heading">Xác định mức chốt lời (Take-profit)</h3>
 
 
 
@@ -334,7 +334,7 @@
 
 
 
-<h3>Kích thước giao dịch (Position sizing)</h3>
+<h3 class="wp-block-heading">Kích thước giao dịch (Position sizing)</h3>
 
 
 
@@ -342,7 +342,7 @@
 
 
 
-<h3>Đa dạng hóa danh mục đầu tư (Portfolio diversification)</h3>
+<h3 class="wp-block-heading">Đa dạng hóa danh mục đầu tư (Portfolio diversification)</h3>
 
 
 
@@ -354,7 +354,7 @@
 
 
 
-<h3>Theo dõi và đánh giá hiệu quả</h3>
+<h3 class="wp-block-heading">Theo dõi và đánh giá hiệu quả</h3>
 
 
 
@@ -362,7 +362,7 @@
 
 
 
-<h3>Tối ưu hóa và điều chỉnh chiến lược</h3>
+<h3 class="wp-block-heading">Tối ưu hóa và điều chỉnh chiến lược</h3>
 
 
 
@@ -374,7 +374,7 @@
 
 
 
-<h2>Ví dụ và case study</h2>
+<h2 class="wp-block-heading">Ví dụ và case study</h2>
 
 
 
@@ -382,7 +382,7 @@
 
 
 
-<h3>Ví dụ 1: Arbitrage giữa hai sàn giao dịch</h3>
+<h3 class="wp-block-heading">Ví dụ 1: Arbitrage giữa hai sàn giao dịch</h3>
 
 
 
@@ -390,7 +390,7 @@
 
 
 
-<h3>Ví dụ 2: Momentum Trading với đường trung bình di động (MA)</h3>
+<h3 class="wp-block-heading">Ví dụ 2: Momentum Trading với đường trung bình di động (MA)</h3>
 
 
 
@@ -402,7 +402,7 @@
 
 
 
-<h3>Case study: Quantitative Trading với Machine Learning</h3>
+<h3 class="wp-block-heading">Case study: Quantitative Trading với Machine Learning</h3>
 
 
 
@@ -422,7 +422,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -472,7 +472,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -501,7 +501,7 @@
 
 					<description><![CDATA[Giới thiệu Bạn là người mới tham gia giao dịch tiền điện tử và đang tìm kiếm một số mẹo và thủ thuật để bắt đầu? Trong bài Chiến lược giao dịch tiền điện tử căn bản này, bọn mình sẽ đề cập đến một số chiến lược giao dịch tiền điện tử phổ biến [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -513,11 +513,11 @@
 
 
 
-<h2>Phân tích kỹ thuật</h2>
+<h2 class="wp-block-heading">Phân tích kỹ thuật</h2>
 
 
 
-<h3>Định nghĩa</h3>
+<h3 class="wp-block-heading">Định nghĩa</h3>
 
 
 
@@ -563,7 +563,7 @@
 
 
 
-<h3>Cách đọc biểu đồ tiền điện tử</h3>
+<h3 class="wp-block-heading">Cách đọc biểu đồ tiền điện tử</h3>
 
 
 
@@ -587,7 +587,7 @@
 
 
 
-<h3>Những chỉ báo kỹ thuật thường dùng trong giao dịch</h3>
+<h3 class="wp-block-heading">Những chỉ báo kỹ thuật thường dùng trong giao dịch</h3>
 
 
 
@@ -603,11 +603,11 @@
 
 
 
-<h2>Phân tích cơ bản</h2>
+<h2 class="wp-block-heading">Phân tích cơ bản</h2>
 
 
 
-<h3>Định nghĩa</h3>
+<h3 class="wp-block-heading">Định nghĩa</h3>
 
 
 
@@ -627,7 +627,7 @@
 
 
 
-<h3>Các yếu tố tác động đến phân tích cơ bản</h3>
+<h3 class="wp-block-heading">Các yếu tố tác động đến phân tích cơ bản</h3>
 
 
 
@@ -647,7 +647,7 @@
 
 
 
-<h3>Đánh giá tiềm năng</h3>
+<h3 class="wp-block-heading">Đánh giá tiềm năng</h3>
 
 
 
@@ -681,11 +681,11 @@
 
 
 
-<h2>Quản lý rủi ro</h2>
+<h2 class="wp-block-heading">Quản lý rủi ro</h2>
 
 
 
-<h3>Đặt lệnh Stop-loss và Take-profit</h3>
+<h3 class="wp-block-heading">Đặt lệnh Stop-loss và Take-profit</h3>
 
 
 
@@ -705,7 +705,7 @@
 
 
 
-<h3>Quản lý kích thước vị thế</h3>
+<h3 class="wp-block-heading">Quản lý kích thước vị thế</h3>
 
 
 
@@ -729,7 +729,7 @@
 
 
 
-<h3>Đa dạng hóa danh mục đầu tư</h3>
+<h3 class="wp-block-heading">Đa dạng hóa danh mục đầu tư</h3>
 
 
 
@@ -753,7 +753,7 @@
 
 
 
-<h2>Chiến lược giao dịch</h2>
+<h2 class="wp-block-heading">Chiến lược giao dịch</h2>
 
 
 
@@ -773,7 +773,7 @@
 
 
 
-<h3>Swing trading</h3>
+<h3 class="wp-block-heading">Swing trading</h3>
 
 
 
@@ -793,7 +793,7 @@
 
 
 
-<h3>Day trading</h3>
+<h3 class="wp-block-heading">Day trading</h3>
 
 
 
@@ -813,7 +813,7 @@
 
 
 
-<h3>Position Trading</h3>
+<h3 class="wp-block-heading">Position Trading</h3>
 
 
 
@@ -837,7 +837,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -845,7 +845,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -885,7 +885,7 @@
 
 					<description><![CDATA[Giới thiệu Giao dịch tiền điện tử có vẻ phức tạp và đáng sợ đối với người mới bắt đầu, nhưng với kiến ​​thức và chiến lược phù hợp, nó có thể là một cơ hội đầu tư bổ ích và sinh lời. Trong bài &#8220;Giao dịch tiền điện tử căn bản&#8221; này, bọn mình [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -893,11 +893,11 @@
 
 
 
-<h2>Bắt đầu giao dịch tiền điện tử</h2>
+<h2 class="wp-block-heading">Bắt đầu giao dịch tiền điện tử</h2>
 
 
 
-<h3>Chọn sàn giao dịch</h3>
+<h3 class="wp-block-heading">Chọn sàn giao dịch</h3>
 
 
 
@@ -921,7 +921,7 @@
 
 
 
-<h3>Tạo tài khoản và nạp tiền</h3>
+<h3 class="wp-block-heading">Tạo tài khoản và nạp tiền</h3>
 
 
 
@@ -941,7 +941,7 @@
 
 
 
-<h3>Các loại lệnh giao dịch</h3>
+<h3 class="wp-block-heading">Các loại lệnh giao dịch</h3>
 
 
 
@@ -1011,11 +1011,11 @@
 
 
 
-<h2>Biểu đồ tiền điện tử</h2>
+<h2 class="wp-block-heading">Biểu đồ tiền điện tử</h2>
 
 
 
-<h3>Biểu đồ giá và biểu đồ nến</h3>
+<h3 class="wp-block-heading">Biểu đồ giá và biểu đồ nến</h3>
 
 
 
@@ -1031,11 +1031,11 @@
 
 
 
-<h3>Các chỉ báo kỹ thuật và mẫu biểu đồ</h3>
+<h3 class="wp-block-heading">Các chỉ báo kỹ thuật và mẫu biểu đồ</h3>
 
 
 
-<h4>Chỉ báo kỹ thuật (Technical indicator)</h4>
+<h4 class="wp-block-heading">Chỉ báo kỹ thuật (Technical indicator)</h4>
 
 
 
@@ -1063,7 +1063,7 @@
 
 
 
-<h4>Mẫu biểu đồ (Chart pattern)</h4>
+<h4 class="wp-block-heading">Mẫu biểu đồ (Chart pattern)</h4>
 
 
 
@@ -1123,7 +1123,7 @@
 
 
 
-<h3>Đọc và dịch biểu đồ</h3>
+<h3 class="wp-block-heading">Đọc và dịch biểu đồ</h3>
 
 
 
@@ -1159,11 +1159,11 @@
 
 
 
-<h2>Tạo một chiến lược giao dịch</h2>
+<h2 class="wp-block-heading">Tạo một chiến lược giao dịch</h2>
 
 
 
-<h3>Các loại chiến lược giao dịch</h3>
+<h3 class="wp-block-heading">Các loại chiến lược giao dịch</h3>
 
 
 
@@ -1191,7 +1191,7 @@
 
 
 
-<h3>Xác định mục tiêu và quản lý rủi ro</h3>
+<h3 class="wp-block-heading">Xác định mục tiêu và quản lý rủi ro</h3>
 
 
 
@@ -1211,11 +1211,11 @@
 
 
 
-<h3>Tâm lý và cảm xúc khi giao dịch</h3>
+<h3 class="wp-block-heading">Tâm lý và cảm xúc khi giao dịch</h3>
 
 
 
-<h4>Kế hoạch giao dịch</h4>
+<h4 class="wp-block-heading">Kế hoạch giao dịch</h4>
 
 
 
@@ -1243,7 +1243,7 @@
 
 
 
-<h4>Kiểm soát cảm xúc</h4>
+<h4 class="wp-block-heading">Kiểm soát cảm xúc</h4>
 
 
 
@@ -1263,11 +1263,11 @@
 
 
 
-<h2>Các mẹo để giao dịch thành công hơn</h2>
+<h2 class="wp-block-heading">Các mẹo để giao dịch thành công hơn</h2>
 
 
 
-<h3>Luôn cập nhật các thông tin mới nhất</h3>
+<h3 class="wp-block-heading">Luôn cập nhật các thông tin mới nhất</h3>
 
 
 
@@ -1283,7 +1283,7 @@
 
 
 
-<h3>Đa dạng hóa danh mục đầu tư</h3>
+<h3 class="wp-block-heading">Đa dạng hóa danh mục đầu tư</h3>
 
 
 
@@ -1299,7 +1299,7 @@
 
 
 
-<h3>Ghi chép lại các giao dịch</h3>
+<h3 class="wp-block-heading">Ghi chép lại các giao dịch</h3>
 
 
 
@@ -1319,7 +1319,7 @@
 
 
 
-<h3>Tránh những sai lầm thường gặp</h3>
+<h3 class="wp-block-heading">Tránh những sai lầm thường gặp</h3>
 
 
 
@@ -1343,7 +1343,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
@@ -1351,7 +1351,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -1361,7 +1361,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 

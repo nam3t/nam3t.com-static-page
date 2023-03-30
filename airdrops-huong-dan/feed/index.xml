@@ -18,7 +18,7 @@
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=6.1.1</generator>
+	<generator>https://wordpress.org/?v=6.2</generator>
 
 <image>
 	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
@@ -42,7 +42,7 @@
 
 					<description><![CDATA[Giới thiệu Dự án Scroll có thể sẽ airdrop cho người dùng tham gia vào mạng thử nghiệm của họ. Làm theo &#8220;Hướng dẫn tham gia testnet Scroll&#8221; của bọn mình để tham gia mạng thử nghiệm và có khả năng nhận được airdrop. Scroll là gì? Scroll là một nền tảng blockchain zkRollup trên [&#8230;]]]></description>
 										<content:encoded><![CDATA[
-<h2>Giới thiệu</h2>
+<h2 class="wp-block-heading">Giới thiệu</h2>
 
 
 
@@ -50,7 +50,7 @@
 
 
 
-<h2>Scroll là gì?</h2>
+<h2 class="wp-block-heading">Scroll là gì?</h2>
 
 
 
@@ -58,11 +58,11 @@
 
 
 
-<h2>Các bước tham gia</h2>
+<h2 class="wp-block-heading">Các bước tham gia</h2>
 
 
 
-<h3>Bước 1: Connect ví</h3>
+<h3 class="wp-block-heading">Bước 1: Connect ví</h3>
 
 
 
@@ -78,7 +78,7 @@
 
 
 
-<h3>Bước 2: Xin faucet</h3>
+<h3 class="wp-block-heading">Bước 2: Xin faucet</h3>
 
 
 
@@ -86,7 +86,7 @@
 
 
 
-<h3>Bước 3: Bridge</h3>
+<h3 class="wp-block-heading">Bước 3: Bridge</h3>
 
 
 
@@ -114,7 +114,7 @@
 
 
 
-<div class="is-layout-constrained wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
 <hr class="wp-block-separator has-alpha-channel-opacity"/>
 
 
@@ -145,7 +145,7 @@
 
 
 
-<h2>Đăng ký tài khoản</h2>
+<h2 class="wp-block-heading">Đăng ký tài khoản</h2>
 
 
 
@@ -161,7 +161,7 @@
 
 
 
-<h2>Xác thực tài khoản</h2>
+<h2 class="wp-block-heading">Xác thực tài khoản</h2>
 
 
 
@@ -173,7 +173,7 @@
 
 
 
-<h2>Nạp tiền vào tài khoản</h2>
+<h2 class="wp-block-heading">Nạp tiền vào tài khoản</h2>
 
 
 
@@ -185,7 +185,7 @@
 
 
 
-<h2>Giao dịch trên Binance</h2>
+<h2 class="wp-block-heading">Giao dịch trên Binance</h2>
 
 
 
@@ -197,7 +197,7 @@
 
 
 
-<h2>Rút tiền từ tài khoản</h2>
+<h2 class="wp-block-heading">Rút tiền từ tài khoản</h2>
 
 
 
@@ -205,7 +205,7 @@
 
 
 
-<h2>Kết luận</h2>
+<h2 class="wp-block-heading">Kết luận</h2>
 
 
 
