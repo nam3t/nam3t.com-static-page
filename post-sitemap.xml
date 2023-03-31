@@ -4,6 +4,13 @@
 		<loc>https://nam3t.com/</loc>
 	</url>
 	<url>
+		<loc>https://nam3t.com/yield-farming-nang-cao/</loc>
+		<lastmod>2023-03-31T14:56:43+07:00</lastmod>
+		<image:image>
+			<image:loc>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26220059/Yield-Farming.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
 		<loc>https://nam3t.com/oracles-va-nguon-cap-du-lieu/</loc>
 		<lastmod>2023-03-31T07:11:00+07:00</lastmod>
 		<image:image>
@@ -123,13 +130,6 @@
 		<lastmod>2023-03-29T07:11:00+07:00</lastmod>
 		<image:image>
 			<image:loc>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27102245/CBDC.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://nam3t.com/yield-farming-nang-cao/</loc>
-		<lastmod>2023-03-28T19:37:00+07:00</lastmod>
-		<image:image>
-			<image:loc>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26220059/Yield-Farming.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
