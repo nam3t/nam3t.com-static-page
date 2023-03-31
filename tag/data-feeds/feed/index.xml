@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Data Feeds &#8211; nam3t</title>
+	<atom:link href="https://nam3t.com/tag/data-feeds/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Tue, 28 Mar 2023 18:05:09 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
+	<title>Data Feeds &#8211; nam3t</title>
+	<link>https://nam3t.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Oracles và nguồn cấp dữ liệu: Vai trò trong hệ thống phi tập trung</title>
+		<link>https://nam3t.com/oracles-va-nguon-cap-du-lieu/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=oracles-va-nguon-cap-du-lieu</link>
+					<comments>https://nam3t.com/oracles-va-nguon-cap-du-lieu/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Fri, 31 Mar 2023 00:11:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử nâng cao]]></category>
+		<category><![CDATA[Data Feeds]]></category>
+		<category><![CDATA[Oracles]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=1196</guid>
+
+					<description><![CDATA[Giới thiệu về Oracles và Data Feeds Hợp đồng thông minh (Smart Contracts) đang ngày càng trở nên phổ biến trong hệ sinh thái tiền mã hoá và tài chính phi tập trung (DeFi). Tuy nhiên, hợp đồng thông minh chỉ có thể truy cập thông tin nằm bên trong blockchain mà chúng hoạt động. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Giới thiệu về Oracles và Data Feeds</h2>
+
+
+
+<p>Hợp đồng thông minh (Smart Contracts) đang ngày càng trở nên phổ biến trong hệ sinh thái tiền mã hoá và tài chính phi tập trung (DeFi). Tuy nhiên, hợp đồng thông minh chỉ có thể truy cập thông tin nằm bên trong blockchain mà chúng hoạt động. Để giải quyết vấn đề này, chúng ta cần đến &#8220;Oracles&#8221; và &#8220;Data Feeds&#8221;.</p>
+
+
+
+<h3 class="wp-block-heading">Mục đích của Oracles</h3>
+
+
+
+<p>Oracles là những đại lý trung gian giúp cung cấp thông tin từ bên ngoài blockchain (ngoài chuỗi) cho <a class="wpil_keyword_link" href="https://nam3t.com/smart-contract-la-gi-va-cach-no-hoat-dong/" title="hợp đồng thông minh" data-wpil-keyword-link="linked" target="_blank" rel="noopener">hợp đồng thông minh</a>. Chúng giúp kết nối thế giới thực với thế giới phi tập trung của blockchain, tạo điều kiện cho việc triển khai các ứng dụng phức tạp hơn như tài chính phi tập trung, dự đoán thị trường, và bảo hiểm phi tập trung. Oracles cung cấp dữ liệu từ nhiều nguồn khác nhau, như giá cả tiền mã hoá, thông tin thời tiết, kết quả bầu cử, và nhiều hơn nữa.</p>
+
+
+
+<h3 class="wp-block-heading">Vai trò của Data Feeds trong hệ thống tài chính phi tập trung (DeFi)</h3>
+
+
+
+<p>Data Feeds là các nguồn cung cấp dữ liệu liên tục được sử dụng bởi Oracles để cập nhật thông tin cho hợp đồng thông minh. Chúng đóng vai trò quan trọng trong việc đảm bảo tính chính xác và đáng tin cậy của thông tin được cung cấp cho hợp đồng thông minh, giúp hệ thống tài chính phi tập trung hoạt động mượt mà và an toàn.</p>
+
+
+
+<p>Trong hệ sinh thái <a class="wpil_keyword_link" href="https://nam3t.com/defi-la-gi-va-tiem-nang-cua-tai-chinh-phi-tap-trung/" title="DeFi" data-wpil-keyword-link="linked" target="_blank" rel="noopener">DeFi</a>, Data Feeds đóng vai trò quan trọng trong việc cung cấp thông tin về giá cả của các tài sản mã hoá, lãi suất cho vay, và các chỉ số tài chính khác. Người dùng và nhà <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> dựa vào các thông tin này để đưa ra quyết định về giao dịch, đầu tư, và quản lý rủi ro. Do đó, độ chính xác và tính minh bạch của Data Feeds là điều cực kỳ quan trọng.</p>
+
+
+
+<p>Ví dụ, trong một ứng dụng DeFi cho vay và cho mượn, Data Feeds cung cấp thông tin về giá cả tài sản đảm bảo để xác định tỷ lệ vay an toàn. Nếu dữ liệu không chính xác, điều này có thể dẫn đến những rủi ro tài chính cho cả người vay và người cho vay.</p>
+
+
+
+<h2 class="wp-block-heading">Các loại Oracles</h2>
+
+
+
+<p>Oracles có thể được phân loại theo nhiều tiêu chí khác nhau, nhưng một trong những cách phổ biến nhất là dựa vào vị trí của chúng so với chuỗi blockchain. Dựa theo tiêu chí này, chúng ta có hai loại Oracles chính: Oracle trên chuỗi (On-chain) và Oracle ngoài chuỗi (Off-chain).</p>
+
+
+
+<h3 class="wp-block-heading">Oracle trên chuỗi (On-chain)</h3>
+
+
+
+<p>Oracle trên chuỗi là những đại lý hoạt động trực tiếp trên blockchain. Chúng nhận dữ liệu từ các nguồn bên trong chuỗi và cung cấp cho hợp đồng thông minh. Ví dụ, một Oracle trên chuỗi có thể sử dụng dữ liệu từ các giao dịch trước đó trên blockchain để cung cấp thông tin về giá cả của một tài sản mã hoá.</p>
+
+
+
+<p>Ưu điểm là chúng hoạt động trực tiếp trên blockchain, giúp đảm bảo tính minh bạch và bảo mật. Tuy nhiên, chúng có hạn chế về việc truy cập dữ liệu từ bên ngoài chuỗi, điều này hạn chế khả năng ứng dụng của chúng trong các ứng dụng yêu cầu thông tin từ thế giới thực.</p>
+
+
+
+<h3 class="wp-block-heading">Oracle ngoài chuỗi (Off-chain)</h3>
+
+
+
+<p>Oracle ngoài chuỗi hoạt động bên ngoài blockchain và có thể kết nối với nhiều nguồn dữ liệu từ thế giới thực. Chúng thu thập dữ liệu từ các nguồn ngoài chuỗi như các trang web, cơ quan thông tin, và các dịch vụ dữ liệu, sau đó chuyển đổi dữ liệu này thành dạng có thể sử dụng được bởi hợp đồng thông minh trên blockchain.</p>
+
+
+
+<p>Chúng đem lại lợi ích lớn trong việc mở rộng khả năng ứng dụng của hợp đồng thông minh, bằng cách cung cấp dữ liệu từ thế giới thực. Tuy nhiên, chúng cũng tiềm ẩn những rủi ro về bảo mật và tính toàn vẹn của dữ liệu, do chúng hoạt động bên ngoài chuỗi và phụ thuộc vào các nguồn dữ liệu bên ngoài.</p>
+
+
+
+<h3 class="wp-block-heading">So sánh ưu nhược điểm giữa các loại Oracles</h3>
+
+
+
+<figure class="wp-block-table is-style-regular"><table><thead><tr><th>Loại Oracle</th><th>Ưu điểm</th><th>Nhược điểm</th></tr></thead><tbody><tr><td>Trên chuỗi (On-chain)</td><td>Minh bạch, bảo mật cao</td><td>Giới hạn về nguồn dữ liệu, chỉ truy cập được dữ liệu bên trong chuỗi</td></tr><tr><td>Ngoài chuỗi (Off-chain)</td><td>Truy cập dữ liệu đa dạng từ thế giới thực</td><td>Rủi ro về bảo mật và tính toàn vẹn dữ liệu</td></tr></tbody></table><figcaption class="wp-element-caption">So sánh ưu nhược điểm giữa các loại Oracles</figcaption></figure>
+
+
+
+<p>Tùy thuộc vào yêu cầu của từng ứng dụng và hợp đồng thông minh, người phát triển có thể lựa chọn sử dụng Oracle trên chuỗi hoặc ngoài chuỗi, hoặc kết hợp cả hai để đảm bảo tính linh hoạt, minh bạch, và bảo mật cho dữ liệu.</p>
+
+
+
+<p>Trong thực tế, nhiều dự án và ứng dụng tiền mã hoá thường sử dụng Oracle ngoài chuỗi để cung cấp dữ liệu từ thế giới thực, vì chúng đem lại nhiều lợi ích hơn về khả năng kết nối và ứng dụng. Tuy nhiên, việc chọn lựa và sử dụng Oracle ngoài chuỗi cũng đòi hỏi người phát triển phải chú ý đến các vấn đề về bảo mật và tính toàn vẹn của dữ liệu, bằng cách áp dụng các giải pháp và công nghệ phù hợp.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="619" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181248/Cach-thuc-hoat-dong-cua-Oracles.jpg" alt="Cách thức hoạt động của Oracles" class="wp-image-1199" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181248/Cach-thuc-hoat-dong-cua-Oracles.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181248/Cach-thuc-hoat-dong-cua-Oracles-300x186.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181248/Cach-thuc-hoat-dong-cua-Oracles-768x475.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181248/Cach-thuc-hoat-dong-cua-Oracles-750x464.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Oracles và nguồn cấp dữ liệu: Vai trò trong hệ thống phi tập trung 1"><figcaption class="wp-element-caption">Cách thức hoạt động của Oracles</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Cách thức hoạt động của Oracles</h2>
+
+
+
+<p>Cơ chế hoạt động của Oracles có thể khác nhau tùy thuộc vào từng dự án và ứng dụng cụ thể. Tuy nhiên, có một số bước chung mà hầu hết các Oracles đều theo dõi để cung cấp dữ liệu cho hợp đồng thông minh.</p>
+
+
+
+<h3 class="wp-block-heading">Bước 1: Thu thập dữ liệu từ nguồn bên ngoài</h3>
+
+
+
+<p>Oracle bắt đầu bằng cách thu thập dữ liệu từ các nguồn bên ngoài. Đối với Oracle ngoài chuỗi, dữ liệu có thể đến từ các trang web, cơ quan thông tin, dịch vụ dữ liệu, hoặc các nguồn khác. Oracle trên chuỗi thu thập dữ liệu từ các giao dịch và sự kiện bên trong blockchain.</p>
+
+
+
+<h3 class="wp-block-heading">Bước 2: Xử lý và chuẩn hoá dữ liệu</h3>
+
+
+
+<p>Sau khi thu thập dữ liệu, Oracle cần xử lý và chuẩn hoá dữ liệu để đảm bảo rằng nó có thể sử dụng được bởi hợp đồng thông minh. Quá trình này có thể bao gồm việc loại bỏ dữ liệu không liên quan, xác minh tính chính xác của thông tin, và đưa dữ liệu về dạng có thể hiểu được bởi hợp đồng thông minh.</p>
+
+
+
+<h3 class="wp-block-heading">Bước 3: Gửi dữ liệu đến hợp đồng thông minh</h3>
+
+
+
+<p>Sau khi xử lý và chuẩn hoá dữ liệu, Oracle tiếp tục gửi dữ liệu đến hợp đồng thông minh. Đối với Oracle trên chuỗi, dữ liệu được gửi trực tiếp thông qua các giao dịch trên blockchain. Đối với Oracle ngoài chuỗi, dữ liệu thường được mã hoá và gửi thông qua một giao thức an toàn để đảm bảo tính bảo mật và toàn vẹn của thông tin.</p>
+
+
+
+<h3 class="wp-block-heading">Bước 4: Hợp đồng thông minh sử dụng dữ liệu</h3>
+
+
+
+<p>Cuối cùng, hợp đồng thông minh sẽ sử dụng dữ liệu được cung cấp bởi Oracle để thực hiện các chức năng và ứng dụng của nó. Ví dụ, hợp đồng thông minh có thể sử dụng dữ liệu về giá cả tiền mã hoá từ một Oracle để tính toán tỷ lệ đòn bẩy cho một khoản vay, hoặc xác định giá trị đòi bồi thường trong một hợp đồng bảo hiểm.</p>
+
+
+
+<p>Ngoài ra, một số dự án và ứng dụng tiền mã hoá sử dụng nhiều Oracle để tăng cường độ tin cậy và bảo mật của dữ liệu. Trong trường hợp này, hợp đồng thông minh sẽ nhận dữ liệu từ nhiều Oracle khác nhau và tính toán giá trị trung bình hoặc sử dụng một thuật toán nào đó để xác định dữ liệu đáng tin cậy nhất.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="667" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181545/Cac-van-de-pho-bien-va-giai-phap.jpg" alt="Các vấn đề phổ biến và giải pháp" class="wp-image-1200" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181545/Cac-van-de-pho-bien-va-giai-phap.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181545/Cac-van-de-pho-bien-va-giai-phap-300x200.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181545/Cac-van-de-pho-bien-va-giai-phap-768x512.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27181545/Cac-van-de-pho-bien-va-giai-phap-750x500.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="Oracles và nguồn cấp dữ liệu: Vai trò trong hệ thống phi tập trung 2"><figcaption class="wp-element-caption">Các vấn đề phổ biến và giải pháp</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Các vấn đề phổ biến và giải pháp</h2>
+
+
+
+<p>Trong quá trình hoạt động, Oracles đôi khi gặp phải một số vấn đề và thách thức, đặc biệt là liên quan đến bảo mật và tính toàn vẹn của dữ liệu. Dưới đây là một số vấn đề phổ biến cùng với các giải pháp được đề xuất:</p>
+
+
+
+<h3 class="wp-block-heading">Vấn đề 1: Dữ liệu không chính xác hoặc không đáng tin cậy</h3>
+
+
+
+<p>Oracles phụ thuộc vào các nguồn dữ liệu bên ngoài, và đôi khi các nguồn dữ liệu này có thể cung cấp thông tin không chính xác hoặc bị sai lệch. Điều này có thể dẫn đến việc hợp đồng thông minh thực hiện các hành động không mong muốn hoặc gây thiệt hại cho người dùng.</p>
+
+
+
+<h4 class="wp-block-heading">Giải pháp:</h4>
+
+
+
+<p>Để giải quyết vấn đề này, có thể áp dụng một số phương pháp sau:</p>
+
+
+
+<ol>
+<li><strong>Sử dụng nhiều nguồn dữ liệu</strong>: Kết hợp dữ liệu từ nhiều nguồn khác nhau để giảm thiểu rủi ro thông tin không chính xác từ một nguồn duy nhất. </li>
+
+
+
+<li><strong>Sử dụng nhiều Oracle</strong>: Kết hợp kết quả từ nhiều Oracle để có được giá trị trung bình hoặc sử dụng thuật toán đồng thuận để xác định dữ liệu đáng tin cậy nhất.</li>
+
+
+
+<li><strong>Xác minh nguồn dữ liệu</strong>: Chọn lựa các nguồn dữ liệu uy tín và đáng tin cậy, có thể là các cơ quan chính thức, dịch vụ dữ liệu hàng đầu, hoặc các trang web có uy tín.</li>
+</ol>
+
+
+
+<h3 class="wp-block-heading">Vấn đề 2: Rủi ro về bảo mật</h3>
+
+
+
+<p>Do hoạt động bên ngoài chuỗi và sử dụng dữ liệu từ các nguồn bên ngoài, Oracle ngoài chuỗi tiềm ẩn các rủi ro về bảo mật, như việc bị tấn công, giả mạo dữ liệu, hoặc gián đoạn dịch vụ. Những rủi ro này có thể ảnh hưởng đến tính toàn vẹn của dữ liệu và dẫn đến các vấn đề cho hợp đồng thông minh.</p>
+
+
+
+<h4 class="wp-block-heading">Giải pháp:</h4>
+
+
+
+<p>Để đối phó với các rủi ro về bảo mật, có thể áp dụng các biện pháp sau:</p>
+
+
+
+<ol>
+<li><strong>Mã hoá dữ liệu</strong>: Sử dụng các phương pháp mã hoá mạnh mẽ để bảo vệ dữ liệu khi truyền tải từ Oracle đến hợp đồng thông minh.</li>
+
+
+
+<li><strong>Giám sát và phát hiện sớm</strong>: Theo dõi hoạt động của Oracle và phát hiện sớm các dấu hiệu bất thường hoặc nghi vấn, nhằm ngăn chặn và khắc phục các vấn đề về bảo mật.</li>
+
+
+
+<li><strong>Decentralized Oracles</strong>: Sử dụng các hệ thống Oracle phi tập trung (decentralized) để giảm rủi ro tập trung và cải thiện độ tin cậy của dữ liệu. Ví dụ, Chainlink là một dự án nổi tiếng trong lĩnh vực Oracle phi tập trung.</li>
+</ol>
+
+
+
+<h3 class="wp-block-heading">Vấn đề 3: Tốc độ và độ trễ</h3>
+
+
+
+<p>Trong một số trường hợp, Oracle có thể gặp phải vấn đề về tốc độ và độ trễ khi cập nhật dữ liệu hoặc gửi dữ liệu đến hợp đồng thông minh. Độ trễ này có thể ảnh hưởng đến hiệu quả của hợp đồng thông minh, đặc biệt là trong các ứng dụng đòi hỏi tính chính xác cao và thời gian phản hồi nhanh, như giao dịch tiền mã hoá hay tài chính phi tập trung (DeFi).</p>
+
+
+
+<h4 class="wp-block-heading">Giải pháp:</h4>
+
+
+
+<p>Có một số cách để giảm thiểu tốc độ và độ trễ của Oracle:</p>
+
+
+
+<ol>
+<li><strong>Tối ưu hoá quá trình thu thập và xử lý dữ liệu</strong>: Cải thiện thuật toán và công nghệ để thu thập, xử lý, và chuẩn hoá dữ liệu một cách nhanh chóng và hiệu quả hơn.</li>
+
+
+
+<li><strong>Sử dụng các giao thức truyền tải dữ liệu nhanh và an toàn</strong>: Chọn lựa các giao thức truyền tải dữ liệu có tốc độ nhanh và đảm bảo an toàn để giảm thiểu độ trễ trong quá trình giao tiếp giữa Oracle và hợp đồng thông minh. </li>
+
+
+
+<li><strong>Cân nhắc sử dụng các giải pháp Oracle tối ưu hóa</strong>: Chọn các dự án Oracle có tính năng và công nghệ tối ưu hóa cho tốc độ và độ trễ, nhằm đáp ứng nhu cầu của ứng dụng và hợp đồng thông minh.</li>
+</ol>
+
+
+
+<p>Bằng cách áp dụng các giải pháp kể trên, các nhà phát triển và người dùng có thể giảm thiểu các vấn đề phổ biến liên quan đến Oracles, đồng thời tận dụng lợi ích của việc kết nối dữ liệu từ thế giới thực vào hệ sinh thái blockchain và tài chính phi tập trung.</p>
+
+
+
+<h2 class="wp-block-heading">Các dự án Oracle nổi bật trong ngành công nghiệp tiền mã hoá</h2>
+
+
+
+<p>Dưới đây là một số dự án Oracle nổi bật trong ngành công nghiệp tiền mã hoá, đóng vai trò quan trọng trong việc cung cấp dữ liệu và kết nối thế giới thực với hệ sinh thái blockchain.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="453" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1024x453.png" alt="Chainlink" class="wp-image-1091" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1024x453.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-300x133.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-768x340.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1536x679.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-750x332.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink-1140x504.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24131101/Chainlink.png 1547w" sizes="(max-width: 1024px) 100vw, 1024px" title="Oracles và nguồn cấp dữ liệu: Vai trò trong hệ thống phi tập trung 3"><figcaption class="wp-element-caption">Chainlink</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Chainlink</h3>
+
+
+
+<p>Chainlink là một dự án Oracle phi tập trung nổi tiếng, được thiết kế để mang dữ liệu từ bên ngoài chuỗi vào các hợp đồng thông minh trên nền tảng Ethereum và các blockchain khác. Chainlink sử dụng một mạng lưới các node độc lập để xác minh và truyền tải dữ liệu, giúp tăng cường độ tin cậy và bảo mật cho các ứng dụng blockchain.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="622" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182117/Band-Protocol-1024x622.png" alt="Band Protocol" class="wp-image-1201" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182117/Band-Protocol-1024x622.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182117/Band-Protocol-300x182.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182117/Band-Protocol-768x466.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182117/Band-Protocol-750x456.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182117/Band-Protocol-1140x692.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182117/Band-Protocol.png 1253w" sizes="(max-width: 1024px) 100vw, 1024px" title="Oracles và nguồn cấp dữ liệu: Vai trò trong hệ thống phi tập trung 4"><figcaption class="wp-element-caption">Band Protocol</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Band Protocol</h3>
+
+
+
+<p>Band Protocol là một dự án Oracle phi tập trung khác, cũng hoạt động như một cầu nối giữa dữ liệu bên ngoài và hợp đồng thông minh. Band Protocol được xây dựng trên nền tảng Cosmos, cho phép tương tác với nhiều blockchain khác nhau. Dự án này sử dụng mô hình đồng thuận PoS (Proof of Stake) để đảm bảo tính toàn vẹn và độ tin cậy của dữ liệu.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="530" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182241/Augur-1024x530.png" alt="Augur" class="wp-image-1202" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182241/Augur-1024x530.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182241/Augur-300x155.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182241/Augur-768x398.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182241/Augur-750x388.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182241/Augur-1140x590.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182241/Augur.png 1507w" sizes="(max-width: 1024px) 100vw, 1024px" title="Oracles và nguồn cấp dữ liệu: Vai trò trong hệ thống phi tập trung 5"><figcaption class="wp-element-caption">Augur</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Augur</h3>
+
+
+
+<p>Augur không chỉ là một dự án Oracle mà còn là một nền tảng dự đoán phi tập trung (decentralized prediction market) xây dựng trên Ethereum. Augur cho phép người dùng tạo và tham gia vào các thị trường dự đoán về sự kiện trong tương lai. Oracle của Augur đóng vai trò quan trọng trong việc xác minh và cung cấp kết quả chính xác của các sự kiện để giải quyết các phiếu cược.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="356" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182414/Tellor-1024x356.png" alt="Tellor" class="wp-image-1203" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182414/Tellor-1024x356.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182414/Tellor-300x104.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182414/Tellor-768x267.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182414/Tellor-1536x534.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182414/Tellor-750x261.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182414/Tellor-1140x397.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182414/Tellor.png 1845w" sizes="(max-width: 1024px) 100vw, 1024px" title="Oracles và nguồn cấp dữ liệu: Vai trò trong hệ thống phi tập trung 6"><figcaption class="wp-element-caption">Tellor</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Tellor</h3>
+
+
+
+<p>Tellor là một dự án Oracle phi tập trung được xây dựng trên Ethereum, sử dụng mô hình PoW (Proof of Work) để xác minh và cung cấp dữ liệu cho các hợp đồng thông minh. Tellor giúp giảm thiểu rủi ro tập trung thông qua việc kết hợp giữa các nguồn dữ liệu và sự tham gia của cộng đồng trong quá trình xác minh dữ liệu.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="675" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182428/API3-1024x675.png" alt="API3" class="wp-image-1204" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182428/API3-1024x675.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182428/API3-300x198.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182428/API3-768x506.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182428/API3-750x494.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182428/API3-1140x751.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/27182428/API3.png 1217w" sizes="(max-width: 1024px) 100vw, 1024px" title="Oracles và nguồn cấp dữ liệu: Vai trò trong hệ thống phi tập trung 7"><figcaption class="wp-element-caption">API3</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">API3</h3>
+
+
+
+<p>API3 là một dự án Oracle tập trung vào việc cung cấp dữ liệu API cho các ứng dụng blockchain. API3 sử dụng mô hình DAO (Decentralized Autonomous Organization) để quản lý và duy trì mạng lưới các Oracle, giúp đảm bảo tính minh bạch và độ tin cậy của dữ liệu. Dự án này cũng hỗ trợ xác thực nguồn gốc dữ liệu thông qua chữ ký số.</p>
+
+
+
+<p>Các dự án Oracle nổi bật này đóng vai trò quan trọng trong việc kết nối dữ liệu từ thế giới thực với hệ sinh thái blockchain và tiền mã hoá. Chúng giúp hỗ trợ và phát triển các ứng dụng blockchain, đặc biệt là trong lĩnh vực tài chính phi tập trung (DeFi) và các hợp đồng thông minh đòi hỏi dữ liệu bên ngoài chuỗi.</p>
+
+
+
+<h2 class="wp-block-heading">Ứng dụng của Oracles trong thế giới tiền mã hoá</h2>
+
+
+
+<p>Oracles đóng vai trò quan trọng trong việc mở rộng khả năng và ứng dụng của <a class="wpil_keyword_link" href="https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/" title="công nghệ blockchain" data-wpil-keyword-link="linked" target="_blank" rel="noopener">công nghệ blockchain</a> và tiền mã hoá. Dưới đây là một số ứng dụng phổ biến trong thế giới tiền mã hoá:</p>
+
+
+
+<h3 class="wp-block-heading">Tài chính phi tập trung (DeFi)</h3>
+
+
+
+<p>Trong lĩnh vực tài chính phi tập trung, Oracles giúp cung cấp dữ liệu giá cả, tỷ giá hối đoái, lãi suất, và thông tin kinh tế khác để hỗ trợ các ứng dụng DeFi như:</p>
+
+
+
+<ul>
+<li><strong>Giao dịch phi tập trung (DEX): </strong>Cung cấp dữ liệu giá cả để xác định giá trị giao dịch và thực hiện giao dịch.</li>
+
+
+
+<li><strong>Cho vay và tiết kiệm: </strong>Cung cấp thông tin về lãi suất để tính toán khoản vay, lãi tiết kiệm, và điều chỉnh các yếu tố rủi ro liên quan.</li>
+
+
+
+<li><strong>Hợp đồng thông minh tài chính</strong>: Cung cấp dữ liệu kinh tế để thực hiện các hợp đồng tương lai, quyền chọn, và các công cụ tài chính phái sinh khác.</li>
+</ul>
+
+
+
+<h3 class="wp-block-heading">Bảo hiểm phi tập trung</h3>
+
+
+
+<p>Oracles cung cấp dữ liệu về các sự kiện thời tiết, thiên tai, và các rủi ro khác để hỗ trợ hoạt động của các dự án bảo hiểm phi tập trung. Chúng giúp xác định và xác minh các yếu tố rủi ro, điều chỉnh mức độ bảo hiểm, và giải quyết các yêu cầu bồi thường một cách tự động và minh bạch.</p>
+
+
+
+<h3 class="wp-block-heading">Thị trường dự đoán</h3>
+
+
+
+<p>Oracles đóng vai trò quan trọng trong việc xác minh và cung cấp kết quả chính xác của các sự kiện trong tương lai cho thị trường dự đoán phi tập trung. Chúng giúp người dùng tham gia vào các phiếu cược và giao dịch dựa trên dự đoán về kết quả của các sự kiện chính trị, kinh tế, thể thao, và nhiều lĩnh vực khác.</p>
+
+
+
+<h3 class="wp-block-heading">Hợp đồng thông minh tự thiết lập</h3>
+
+
+
+<p>Oracles cung cấp dữ liệu cần thiết để kích hoạt và thực hiện các hợp đồng thông minh tự thiết lập, tức là các hợp đồng chỉ thực thi khi đạt được điều kiện nhất định từ dữ liệu bên ngoài chuỗi. Ví dụ, một hợp đồng thông minh có thể tự động chuyển tiền khi nhận được thông tin về việc hoàn thành một công việc hoặc giao hàng thành công từ một nguồn dữ liệu bên ngoài.</p>
+
+
+
+<h3 class="wp-block-heading">Hệ thống bầu cử và quản trị phi tập trung</h3>
+
+
+
+<p>Oracles giúp cung cấp dữ liệu về số liệu bầu cử, thông tin ủy viên, và các thông tin quan trọng khác để hỗ trợ việc tổ chức bầu cử và quản trị phi tập trung. Chúng đảm bảo tính minh bạch, chính xác, và không thể thay đổi của kết quả bầu cử, giúp ngăn chặn gian lận và tăng độ tin cậy của hệ thống.</p>
+
+
+
+<h3 class="wp-block-heading">NFT và chứng từ số</h3>
+
+
+
+<p>Trong lĩnh vực <a class="wpil_keyword_link" href="https://nam3t.com/nft-non-fungible-token-dot-pha-trong-tien-dien-tu/" title="NFT" data-wpil-keyword-link="linked" target="_blank" rel="noopener">NFT</a> và chứng từ số, Oracles giúp xác minh và cung cấp dữ liệu về giá trị, nguồn gốc, và các thông tin khác của tài sản kỹ thuật số, từ đó hỗ trợ việc giao dịch, bảo đảm, và quản lý tài sản kỹ thuật số một cách an toàn và minh bạch.</p>
+
+
+
+<p>Những ứng dụng của Oracles trong thế giới tiền mã hoá đa dạng và không ngừng phát triển, giúp mở rộng khả năng và tiềm năng của công nghệ blockchain và tiền mã hoá. Nhờ có nó, các ứng dụng blockchain có thể tận dụng dữ liệu từ thế giới thực, giải quyết các vấn đề phức tạp, và tạo ra những giải pháp mới cho nhiều lĩnh vực trong đời sống kinh tế và xã hội.</p>
+
+
+
+<h2 class="wp-block-heading">Tương lai của Oracles và Data Feeds</h2>
+
+
+
+<p>Tương lai của Oracles và Data Feeds đầy hứa hẹn, khi ngành công nghiệp tiền mã hoá và blockchain không ngừng phát triển. Dưới đây là một số xu hướng và tiềm năng trong tương lai:</p>
+
+
+
+<h3 class="wp-block-heading">Tăng cường tính phi tập trung và bảo mật</h3>
+
+
+
+<p>Các dự án Oracle sẽ tiếp tục nghiên cứu và phát triển các giải pháp để tăng cường tính phi tập trung, bảo mật và độ tin cậy của dữ liệu. Điều này có thể bao gồm việc sử dụng các thuật toán đồng thuận mới, mô hình kinh tế, và công nghệ bảo mật tiên tiến.</p>
+
+
+
+<h3 class="wp-block-heading">Tương tác giữa nhiều chuỗi</h3>
+
+
+
+<p>Với sự xuất hiện của các dự án blockchain liên kết và cầu nối giữa nhiều chuỗi (<a class="wpil_keyword_link" href="https://nam3t.com/cross-chain-swaps/" title="cross-chain" data-wpil-keyword-link="linked" target="_blank" rel="noopener">cross-chain</a>), các Oracle cũng sẽ phát triển các giải pháp để tương tác và cung cấp dữ liệu cho nhiều chuỗi khác nhau. Điều này sẽ tạo điều kiện cho các ứng dụng blockchain và tiền mã hoá hoạt động trên nhiều nền tảng khác nhau, mở rộng khả năng tương tác và hợp tác giữa các hệ sinh thái.</p>
+
+
+
+<h3 class="wp-block-heading">Hỗ trợ ứng dụng Web 3.0</h3>
+
+
+
+<p>Oracles và Data Feeds sẽ đóng vai trò quan trọng trong việc hỗ trợ các ứng dụng Web 3.0, giúp kết nối dữ liệu giữa chuỗi và bên ngoài chuỗi. Khi Web 3.0 ngày càng phát triển, nhu cầu về dữ liệu chính xác và đáng tin cậy sẽ ngày càng tăng, đẩy mạnh sự phát triển của các dự án Oracle.</p>
+
+
+
+<h3 class="wp-block-heading">Cải tiến công nghệ Data Feeds</h3>
+
+
+
+<p>Công nghệ Data Feeds sẽ được cải tiến để tăng cường tính minh bạch, chính xác, và độ tin cậy của dữ liệu. Điều này bao gồm việc phát triển các giải pháp xác thực nguồn gốc dữ liệu, cải thiện tốc độ cập nhật dữ liệu và giảm thiểu độ trễ trong quá trình truyền dữ liệu. Ngoài ra, các dự án cũng sẽ tập trung vào việc mở rộng nguồn dữ liệu và đa dạng hóa các loại dữ liệu hỗ trợ.</p>
+
+
+
+<h3 class="wp-block-heading">Ứng dụng trong nhiều lĩnh vực khác</h3>
+
+
+
+<p>Oracles và Data Feeds sẽ tiếp tục mở rộng ứng dụng của mình trong nhiều lĩnh vực khác ngoài tiền mã hoá, như y tế, giáo dục, năng lượng, vận tải, và nhiều ngành công nghiệp khác. Sự phát triển của chúng sẽ giúp tận dụng dữ liệu từ thế giới thực, giải quyết các vấn đề phức tạp, và tạo ra những giải pháp mới cho nhiều lĩnh vực trong đời sống kinh tế và xã hội.</p>
+
+
+
+<h2 class="wp-block-heading">Kết luận</h2>
+
+
+
+<p>Oracles và Data Feeds đóng vai trò quan trọng trong việc kết nối dữ liệu giữa thế giới thực và thế giới tiền mã hoá. Chúng giúp các ứng dụng blockchain truy cập dữ liệu chính xác, đáng tin cậy, và cập nhật từ nhiều nguồn dữ liệu bên ngoài chuỗi. Nhờ có chúng mà các ứng dụng trong lĩnh vực tài chính phi tập trung, bảo hiểm, thị trường dự đoán, hợp đồng thông minh, và nhiều lĩnh vực khác đã trở nên hiệu quả và đáng tin cậy hơn.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p>Tài liệu tham khảo:</p>
+
+
+
+<ol>
+<li><a href="https://chain.link/" target="_blank" rel="noreferrer noopener">Chainlink</a></li>
+
+
+
+<li><a href="https://bandprotocol.com/" target="_blank" rel="noreferrer noopener">Band Protocol</a></li>
+
+
+
+<li><a href="https://augur.net/" target="_blank" rel="noreferrer noopener">Augur</a></li>
+
+
+
+<li><a href="https://tellor.io/" target="_blank" rel="noreferrer noopener">Tellor</a></li>
+
+
+
+<li><a href="https://api3.org/" target="_blank" rel="noreferrer noopener">API3</a></li>
+</ol>
+
+
+
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nam3t.com/oracles-va-nguon-cap-du-lieu/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
