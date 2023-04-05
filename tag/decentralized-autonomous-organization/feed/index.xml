@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	 xmlns:media="http://search.yahoo.com/mrss/" >
+
+<channel>
+	<title>Decentralized Autonomous Organization &#8211; nam3t</title>
+	<atom:link href="https://nam3t.com/tag/decentralized-autonomous-organization/feed/" rel="self" type="application/rss+xml" />
+	<link>https://nam3t.com/</link>
+	<description>Cùng nhau tìm hiểu và phát triển cộng đồng crypto Việt Nam</description>
+	<lastBuildDate>Tue, 04 Apr 2023 06:35:29 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.2</generator>
+
+<image>
+	<url>https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/23020812/cropped-logo-transparent-32x32.png</url>
+	<title>Decentralized Autonomous Organization &#8211; nam3t</title>
+	<link>https://nam3t.com/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>DAO: Toàn tập về tổ chức tự trị phi tập trung</title>
+		<link>https://nam3t.com/dao-toan-tap-ve-to-chuc-tu-tri-phi-tap-trung/?utm_source=rss#038;utm_medium=rss&#038;utm_campaign=dao-toan-tap-ve-to-chuc-tu-tri-phi-tap-trung</link>
+					<comments>https://nam3t.com/dao-toan-tap-ve-to-chuc-tu-tri-phi-tap-trung/#respond</comments>
+		
+		<dc:creator><![CDATA[nam3t]]></dc:creator>
+		<pubDate>Wed, 05 Apr 2023 00:11:00 +0000</pubDate>
+				<category><![CDATA[Tiền điện tử nâng cao]]></category>
+		<category><![CDATA[DAO]]></category>
+		<category><![CDATA[Decentralized Autonomous Organization]]></category>
+		<guid isPermaLink="false">https://nam3t.com/?p=1247</guid>
+
+					<description><![CDATA[Giới thiệu về Decentralized Autonomous Organizations (DAOs) Trong thế giới tiền điện tử ngày càng phát triển, Decentralized Autonomous Organizations (DAOs) đóng vai trò quan trọng trong việc thúc đẩy sự dân chủ hóa và minh bạch. Trong phần này, chúng ta sẽ tìm hiểu về định nghĩa và lịch sử phát triển của chúng. [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<h2 class="wp-block-heading">Giới thiệu về Decentralized Autonomous Organizations (DAOs)</h2>
+
+
+
+<p>Trong thế giới tiền điện tử ngày càng phát triển, Decentralized Autonomous Organizations (DAOs) đóng vai trò quan trọng trong việc thúc đẩy sự dân chủ hóa và minh bạch. Trong phần này, chúng ta sẽ tìm hiểu về định nghĩa và lịch sử phát triển của chúng.</p>
+
+
+
+<h3 class="wp-block-heading">Định nghĩa DAO</h3>
+
+
+
+<p>DAO, hay Decentralized Autonomous Organization, là một tổ chức hoạt động dựa trên các nguyên tắc phi tập trung, tự động và dựa vào công nghệ blockchain. Nó không có một cấu trúc truyền thống như công ty hay tổ chức thông thường. Thay vào đó, nó dựa trên các giao thức mã nguồn mở, hợp đồng thông minh (smart contracts), và sự tham gia của cộng đồng để ra quyết định và điều hành.</p>
+
+
+
+<h3 class="wp-block-heading">Lịch sử và sự phát triển của DAO</h3>
+
+
+
+<p>DAO không phải là khái niệm mới trong ngành tiền điện tử. Ý tưởng về một tổ chức phi tập trung đã xuất hiện từ những năm đầu của sự ra đời của tiền điện tử.</p>
+
+
+
+<ul>
+<li><strong>2013-2014:</strong> Đầu tiên, nhà sáng lập của Ethereum, Vitalik Buterin, đã đề cập đến khái niệm DAO trong bài viết trên trang blog của mình. Lúc này, ý tưởng về nó còn rất mới mẻ và chưa được thực hiện rộng rãi.</li>
+
+
+
+<li><strong>2016:</strong> Sự kiện DAO lớn đầu tiên trong lịch sử là The DAO, được thành lập vào năm 2016. The DAO thu hút được một lượng lớn vốn <a class="wpil_keyword_link" href="https://nam3t.com/chon-dong-tien-dien-tu-nao-de-dau-tu/" title="đầu tư" data-wpil-keyword-link="linked" target="_blank" rel="noopener">đầu tư</a> từ cộng đồng, tuy nhiên, một vụ tấn công lợi dụng lỗ hổng trong mã nguồn đã khiến dự án này sụp đổ.</li>
+
+
+
+<li><strong>2017 &#8211; hiện tại:</strong> Sau vụ The DAO, cộng đồng tiền điện tử đã rút ra được nhiều bài học quý giá và tiếp tục phát triển các dự án mới với các cơ chế bảo mật và quản lý tốt hơn. Các dự án nổi tiếng hiện nay bao gồm MakerDAO, Aragon, Kyber Network, và nhiều dự án khác.</li>
+</ul>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="509" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132259/Cach-hoat-dong-cua-DAO-1024x509.png" alt="Cách hoạt động của DAO" class="wp-image-1344" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132259/Cach-hoat-dong-cua-DAO-1024x509.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132259/Cach-hoat-dong-cua-DAO-300x149.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132259/Cach-hoat-dong-cua-DAO-768x382.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132259/Cach-hoat-dong-cua-DAO-360x180.png 360w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132259/Cach-hoat-dong-cua-DAO-750x373.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132259/Cach-hoat-dong-cua-DAO-1140x567.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132259/Cach-hoat-dong-cua-DAO.png 1491w" sizes="(max-width: 1024px) 100vw, 1024px" title="DAO: Toàn tập về tổ chức tự trị phi tập trung 1"><figcaption>DAO: Toàn tập về tổ chức tự trị phi tập trung 5</figcaption></figure>
+
+
+
+<h2 class="wp-block-heading">Cách hoạt động của DAO</h2>
+
+
+
+<p>DAO hoạt động dựa trên <a class="wpil_keyword_link" href="https://nam3t.com/gioi-thieu-ve-cong-nghe-blockchain-moi-thu-ban-can-biet/" title="công nghệ blockchain" data-wpil-keyword-link="linked" target="_blank" rel="noopener">công nghệ blockchain</a> và hợp đồng thông minh, giúp tổ chức hoạt động một cách tự động, minh bạch và không bị kiểm soát bởi một bên trung gian. Trong phần này, chúng ta sẽ tìm hiểu về cách thức hoạt động thông qua quy trình ra quyết định, cơ chế phân quyền và quản trị, cũng như vai trò của token.</p>
+
+
+
+<h3 class="wp-block-heading">Quy trình ra quyết định thông qua biểu quyết</h3>
+
+
+
+<p>Trong DAO, quyết định được đưa ra thông qua việc biểu quyết của cộng đồng. Thành viên sử dụng token của họ để biểu quyết cho hoặc chống lại các đề xuất liên quan đến quản lý, điều hành, hoặc đầu tư vào dự án. Biểu quyết được thực hiện dựa trên hợp đồng thông minh, đảm bảo tính công bằng và minh bạch trong quá trình ra quyết định.</p>
+
+
+
+<h3 class="wp-block-heading">Cơ chế phân quyền và quản trị</h3>
+
+
+
+<p>DAO không có một cấu trúc tổ chức truyền thống, mà thay vào đó, nó dựa vào sự phân quyền để phân bổ quyền lực và trách nhiệm. Thành viên có thể đảm nhiệm các vai trò khác nhau như nhà phát triển, người quản lý, hay nhà đầu tư, tùy thuộc vào đóng góp và năng lực của họ. Các vai trò này không cố định và có thể thay đổi theo thời gian, tạo điều kiện cho sự linh hoạt trong quá trình hoạt động.</p>
+
+
+
+<h3 class="wp-block-heading">Token và quyền lực trong DAO</h3>
+
+
+
+<p>Token không chỉ là đơn vị giá trị mà còn đại diện cho quyền lực của người sở hữu. Thành viên càng có nhiều token, họ càng có nhiều quyền lực trong việc đưa ra quyết định và tham gia vào các hoạt động. Điều này giúp tạo ra một cơ chế động viên thành viên đóng góp và tham gia tích cực, đồng thời cũng tạo ra một mô hình kinh doanh bền vững cho tổ chức.</p>
+
+
+
+<h2 class="wp-block-heading">Ưu điểm và nhược điểm của DAO</h2>
+
+
+
+<p>DAO mang lại nhiều ưu điểm trong việc thúc đẩy sự dân chủ hóa và minh bạch, tuy nhiên, cũng tồn tại một số nhược điểm cần lưu ý. Dưới đây là các ưu điểm và nhược điểm đáng chú ý.</p>
+
+
+
+<h3 class="wp-block-heading">Ưu điểm</h3>
+
+
+
+<h4 class="wp-block-heading">Tính dân chủ và minh bạch</h4>
+
+
+
+<p>DAO đảm bảo tính dân chủ và minh bạch trong quá trình ra quyết định và hoạt động của tổ chức. Cộng đồng được tham gia vào việc đưa ra quyết định thông qua biểu quyết, giúp giảm thiểu hiệu ứng của quyền lực tập trung và ngăn chặn việc lạm quyền.</p>
+
+
+
+<h4 class="wp-block-heading">Giảm thiểu rủi ro tập trung</h4>
+
+
+
+<p>Với cơ chế hoạt động phi tập trung, DAO giúp giảm thiểu rủi ro tập trung thường gặp ở các tổ chức truyền thống. Điều này giúp ngăn ngừa sự sụp đổ của tổ chức do những sai lầm của cá nhân hay nhóm người cầm quyền.</p>
+
+
+
+<h4 class="wp-block-heading">Khả năng tự điều chỉnh và linh hoạt</h4>
+
+
+
+<p>DAO có khả năng tự điều chỉnh và linh hoạt trong việc đáp ứng nhu cầu thay đổi của thị trường và cộng đồng. Thay vì phải chịu sự kiểm soát của một bên trung gian, DAO dựa trên sự đồng thuận của cộng đồng để ra quyết định, giúp nâng cao tính linh hoạt và hiệu quả.</p>
+
+
+
+<h3 class="wp-block-heading">Nhược điểm</h3>
+
+
+
+<h4 class="wp-block-heading">Các vấn đề về quy mô và hiệu quả</h4>
+
+
+
+<p>Mặc dù DAO có tính dân chủ và minh bạch, nhưng việc đưa ra quyết định thông qua biểu quyết của cộng đồng có thể dẫn đến các vấn đề về quy mô và hiệu quả. Trong một số trường hợp, việc đưa ra quyết định nhanh chóng và kịp thời có thể bị chậm trễ do sự tham gia của quá nhiều thành viên.</p>
+
+
+
+<h4 class="wp-block-heading">Rủi ro liên quan đến mã nguồn mở</h4>
+
+
+
+<p>DAO sử dụng mã nguồn mở và hợp đồng thông minh, điều này tiềm ẩn rủi ro về bảo mật. Nếu mã nguồn chứa lỗ hổng, DAO có thể bể trở thành mục tiêu của các cuộc tấn công, gây tổn hại cho cộng đồng và dự án. Vụ tấn công The DAO năm 2016 là một ví dụ điển hình về rủi ro này.</p>
+
+
+
+<h4 class="wp-block-heading">Khó kiểm soát và quản lý hành vi của thành viên</h4>
+
+
+
+<p>Trong một tổ chức phi tập trung như DAO, việc kiểm soát và quản lý hành vi của thành viên trở nên khó khăn hơn so với các tổ chức truyền thống. Điều này có thể dẫn đến mâu thuẫn giữa các thành viên, ảnh hưởng đến hiệu quả hoạt động của DAO. Ngoài ra, việc ngăn chặn các hành vi gian lận, lừa đảo cũng trở nên thách thức hơn.</p>
+
+
+
+<h2 class="wp-block-heading">Các ví dụ về DAO nổi bật</h2>
+
+
+
+<p>Dưới đây là một số ví dụ nổi bật trong ngành tiền điện tử, giúp bạn hiểu rõ hơn về cách thức hoạt động và ứng dụng của DAO trong thực tế.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="687" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1024x687.png" alt="MakerDAO" class="wp-image-1077" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1024x687.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-300x201.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-768x515.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-750x503.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO-1140x765.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/24121610/MakerDAO.png 1273w" sizes="(max-width: 1024px) 100vw, 1024px" title="DAO: Toàn tập về tổ chức tự trị phi tập trung 2"><figcaption>DAO: Toàn tập về tổ chức tự trị phi tập trung 6</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">MakerDAO</h3>
+
+
+
+<p>MakerDAO là một trong những dự án DAO nổi tiếng nhất hiện nay, chủ yếu tập trung vào việc cung cấp nền tảng cho việc tạo ra DAI &#8211; một loại <a class="wpil_keyword_link" href="https://nam3t.com/cac-loai-tien-dien-tu-huong-dan-toan-dien/" title="stablecoin" data-wpil-keyword-link="linked" target="_blank" rel="noopener">stablecoin</a> được đảm bảo bằng tài sản kỹ thuật số. MakerDAO sử dụng hệ thống hợp đồng thông minh để tự động điều chỉnh lãi suất, đảm bảo giá trị của DAI luôn ổn định. Thành viên có thể tham gia quản lý và ra quyết định thông qua việc sử dụng token MKR.</p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="830" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132538/aragon-1024x830.png" alt="aragon" class="wp-image-1348" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132538/aragon-1024x830.png 1024w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132538/aragon-300x243.png 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132538/aragon-768x622.png 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132538/aragon-1536x1245.png 1536w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132538/aragon-750x608.png 750w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132538/aragon-1140x924.png 1140w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/04/04132538/aragon.png 1956w" sizes="(max-width: 1024px) 100vw, 1024px" title="DAO: Toàn tập về tổ chức tự trị phi tập trung 3"><figcaption>DAO: Toàn tập về tổ chức tự trị phi tập trung 7</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Aragon</h3>
+
+
+
+<p>Aragon là một dự án giúp tạo ra các tổ chức phi tập trung dễ dàng và nhanh chóng. Aragon cung cấp các công cụ và nền tảng để người dùng tạo và quản lý DAO của riêng mình, từ việc tạo token, quản lý tài sản, đến việc tổ chức biểu quyết. Aragon có mục tiêu trở thành một nền tảng quản lý toàn diện cho các tổ chức phi tập trung.</p>
+
+
+
+<figure class="wp-block-image size-full"><img decoding="async" width="1000" height="563" src="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network.jpg" alt="Kyber Network" class="wp-image-1137" srcset="https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network.jpg 1000w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-300x169.jpg 300w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-768x432.jpg 768w, https://wp-nam3t-bucket.storage.googleapis.com/wp-content/uploads/2023/03/26113542/Kyber-Network-750x422.jpg 750w" sizes="(max-width: 1000px) 100vw, 1000px" title="DAO: Toàn tập về tổ chức tự trị phi tập trung 4"><figcaption>DAO: Toàn tập về tổ chức tự trị phi tập trung 8</figcaption></figure>
+
+
+
+<h3 class="wp-block-heading">Kyber Network</h3>
+
+
+
+<p>Kyber Network là một dự án DAO tập trung vào việc cung cấp giải pháp trao đổi tiền điện tử phi tập trung. Kyber Network sử dụng hệ thống hợp đồng thông minh để tự động hoàn thành các giao dịch trao đổi giữa các loại token khác nhau mà không cần thông qua một <a class="wpil_keyword_link" href="https://nam3t.com/vai-tro-cua-san-giao-dich-tien-dien-tu/" title="sàn giao dịch" data-wpil-keyword-link="linked" target="_blank" rel="noopener">sàn giao dịch</a> trung gian. Thành viên của Kyber Network có thể tham gia quản lý và ra quyết định thông qua việc sử dụng token KNC.</p>
+
+
+
+<h2 class="wp-block-heading">Tương lai của DAO trong ngành công nghiệp tiền điện tử</h2>
+
+
+
+<p>DAO đang chứng tỏ tiềm năng lớn trong việc cải tiến và đổi mới các mô hình tổ chức truyền thống, đặc biệt là trong ngành công nghiệp tiền điện tử. Dưới đây là một số xu hướng và triển vọng trong tương lai gần:</p>
+
+
+
+<h3 class="wp-block-heading">Tăng sự hợp tác giữa các DAO</h3>
+
+
+
+<p>Trong tương lai, chúng ta có thể chứng kiến sự hợp tác ngày càng chặt chẽ giữa các DAO khác nhau để tận dụng lợi thế cạnh tranh, chia sẻ nguồn lực và tối ưu hóa hiệu quả hoạt động. Điều này sẽ thúc đẩy sự phát triển của mạng lưới DAO, giúp các tổ chức phi tập trung đạt được quy mô lớn hơn và tạo ra nhiều giá trị hơn.</p>
+
+
+
+<h3 class="wp-block-heading">Phát triển công nghệ và giải pháp bảo mật</h3>
+
+
+
+<p>Với việc công nghệ blockchain và hợp đồng thông minh ngày càng phát triển, các giải pháp bảo mật và ứng dụng của DAO cũng sẽ được cải tiến và mở rộng. Điều này sẽ giúp giảm thiểu rủi ro liên quan đến mã nguồn mở và tăng cường tính bảo mật cho các dự án.</p>
+
+
+
+<h3 class="wp-block-heading">Mở rộng ứng dụng của DAO</h3>
+
+
+
+<p>DAO không chỉ giới hạn trong ngành công nghiệp tiền điện tử, mà còn có tiềm năng mở rộng ứng dụng trong nhiều lĩnh vực khác như quản lý tài sản, bất động sản, giáo dục, và chăm sóc sức khỏe. Việc kết hợp công nghệ blockchain và mô hình tổ chức phi tập trung sẽ mở ra cơ hội cho các dự án và ứng dụng đổi mới, tạo ra nhiều giá trị xã hội và kinh tế.</p>
+
+
+
+<h3 class="wp-block-heading">Thay đổi quan niệm về quản trị và tổ chức</h3>
+
+
+
+<p>DAO có thể thay đổi quan niệm truyền thống về quản trị và tổ chức, khi mà sự dân chủ hóa, minh bạch và khả năng tự điều chỉnh trở thành những yếu tố quan trọng trong việc xây dựng và phát triển các tổ chức. Điều này có thể dẫn đến sự thay đổi trong cách thức quản lý và vận hành của các tổ chức truyền thống, đẩy mạnh sự chuyển đổi hướng tới mô hình tổ chức dựa trên cộng đồng và sự hợp tác giữa các bên liên quan.</p>
+
+
+
+<h3 class="wp-block-heading">Pháp luật và quy định</h3>
+
+
+
+<p>Khi DAO ngày càng trở nên phổ biến, chúng ta có thể mong đợi sự thay đổi trong pháp luật và quy định liên quan đến các tổ chức phi tập trung. Điều này đòi hỏi các cơ quan quản lý phải nắm bắt và thích ứng với sự phát triển của công nghệ và mô hình tổ chức mới, đồng thời tạo ra môi trường pháp lý ổn định và minh bạch cho sự phát triển của DAO.</p>
+
+
+
+<h2 class="wp-block-heading">Kết luận và nhận xét</h2>
+
+
+
+<p>Decentralized Autonomous Organizations (DAO) là một mô hình tổ chức đầy tiềm năng và đang ngày càng trở nên phổ biến trong ngành công nghiệp tiền điện tử. Với ưu điểm về tính dân chủ, minh bạch, và khả năng tự điều chỉnh, nó đem lại nhiều giá trị đổi mới cho cách thức quản trị và vận hành của các tổ chức.</p>
+
+
+
+<p>Tuy nhiên, nó cũng gặp phải những thách thức và nhược điểm nhất định, như các vấn đề về quy mô, hiệu quả, rủi ro bảo mật, và việc kiểm soát hành vi của thành viên. Để phát triển bền vững, các dự án cần nỗ lực cải tiến và tìm kiếm giải pháp đối phó với các nhược điểm này.</p>
+
+
+
+<p>Trong tương lai, chúng ta có thể mong đợi sự hợp tác ngày càng chặt chẽ giữa các DAO, sự phát triển của công nghệ và giải pháp bảo mật, mở rộng ứng dụng trong nhiều lĩnh vực, và sự thay đổi trong quan niệm về quản trị và tổ chức. Đồng thời, việc tạo ra một môi trường pháp lý ổn định và minh bạch cũng đóng vai trò quan trọng trong sự phát triển.</p>
+
+
+
+<p>Cuối cùng, để đạt được hiệu quả cao nhất từ mô hình tổ chức DAO, cộng đồng tiền điện tử cần không ngừng học hỏi, nghiên cứu và thích ứng với sự phát triển của công nghệ và xu hướng của thị trường.</p>
+
+
+
+<hr class="wp-block-separator has-alpha-channel-opacity" />
+
+
+
+<p>Tài liệu tham khảo:</p>
+
+
+
+<ol>
+<li>Buterin, V. (2014). DAOs, DACs, DAs and More: An Incomplete Terminology Guide. Ethereum Blog. Link: <a href="https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide" target="_blank" rel="noreferrer noopener">https://blog.ethereum.org/2014/05/06/daos-dacs-das-and-more-an-incomplete-terminology-guide/</a></li>
+
+
+
+<li>Swan, M. (2015). Blockchain: Blueprint for a New Economy. O&#8217;Reilly Media.</li>
+
+
+
+<li>Aragon. (2021). Aragon: Build unstoppable organizations on Ethereum. Truy cập từ: <a href="https://aragon.org/" target="_blank" rel="noreferrer noopener">https://aragon.org/</a></li>
+
+
+
+<li>MakerDAO. (2021). Maker: Unlock the Power of Decentralized Finance. Truy cập từ: <a href="https://makerdao.com/en/" target="_blank" rel="noreferrer noopener">https://makerdao.com/en/</a></li>
+
+
+
+<li>Kyber Network. (2021). Kyber Network: The On-chain Liquidity Protocol. Truy cập từ: <a href="https://kyber.network/" target="_blank" rel="noreferrer noopener">https://kyber.network/</a></li>
+</ol>
+
+
+
+<div class="wp-block-group is-layout-constrained"><div class="wp-block-group__inner-container">
+<hr class="wp-block-separator has-alpha-channel-opacity"/>
+
+
+
+<p>Cảm ơn bạn đã dành thời gian đọc hết bài viết này, bạn có ý kiến hay thắc mắc gì, đừng ngại hãy để lại bình luận ở bên dưới để mình cùng thảo luận! Thấy bổ ích thì bạn có thể like và chia sẻ để ủng hộ mình ra tiếp những bài sắp tới nhé!!!</p>
+</div></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://nam3t.com/dao-toan-tap-ve-to-chuc-tu-tri-phi-tap-trung/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
