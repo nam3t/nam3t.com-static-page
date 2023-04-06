@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="//34.126.125.106/news-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-news/0.9 http://www.google.com/schemas/sitemap-news/0.9/sitemap-news.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
 	<url>
+		<loc>https://nam3t.com/quan-ly-rui-ro-nang-cao/</loc>
+		<news:news>
+			<news:publication>
+				<news:name>nam3t</news:name>
+				<news:language>vi</news:language>
+			</news:publication>
+			<news:publication_date>2023-04-06T07:11:00+07:00</news:publication_date>
+			<news:title><![CDATA[Quản lý rủi ro nâng cao trong giao dịch tiền điện tử]]></news:title>
+		</news:news>
+	</url>
+	<url>
 		<loc>https://nam3t.com/dao-toan-tap-ve-to-chuc-tu-tri-phi-tap-trung/</loc>
 		<news:news>
 			<news:publication>
@@ -9,17 +20,6 @@
 			</news:publication>
 			<news:publication_date>2023-04-05T07:11:00+07:00</news:publication_date>
 			<news:title><![CDATA[DAO: Toàn tập về tổ chức tự trị phi tập trung]]></news:title>
-		</news:news>
-	</url>
-	<url>
-		<loc>https://nam3t.com/bao-hiem-tien-dien-tu/</loc>
-		<news:news>
-			<news:publication>
-				<news:name>nam3t</news:name>
-				<news:language>vi</news:language>
-			</news:publication>
-			<news:publication_date>2023-04-04T07:11:00+07:00</news:publication_date>
-			<news:title><![CDATA[Bảo hiểm Tiền điện tử: Bảo vệ tài sản của bạn toàn diện]]></news:title>
 		</news:news>
 	</url>
 </urlset>
